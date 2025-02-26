@@ -11755,6 +11755,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_master_warrior": {
+    "criteria": {
+      "bind": "2025-02-26 21:15:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
@@ -11824,6 +11830,12 @@
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_warrior": {
+    "criteria": {
+      "bind": "2025-02-26 21:11:56 +0000"
     },
     "done": true
   },

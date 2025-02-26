@@ -17042,6 +17042,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-02-26 21:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-26 20:53:00 +0000"
