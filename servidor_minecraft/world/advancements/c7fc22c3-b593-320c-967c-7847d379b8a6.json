@@ -12152,9 +12152,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+  "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+      "has_crossbow": "2025-02-26 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-02-26 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
+    "criteria": {
+      "has_horn_coral": "2025-02-26 23:02:48 +0000"
     },
     "done": true
   },
@@ -12167,6 +12179,30 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
     },
     "done": true
   },
@@ -12188,12 +12224,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/andesite_pedestal": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
@@ -12206,45 +12236,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_crossbow": {
-    "criteria": {
-      "has_crossbow": "2025-02-26 23:02:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
-    },
-    "done": true
-  },
-  "more_rpg_content:bow_way": {
-    "criteria": {
-      "items": "2025-02-26 23:02:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
-    "criteria": {
-      "has_horn_coral": "2025-02-26 23:02:48 +0000"
     },
     "done": true
   },
@@ -12263,6 +12263,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-26 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 23:18:46 +0000"
     },
     "done": true
   },

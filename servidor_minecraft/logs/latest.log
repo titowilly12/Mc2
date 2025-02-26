@@ -5880,3 +5880,118 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 [23:21:42] [Server thread/INFO]: <Nikuus> s
 [23:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6866ms or 137 ticks behind
 [23:22:03] [Server thread/INFO]: Setback has made the advancement [Bright-o-Vision]
+[23:22:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6285ms or 125 ticks behind
+[23:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
+[23:23:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5224ms or 104 ticks behind
+[23:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
+[23:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6610ms or 132 ticks behind
+[23:23:53] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 121257
+[23:23:53] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 121257
+[23:23:54] [Server thread/INFO]: Nikuus was slain by Drowned
+[23:23:57] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 121164
+[23:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
+[23:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5457ms or 109 ticks behind
+[23:24:34] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 122174
+[23:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5936ms or 118 ticks behind
+[23:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4743ms or 94 ticks behind
+[23:25:14] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[23:25:14] [Server thread/INFO]: Nikuus left the game
+[23:25:14] [Server thread/INFO]: remove player wand
+[23:25:14] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[23:25:18] [Server thread/INFO]: [Handshake] Sending channel query
+[23:25:18] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[23:25:18] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[23:25:19] [Server thread/INFO]: Nikuus[/127.61.205.57:48669] logged in with entity id 123846 at (145.49647057763974, 63.085764312744146, 93.8496098613674)
+[23:25:19] [Server thread/INFO]: Sending server config values to client
+[23:25:19] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[23:25:19] [Server thread/INFO]: Loading config from file...
+[23:25:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:25:19] [Server thread/INFO]: Nikuus joined the game
+[23:25:19] [Server thread/INFO]: Loading Configs for Sortilege
+[23:25:19] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:25:19] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[23:25:19] [Server thread/INFO]: PLAYER_JOIN
+[23:25:19] [Server thread/INFO]: add_player wand
+[23:25:19] [Server thread/INFO]: config sent
+[23:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4939ms or 98 ticks behind
+[23:25:31] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[23:25:31] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[23:25:31] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[23:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[23:25:59] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 122175
+[23:26:00] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 122324
+[23:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[23:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[23:26:33] [Server thread/INFO]: <fandangolol> upgrade
+[23:26:41] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[23:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[23:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
+[23:27:19] [Server thread/INFO]: Nikuus lost connection: Timed out
+[23:27:19] [Server thread/INFO]: Nikuus left the game
+[23:27:19] [Server thread/INFO]: remove player wand
+[23:27:19] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[23:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4292ms or 85 ticks behind
+[23:27:48] [Server thread/INFO]: Made Setback a server operator
+[23:27:48] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[23:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11847ms or 236 ticks behind
+[23:27:51] [Server thread/INFO]: Made Setback no longer a server operator
+[23:27:51] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[23:27:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:27:55] [Server thread/INFO]: deopsetback<--[HERE]
+[23:28:00] [Server thread/INFO]: Nothing changed. The player is not an operator
+[23:28:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
+[23:28:16] [Server thread/INFO]: [Handshake] Sending channel query
+[23:28:16] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[23:28:16] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[23:28:17] [Server thread/INFO]: Nikuus[/127.61.205.57:51507] logged in with entity id 125244 at (145.49647057763974, 63.085764312744146, 93.8496098613674)
+[23:28:17] [Server thread/INFO]: Sending server config values to client
+[23:28:17] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[23:28:17] [Server thread/INFO]: Loading config from file...
+[23:28:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:28:17] [Server thread/INFO]: Nikuus joined the game
+[23:28:17] [Server thread/INFO]: Loading Configs for Sortilege
+[23:28:17] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:28:17] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[23:28:17] [Server thread/INFO]: PLAYER_JOIN
+[23:28:17] [Server thread/INFO]: add_player wand
+[23:28:17] [Server thread/INFO]: config sent
+[23:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5940ms or 118 ticks behind
+[23:28:38] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[23:28:38] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[23:28:38] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[23:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
+[23:29:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[23:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7712ms or 154 ticks behind
+[23:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6455ms or 129 ticks behind
+[23:29:58] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[23:30:17] [Server thread/INFO]: Nikuus lost connection: Timed out
+[23:30:17] [Server thread/INFO]: Nikuus left the game
+[23:30:17] [Server thread/INFO]: remove player wand
+[23:30:17] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[23:30:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7971ms or 159 ticks behind
+[23:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7866ms or 157 ticks behind
+[23:31:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9762ms or 195 ticks behind
+[23:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8690ms or 173 ticks behind
+[23:31:48] [Server thread/INFO]: [Handshake] Sending channel query
+[23:31:48] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[23:31:48] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[23:31:49] [Server thread/INFO]: Nikuus[/127.61.205.57:52037] logged in with entity id 131254 at (145.49647057763974, 63.085764312744146, 93.8496098613674)
+[23:31:49] [Server thread/INFO]: Sending server config values to client
+[23:31:49] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[23:31:49] [Server thread/INFO]: Loading config from file...
+[23:31:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:31:49] [Server thread/INFO]: Nikuus joined the game
+[23:31:49] [Server thread/INFO]: Loading Configs for Sortilege
+[23:31:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:31:49] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[23:31:49] [Server thread/INFO]: PLAYER_JOIN
+[23:31:49] [Server thread/INFO]: add_player wand
+[23:31:49] [Server thread/INFO]: config sent
+[23:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9572ms or 191 ticks behind
+[23:31:57] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[23:31:57] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[23:31:57] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[23:32:16] [Worker-Main-23/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[23:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8821ms or 176 ticks behind
+[23:32:26] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos class_2338{x=-2357, y=72, z=741}
+[23:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10938ms or 218 ticks behind

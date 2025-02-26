@@ -2553,6 +2553,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-26 23:20:49 +0000",
       "minecraft:sunflower_plains": "2025-02-25 00:10:52 +0000",
       "minecraft:birch_forest": "2025-02-25 00:03:44 +0000",
       "minecraft:wooded_badlands": "2025-02-23 21:30:22 +0000",
@@ -2562,8 +2563,10 @@
       "minecraft:sparse_jungle": "2025-02-23 23:04:22 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 23:19:29 +0000",
+      "minecraft:cold_ocean": "2025-02-26 23:30:11 +0000",
       "minecraft:forest": "2025-02-23 23:04:41 +0000",
       "minecraft:lush_caves": "2025-02-26 05:14:01 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-26 23:30:21 +0000",
       "minecraft:desert": "2025-02-23 21:26:37 +0000",
       "minecraft:jungle": "2025-02-23 23:04:30 +0000",
       "minecraft:ocean": "2025-02-23 23:34:35 +0000",
@@ -2579,6 +2582,7 @@
       "baked_potato": "2025-02-23 21:43:25 +0000",
       "bread": "2025-02-23 21:23:48 +0000",
       "cookie": "2025-02-24 03:07:02 +0000",
+      "rotten_flesh": "2025-02-26 23:25:39 +0000",
       "golden_carrot": "2025-02-25 04:13:13 +0000",
       "cod": "2025-02-23 23:44:18 +0000"
     },
@@ -20972,6 +20976,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-26 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-02-26 23:28:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_frame": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
@@ -20984,6 +21000,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-26 23:28:20 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/allium": {
+    "criteria": {
+      "has_flower": "2025-02-26 23:28:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/cincinnasite_button": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
@@ -20993,6 +21021,18 @@
   "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 23:28:20 +0000"
     },
     "done": true
   },
@@ -21014,15 +21054,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_chestplate": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_chains": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-26 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-26 23:28:19 +0000"
     },
     "done": true
   },
@@ -21056,9 +21126,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2025-02-26 23:12:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-26 23:28:20 +0000"
     },
     "done": true
   },
