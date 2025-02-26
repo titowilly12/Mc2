@@ -174,6 +174,8 @@
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "temperate_grove": "2025-02-24 07:01:57 +0000",
       "cold_river": "2025-02-24 06:50:17 +0000",
+      "grassland": "2025-02-26 07:11:43 +0000",
+      "prairie": "2025-02-26 07:11:56 +0000",
       "gravel_beach": "2025-02-24 06:49:46 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
       "rainforest": "2025-02-23 21:59:29 +0000",
@@ -218,6 +220,8 @@
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "temperate_grove": "2025-02-24 07:01:57 +0000",
       "cold_river": "2025-02-24 06:50:17 +0000",
+      "grassland": "2025-02-26 07:11:43 +0000",
+      "prairie": "2025-02-26 07:11:56 +0000",
       "gravel_beach": "2025-02-24 06:49:46 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
       "rainforest": "2025-02-23 21:59:29 +0000",
@@ -2609,6 +2613,7 @@
       "minecraft:pillager": "2025-02-24 07:11:54 +0000",
       "minecraft:blaze": "2025-02-26 05:45:49 +0000",
       "minecraft:skeleton": "2025-02-24 02:47:40 +0000",
+      "minecraft:ghast": "2025-02-26 06:52:29 +0000",
       "minecraft:hoglin": "2025-02-25 03:47:15 +0000",
       "minecraft:magma_cube": "2025-02-26 05:51:20 +0000",
       "minecraft:spider": "2025-02-23 22:27:38 +0000",
@@ -20133,6 +20138,7 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-26 05:36:51 +0000",
       "betternether:nether_swampland_terraces": "2025-02-25 03:07:11 +0000",
+      "betternether:wart_forest": "2025-02-26 06:40:52 +0000",
       "betternether:soul_plain": "2025-02-26 05:38:28 +0000"
     },
     "done": false
@@ -20389,15 +20395,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
+  "supplementaries:recipes/globe_sepia": {
     "criteria": {
-      "has_logs": "2025-02-26 05:24:56 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
-    "criteria": {
-      "has_item": "2025-02-26 04:26:10 +0000"
+      "has_globe": "2025-02-26 03:57:58 +0000"
     },
     "done": true
   },
@@ -20407,7 +20407,85 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-26 04:26:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-02-26 04:26:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-02-26 04:26:10 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_carpet": {
+    "criteria": {
+      "has_patterned_wool": "2025-02-26 04:41:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-26 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-26 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 05:24:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
     "criteria": {
       "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
     },
@@ -20431,18 +20509,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-26 04:47:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-02-26 05:46:18 +0000"
@@ -20461,33 +20527,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
-    "criteria": {
-      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-26 05:46:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-26 04:47:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
     },
     "done": true
   },
@@ -20497,45 +20539,429 @@
     },
     "done": true
   },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_globe": "2025-02-26 03:57:58 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic": {
-    "criteria": {
-      "has_item": "2025-02-26 04:26:10 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
-    "criteria": {
-      "has_item": "2025-02-26 04:26:10 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
       "has_item": "2025-02-26 05:46:18 +0000"
     },
     "done": true
   },
-  "brewery:recipes/patterned_carpet": {
+  "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
-      "has_patterned_wool": "2025-02-26 04:41:36 +0000"
+      "has_netherite_scrap": "2025-02-26 07:01:47 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
     "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+      "has_block.minecraft.smooth_basalt": "2025-02-26 06:29:08 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
-      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 07:01:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-02-26 06:55:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-02-26 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-02-26 06:47:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-02-26 06:19:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-26 06:43:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 07:01:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-26 06:41:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-26 07:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-26 06:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-26 06:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-02-26 07:01:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/light_blue_coffin": {
+    "criteria": {
+      "has_item": "2025-02-26 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 07:01:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 06:42:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-26 06:46:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-02-26 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-26 06:43:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-26 06:19:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 06:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-02-26 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-02-26 06:42:43 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-02-26 06:59:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-02-26 06:19:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-26 06:41:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-26 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/gunpowder_from_tnt": {
+    "criteria": {
+      "has_tnt": "2025-02-26 06:38:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-26 06:19:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-26 06:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-02-26 06:19:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-26 06:43:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-02-26 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-26 06:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-26 07:28:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 07:02:12 +0000"
     },
     "done": true
   },
