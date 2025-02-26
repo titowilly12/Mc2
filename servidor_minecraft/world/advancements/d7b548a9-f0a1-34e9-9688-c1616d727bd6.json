@@ -169,8 +169,10 @@
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
       "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "boreal_forest": "2025-02-26 23:33:13 +0000",
       "infernal_holt": "2025-02-25 03:08:46 +0000",
       "bamboo_forest": "2025-02-23 23:05:58 +0000",
+      "cold_boreal_taiga": "2025-02-26 23:33:42 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "temperate_grove": "2025-02-24 07:01:57 +0000",
       "cold_river": "2025-02-24 06:50:17 +0000",
@@ -216,7 +218,9 @@
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
       "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "boreal_forest": "2025-02-26 23:33:13 +0000",
       "bamboo_forest": "2025-02-23 23:05:58 +0000",
+      "cold_boreal_taiga": "2025-02-26 23:33:42 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "temperate_grove": "2025-02-24 07:01:57 +0000",
       "cold_river": "2025-02-24 06:50:17 +0000",
@@ -2554,6 +2558,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-26 23:20:49 +0000",
+      "minecraft:frozen_river": "2025-02-26 23:41:18 +0000",
       "minecraft:sunflower_plains": "2025-02-25 00:10:52 +0000",
       "minecraft:birch_forest": "2025-02-25 00:03:44 +0000",
       "minecraft:wooded_badlands": "2025-02-23 21:30:22 +0000",
@@ -2563,6 +2568,7 @@
       "minecraft:sparse_jungle": "2025-02-23 23:04:22 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 23:19:29 +0000",
+      "minecraft:snowy_taiga": "2025-02-26 23:34:54 +0000",
       "minecraft:cold_ocean": "2025-02-26 23:30:11 +0000",
       "minecraft:forest": "2025-02-23 23:04:41 +0000",
       "minecraft:lush_caves": "2025-02-26 05:14:01 +0000",
@@ -21036,6 +21042,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-26 23:44:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
@@ -21057,6 +21069,12 @@
   "techreborn:recipes/centrifuge/kelp": {
     "criteria": {
       "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-02-26 23:39:19 +0000"
     },
     "done": true
   },
@@ -21102,6 +21120,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-02-26 23:35:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shears": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
@@ -21129,6 +21153,12 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
     "criteria": {
       "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-02-26 23:35:37 +0000"
     },
     "done": true
   },

@@ -18590,6 +18590,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-26 23:04:00 +0000"
@@ -18662,9 +18668,27 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_lantern_small": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18716,9 +18740,33 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_byte": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/cincinnasite_button": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18752,6 +18800,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_layer": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-02-26 21:42:18 +0000"
@@ -18764,6 +18824,24 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
@@ -18773,6 +18851,18 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
     "criteria": {
       "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stone_button": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18812,9 +18902,33 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_ladder": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_board": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18836,9 +18950,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_half_panel": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_mercury": {
     "criteria": {
       "has_tag_c_coal_ores": "2025-02-26 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_block": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18848,9 +18974,33 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_hoe": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slice": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18863,6 +19013,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-02-26 21:40:46 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_door": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18902,6 +19058,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-26 23:04:00 +0000"
@@ -18932,6 +19094,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_lantern": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
@@ -18950,15 +19118,39 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shears": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grotesque_stew": {
     "criteria": {
       "has_item": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -18977,6 +19169,12 @@
   "betternether:recipes/tools/cincinnasite_leggings": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -19040,6 +19238,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2025-02-26 21:40:29 +0000"
@@ -19064,9 +19268,27 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2025-02-26 22:21:19 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
@@ -19076,9 +19298,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_layer": {
+    "criteria": {
+      "has_item": "2025-02-26 23:44:57 +0000"
     },
     "done": true
   },
