@@ -17466,15 +17466,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
-    "criteria": {
-      "has_silver_ore": "2025-02-26 04:24:15 +0000"
-    },
-    "done": true
-  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-02-26 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
+    "criteria": {
+      "has_silver_ore": "2025-02-26 04:24:15 +0000"
     },
     "done": true
   },

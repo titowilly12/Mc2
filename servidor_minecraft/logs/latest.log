@@ -2547,3 +2547,43 @@ BCLib - The End  BiomeSource (cb00029)
 [04:31:28] [Server thread/INFO]: fandangolol was slain by Old Champion's Remains
 [04:31:28] [Server thread/INFO]: Did not backup data (grave data empty)
 [04:31:29] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[04:32:08] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[04:33:12] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[04:33:42] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -985, 66, -911, minecraft:overworld
+[04:35:35] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 15749
+[04:35:36] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 15886
+[04:35:36] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 15884
+[04:37:11] [Server thread/INFO]: <TitoWilly> zzzzzzzzzzzzzzzz
+[04:37:13] [Server thread/INFO]: <TitoWilly> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[04:37:15] [Server thread/INFO]: <Brick_123> ZZZZZZ
+[04:37:15] [Server thread/INFO]: <TitoWilly> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[04:37:29] [Server thread/INFO]: <Brick_123> duerman man
+[04:37:32] [Server thread/INFO]: <Brick_123> pls hagan paro carnales
+[04:38:01] [Server thread/INFO]: <Brick_123> zzzz
+[04:38:14] [Server thread/INFO]: Brick_123 lost connection: Disconnected
+[04:38:14] [Server thread/INFO]: Brick_123 left the game
+[04:38:14] [Server thread/INFO]: remove player wand
+[04:38:14] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[04:49:38] [Server thread/INFO]: [Handshake] Sending channel query
+[04:49:39] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[04:49:39] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[04:49:39] [Server thread/INFO]: Brick_123[/127.55.168.40:33317] logged in with entity id 18942 at (-1055.5720882789835, 54.0, -933.3000000119209)
+[04:49:39] [Server thread/INFO]: Sending server config values to client
+[04:49:39] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[04:49:39] [Server thread/INFO]: Loading config from file...
+[04:49:39] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:49:39] [Server thread/INFO]: Brick_123 joined the game
+[04:49:39] [Server thread/INFO]: Loading Configs for Sortilege
+[04:49:39] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:49:39] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[04:49:39] [Server thread/INFO]: PLAYER_JOIN
+[04:49:39] [Server thread/INFO]: add_player wand
+[04:49:39] [Server thread/INFO]: config sent
+[04:49:44] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[04:49:50] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[04:49:50] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[04:49:54] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[04:50:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[04:50:53] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[04:51:08] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[04:51:12] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.

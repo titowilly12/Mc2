@@ -14717,5 +14717,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-02-26 04:36:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

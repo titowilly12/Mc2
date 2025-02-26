@@ -20394,6 +20394,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-26 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-26 04:47:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_globe": "2025-02-26 03:57:58 +0000"
@@ -20409,6 +20421,12 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-02-26 04:26:10 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_carpet": {
+    "criteria": {
+      "has_patterned_wool": "2025-02-26 04:41:36 +0000"
     },
     "done": true
   },
