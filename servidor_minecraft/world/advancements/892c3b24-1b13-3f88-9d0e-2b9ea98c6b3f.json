@@ -165,12 +165,14 @@
       "eucalyptus_forest": "2025-02-23 22:15:13 +0000",
       "outback": "2025-02-23 21:16:43 +0000",
       "deciduous_forest": "2025-02-24 05:21:16 +0000",
+      "chalk_cliffs": "2025-02-25 02:29:55 +0000",
       "saguaro_desert": "2025-02-23 21:23:34 +0000",
       "baobab_savanna": "2025-02-24 03:06:14 +0000",
       "grassland": "2025-02-24 03:04:56 +0000",
       "prairie": "2025-02-24 03:06:29 +0000",
       "redwoods": "2025-02-23 21:00:16 +0000",
-      "rainforest": "2025-02-23 22:14:11 +0000"
+      "rainforest": "2025-02-23 22:14:11 +0000",
+      "lupine_plains": "2025-02-25 04:22:09 +0000"
     },
     "done": false
   },
@@ -203,12 +205,14 @@
       "eucalyptus_forest": "2025-02-23 22:15:13 +0000",
       "outback": "2025-02-23 21:16:43 +0000",
       "deciduous_forest": "2025-02-24 05:21:16 +0000",
+      "chalk_cliffs": "2025-02-25 02:29:55 +0000",
       "saguaro_desert": "2025-02-23 21:23:34 +0000",
       "baobab_savanna": "2025-02-24 03:06:14 +0000",
       "grassland": "2025-02-24 03:04:56 +0000",
       "prairie": "2025-02-24 03:06:29 +0000",
       "redwoods": "2025-02-23 21:00:16 +0000",
-      "rainforest": "2025-02-23 22:14:11 +0000"
+      "rainforest": "2025-02-23 22:14:11 +0000",
+      "lupine_plains": "2025-02-25 04:22:09 +0000"
     },
     "done": false
   },
@@ -4381,8 +4385,10 @@
       "minecraft:wooded_badlands": "2025-02-23 22:13:06 +0000",
       "minecraft:beach": "2025-02-23 21:28:00 +0000",
       "minecraft:river": "2025-02-24 19:33:08 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-25 02:35:07 +0000",
       "minecraft:desert": "2025-02-23 21:25:53 +0000",
-      "minecraft:warm_ocean": "2025-02-23 22:37:49 +0000"
+      "minecraft:warm_ocean": "2025-02-23 22:37:49 +0000",
+      "minecraft:deep_dark": "2025-02-24 22:18:15 +0000"
     },
     "done": false
   },
@@ -13182,7 +13188,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "calamari": "2025-02-24 07:15:13 +0000"
+      "calamari": "2025-02-24 07:15:13 +0000",
+      "glowing_calamari": "2025-02-24 22:13:45 +0000"
     },
     "done": false
   },
@@ -14077,6 +14084,588 @@
   "minecells:unlock/fall_from_the_ramparts": {
     "criteria": {
       "teleported_up": "2025-02-24 20:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/sweeper": {
+    "criteria": {
+      "requirement": "2025-02-24 21:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/inquisitor": {
+    "criteria": {
+      "requirement": "2025-02-24 21:29:41 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-02-24 21:45:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-24 22:13:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-24 22:13:45 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crystal_ball": {
+    "criteria": {
+      "has_item": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-24 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-24 22:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-24 22:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-24 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-24 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-24 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-24 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-24 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-24 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-24 22:33:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-24 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-24 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-02-24 23:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-24 23:28:55 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-02-24 23:37:36 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_rogue": {
+    "criteria": {
+      "book": "2025-02-24 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_warrior": {
+    "criteria": {
+      "book": "2025-02-24 23:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-02-24 23:46:44 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-02-25 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-25 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-25 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-02-25 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-02-25 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea_leaves": {
+    "criteria": {
+      "has_the_recipe": "2025-02-25 02:53:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-02-25 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_rogue": {
+    "criteria": {
+      "bind": "2025-02-25 03:11:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-25 03:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-25 03:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-25 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-25 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2025-02-25 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_buzzcutters": {
+    "criteria": {
+      "buzzcutters_killed": "2025-02-25 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-25 03:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-25 03:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_15_undead_archers": {
+    "criteria": {
+      "undead_archers_killed": "2025-02-25 03:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_inquisitors": {
+    "criteria": {
+      "inquisitors_killed": "2025-02-25 03:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecells:elevator": {
+    "criteria": {
+      "entity_squashed": "2025-02-25 04:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2025-02-25 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-02-25 04:50:11 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_master_rogue": {
+    "criteria": {
+      "bind": "2025-02-25 04:25:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-02-25 04:52:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2025-02-25 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2025-02-25 04:14:01 +0000"
     },
     "done": true
   },
