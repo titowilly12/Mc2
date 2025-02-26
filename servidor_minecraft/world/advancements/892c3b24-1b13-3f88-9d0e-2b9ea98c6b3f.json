@@ -14723,5 +14723,17 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-02-26 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-26 04:57:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
