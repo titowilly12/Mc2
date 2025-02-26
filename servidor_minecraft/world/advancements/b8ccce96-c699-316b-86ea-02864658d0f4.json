@@ -17508,6 +17508,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-02-26 05:47:29 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/undead_archer": {
     "criteria": {
       "requirement": "2025-02-26 05:02:27 +0000"
@@ -17601,6 +17607,12 @@
   "minecells:book/mobs/leaping_zombie": {
     "criteria": {
       "requirement": "2025-02-26 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecells:elevator": {
+    "criteria": {
+      "entity_squashed": "2025-02-26 05:47:22 +0000"
     },
     "done": true
   },

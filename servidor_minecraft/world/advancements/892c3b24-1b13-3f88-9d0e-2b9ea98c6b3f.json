@@ -14830,6 +14830,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_15_runners": {
+    "criteria": {
+      "runners_killed": "2025-02-26 05:49:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-02-26 05:31:27 +0000"
