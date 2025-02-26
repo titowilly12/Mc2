@@ -2505,3 +2505,34 @@ BCLib - The End  BiomeSource (cb00029)
 [04:08:42] [Server thread/INFO]: <Brick_123> TE UNES Y ME SALE ESA CAGADA MAN
 [04:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
 [04:09:31] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 4814
+[04:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[04:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[04:13:01] [Server thread/INFO]: Setback was slain by TitoWilly using [Fire Staff111]
+[04:13:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[04:13:08] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 1013, 145, -886, minecraft:overworld
+[04:15:56] [Server thread/INFO]: Setback has made the advancement [Eterna, Quanta, Arcana]
+[04:16:40] [Server thread/INFO]: Setback has made the advancement [The Basics]
+[04:20:42] [Server thread/INFO]: <Brick_123> xaero-waypoint:SPAWNER DE ESQUELETO:S:-628:-51:-912:6:false:0:External
+[04:20:50] [Server thread/INFO]: Setback lost connection: Disconnected
+[04:20:50] [Server thread/INFO]: Setback left the game
+[04:20:50] [Server thread/INFO]: remove player wand
+[04:20:50] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[04:20:55] [Server thread/INFO]: [Handshake] Sending channel query
+[04:20:55] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[04:20:55] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[04:20:56] [Server thread/INFO]: Setback[/127.93.142.153:39839] logged in with entity id 9059 at (-966.8011716891617, -16.0, -905.4929432264838)
+[04:20:56] [Server thread/INFO]: Sending server config values to client
+[04:20:56] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[04:20:56] [Server thread/INFO]: Loading config from file...
+[04:20:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:20:56] [Server thread/INFO]: Setback joined the game
+[04:20:56] [Server thread/INFO]: Loading Configs for Sortilege
+[04:20:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:20:56] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[04:20:56] [Server thread/INFO]: PLAYER_JOIN
+[04:20:56] [Server thread/INFO]: add_player wand
+[04:20:56] [Server thread/INFO]: config sent
+[04:20:58] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[04:20:58] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[04:20:58] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[04:21:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.

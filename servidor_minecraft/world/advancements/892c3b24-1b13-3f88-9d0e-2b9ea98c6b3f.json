@@ -14639,15 +14639,21 @@
     },
     "done": true
   },
-  "rpg_series:obtain_wizard_robes": {
+  "minecells:concierge": {
     "criteria": {
-      "wizard_robes": "2025-02-25 04:50:11 +0000"
+      "concierge_killed": "2025-02-25 04:14:01 +0000"
     },
     "done": true
   },
   "rpg_series:spell_master_rogue": {
     "criteria": {
       "bind": "2025-02-25 04:25:21 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-02-25 04:50:11 +0000"
     },
     "done": true
   },
@@ -14663,9 +14669,51 @@
     },
     "done": true
   },
-  "minecells:concierge": {
+  "supplementaries:recipes/lapis_brick_slab": {
     "criteria": {
-      "concierge_killed": "2025-02-25 04:14:01 +0000"
+      "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_brick_wall": {
+    "criteria": {
+      "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/lapis_brick_stairs_from_bricks": {
+    "criteria": {
+      "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 04:16:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_brick_stairs": {
+    "criteria": {
+      "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/lapis_brick_slab_from_bricks": {
+    "criteria": {
+      "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/lapis_brick_wall_from_bricks": {
+    "criteria": {
+      "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
     },
     "done": true
   },
