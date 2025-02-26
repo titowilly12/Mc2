@@ -17532,6 +17532,12 @@
     },
     "done": true
   },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-02-26 05:52:26 +0000"
+    },
+    "done": true
+  },
   "minecells:prison": {
     "criteria": {
       "requirement": "2025-02-26 04:58:15 +0000"
@@ -17580,6 +17586,12 @@
     },
     "done": true
   },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "teleported_up": "2025-02-26 05:58:26 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/mutated_bat": {
     "criteria": {
       "requirement": "2025-02-26 05:14:56 +0000"
@@ -17601,6 +17613,12 @@
   "techreborn:recipes/industrial_grinder/lapis_lazuli_from_lapis_ore_with_water": {
     "criteria": {
       "has_tag_c_lapis_ores": "2025-02-26 04:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-02-26 05:58:25 +0000"
     },
     "done": true
   },

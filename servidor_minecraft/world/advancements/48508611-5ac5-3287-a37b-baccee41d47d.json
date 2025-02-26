@@ -15941,6 +15941,12 @@
     },
     "done": true
   },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-02-26 05:53:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-02-26 04:25:11 +0000"
@@ -16010,6 +16016,12 @@
   "supplementaries:recipes/lapis_brick_slab": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-26 06:00:30 +0000"
     },
     "done": true
   },
