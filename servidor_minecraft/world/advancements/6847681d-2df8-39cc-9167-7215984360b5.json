@@ -588,6 +588,7 @@
       "towering_cliffs": "2025-02-24 03:51:41 +0000",
       "saguaro_desert": "2025-02-23 21:23:39 +0000",
       "grassland": "2025-02-24 02:48:48 +0000",
+      "prairie": "2025-02-26 20:38:05 +0000",
       "redwoods": "2025-02-23 20:58:35 +0000",
       "lupine_plains": "2025-02-24 05:09:16 +0000"
     },
@@ -603,6 +604,7 @@
       "towering_cliffs": "2025-02-24 03:51:41 +0000",
       "saguaro_desert": "2025-02-23 21:23:39 +0000",
       "grassland": "2025-02-24 02:48:48 +0000",
+      "prairie": "2025-02-26 20:38:05 +0000",
       "redwoods": "2025-02-23 20:58:35 +0000",
       "lupine_plains": "2025-02-24 05:09:16 +0000"
     },
@@ -13338,6 +13340,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_master_archer": {
+    "criteria": {
+      "cast": "2025-02-26 20:49:15 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/eyeball": {
     "criteria": {
       "has_eyeball_fish": "2025-02-26 20:23:37 +0000"
@@ -13347,6 +13355,12 @@
   "croptopia:recipes/misc/anchovy_pizza": {
     "criteria": {
       "has_anchovies": "2025-02-26 20:23:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-02-26 21:07:21 +0000"
     },
     "done": true
   },
