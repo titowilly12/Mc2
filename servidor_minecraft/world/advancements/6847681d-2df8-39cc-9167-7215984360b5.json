@@ -2764,8 +2764,10 @@
       "minecraft:sparse_jungle": "2025-02-23 21:08:20 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:16 +0000",
       "minecraft:river": "2025-02-24 04:46:40 +0000",
+      "minecraft:dripstone_caves": "2025-02-26 21:59:55 +0000",
       "minecraft:desert": "2025-02-23 21:26:16 +0000",
-      "minecraft:jungle": "2025-02-24 04:52:15 +0000"
+      "minecraft:jungle": "2025-02-24 04:52:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-26 22:11:42 +0000"
     },
     "done": false
   },
@@ -13224,15 +13226,27 @@
     },
     "done": true
   },
-  "netherdepthsupgrade:recipes/food/grilled_magmacubefish": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_magmacubefish": "2025-02-26 20:23:34 +0000"
+      "deflected_projectile": "2025-02-26 20:21:05 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/steamed_clams": {
+  "simplyswords:simplyswords": {
     "criteria": {
-      "has_clams": "2025-02-26 20:23:52 +0000"
+      "requirement": "2025-02-26 20:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/grilled_magmacubefish": {
+    "criteria": {
+      "has_magmacubefish": "2025-02-26 20:23:34 +0000"
     },
     "done": true
   },
@@ -13268,12 +13282,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/cooked_meat": {
-    "criteria": {
-      "has_cooked_meat": "2025-02-26 20:23:37 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
     "criteria": {
       "has_anchovy": "2025-02-26 20:23:34 +0000"
@@ -13283,30 +13291,6 @@
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-02-26 20:23:34 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bonefish": "2025-02-26 20:23:50 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-02-26 20:21:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-02-26 20:21:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-02-26 21:18:45 +0000"
     },
     "done": true
   },
@@ -13328,75 +13312,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/fried_calamari": {
-    "criteria": {
-      "has_calamari": "2025-02-26 20:23:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-02-26 20:21:05 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_calamari_from_calamari": {
-    "criteria": {
-      "has_calamari": "2025-02-26 20:23:40 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_master_archer": {
-    "criteria": {
-      "cast": "2025-02-26 20:49:15 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/eyeball": {
-    "criteria": {
-      "has_eyeball_fish": "2025-02-26 20:23:37 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
-    "criteria": {
-      "has_diamond_shovel": "2025-02-26 21:23:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/anchovy_pizza": {
     "criteria": {
       "has_anchovies": "2025-02-26 20:23:34 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/snow_smithing": {
-    "criteria": {
-      "has_snow": "2025-02-26 21:07:21 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
-    "criteria": {
-      "has_fortress_grouper": "2025-02-26 20:23:42 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:main/get_eyeball_fish": {
-    "criteria": {
-      "eyeball_fish": "2025-02-26 20:23:37 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
     "criteria": {
       "has_anchovy": "2025-02-26 20:23:34 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-02-26 21:37:58 +0000"
     },
     "done": true
   },
@@ -13412,12 +13336,6 @@
     },
     "done": true
   },
-  "zenith:enchanting/enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-02-26 21:11:34 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-02-26 20:23:34 +0000"
@@ -13430,9 +13348,87 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-02-26 20:23:37 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/eyeball": {
+    "criteria": {
+      "has_eyeball_fish": "2025-02-26 20:23:37 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/get_eyeball_fish": {
+    "criteria": {
+      "eyeball_fish": "2025-02-26 20:23:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 20:23:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-02-26 20:23:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2025-02-26 20:23:40 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
+    "criteria": {
+      "has_fortress_grouper": "2025-02-26 20:23:42 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bonefish": "2025-02-26 20:23:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_clams": {
+    "criteria": {
+      "has_clams": "2025-02-26 20:23:52 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_master_archer": {
+    "criteria": {
+      "cast": "2025-02-26 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-02-26 21:07:21 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 21:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-02-26 21:18:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:55 +0000"
     },
     "done": true
   },
@@ -13442,9 +13438,321 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-26 21:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-26 21:39:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-26 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-26 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-26 22:02:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-26 22:02:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-02-26 22:02:42 +0000"
     },
     "done": true
   },
