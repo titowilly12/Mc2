@@ -1,0 +1,17 @@
+{
+	id: "892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f"
+	type: "player"
+	player_name: "Setback"
+	ranks: {
+		892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Setback"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

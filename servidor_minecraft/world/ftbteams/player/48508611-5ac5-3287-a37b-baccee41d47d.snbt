@@ -1,0 +1,17 @@
+{
+	id: "48508611-5ac5-3287-a37b-baccee41d47d"
+	type: "player"
+	player_name: "TitoWilly"
+	ranks: {
+		48508611-5ac5-3287-a37b-baccee41d47d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TitoWilly"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF6E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

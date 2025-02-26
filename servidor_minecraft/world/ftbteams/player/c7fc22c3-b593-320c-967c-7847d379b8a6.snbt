@@ -1,0 +1,17 @@
+{
+	id: "c7fc22c3-b593-320c-967c-7847d379b8a6"
+	type: "player"
+	player_name: "Nikuus"
+	ranks: {
+		c7fc22c3-b593-320c-967c-7847d379b8a6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nikuus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "6847681d-2df8-39cc-9167-7215984360b5"
+	type: "player"
+	player_name: "INTENCITIES"
+	ranks: {
+		6847681d-2df8-39cc-9167-7215984360b5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "INTENCITIES"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
