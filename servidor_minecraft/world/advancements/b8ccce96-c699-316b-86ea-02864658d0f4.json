@@ -738,6 +738,7 @@
       "bread": "2025-02-23 21:04:19 +0000",
       "golden_apple": "2025-02-24 05:02:42 +0000",
       "rotten_flesh": "2025-02-23 21:51:52 +0000",
+      "suspicious_stew": "2025-02-26 20:17:36 +0000",
       "salmon": "2025-02-23 22:30:43 +0000",
       "melon_slice": "2025-02-23 22:56:08 +0000",
       "cooked_salmon": "2025-02-23 22:32:32 +0000"
@@ -18577,6 +18578,48 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-26 20:01:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-26 20:17:36 +0000"
     },
     "done": true
   },

@@ -16134,141 +16134,57 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
-    "criteria": {
-      "has_spruce_counter": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_trapdoor": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "twigs:recipes/tables/spruce_table": {
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
     "criteria": {
-      "has_bamboo": "2025-02-26 08:04:45 +0000"
+      "has_core_specification_item": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/grinder/steel_dust": {
+  "botania:recipes/decorations/spark": {
     "criteria": {
-      "has_tag_c_steel_ingots": "2025-02-26 06:43:24 +0000"
+      "has_item": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_table": {
+  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
     "criteria": {
-      "has_spruce_table": "2025-02-26 08:04:45 +0000"
+      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/steel_plate_from_block": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+  "techreborn:recipes/compressor/blaze_rod": {
     "criteria": {
-      "has_item.betternether.cincinnasite": "2025-02-26 07:13:07 +0000"
+      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+      "has_filled_map": "2025-02-26 06:18:46 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
+  "rpg_series:path_choose_rogue": {
     "criteria": {
-      "has_spruce_dining_bench": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_bars": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2025-02-26 06:42:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_leggings": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_boots": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/alarm": {
-    "criteria": {
-      "has_redstone_block": "2025-02-26 07:51:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_frame": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-26 06:43:05 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern_small": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-02-26 08:04:45 +0000"
+      "book": "2025-02-26 06:20:30 +0000"
     },
     "done": true
   },
@@ -16278,27 +16194,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
+  "rpg_series:path_choose_arcane": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+      "book": "2025-02-26 06:22:40 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+  "estrogen:root": {
     "criteria": {
-      "has_diamond_boots": "2025-02-26 08:03:14 +0000"
+      "root": "2025-02-26 06:25:51 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+  "brewery:recipes/pork_knuckle": {
     "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+      "has_cooked_porkchop": "2025-02-26 06:34:13 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_drawer": {
+  "croptopia:recipes/ham_sandwich": {
     "criteria": {
-      "has_spruce_drawer": "2025-02-26 08:04:45 +0000"
+      "has_cooked_porkchop": "2025-02-26 06:34:13 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-02-26 06:42:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-02-26 06:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 06:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-02-26 06:43:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-26 06:43:24 +0000"
     },
     "done": true
   },
@@ -16308,9 +16254,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
     "criteria": {
-      "has_planks": "2025-02-26 08:04:45 +0000"
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-02-26 06:51:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-26 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-26 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-26 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-02-26 07:15:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-02-26 07:15:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 07:51:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 07:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 07:51:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 07:51:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_steel_block": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-26 08:03:14 +0000"
     },
     "done": true
   },
@@ -16320,9 +16476,51 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_door": {
+  "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
-      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+      "has_spruce_counter": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-26 08:04:45 +0000"
     },
     "done": true
   },
@@ -16344,27 +16542,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
-    "criteria": {
-      "has_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/cincinnasite_button": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_dark_katana": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
     },
     "done": true
   },
@@ -16386,12 +16566,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-02-26 08:04:45 +0000"
@@ -16401,12 +16575,6 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/netherite_candelabra": {
-    "criteria": {
-      "has_item": "2025-02-26 08:26:15 +0000"
     },
     "done": true
   },
@@ -16428,81 +16596,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/quartz_glass_framed": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
-    "criteria": {
-      "has_steel_block": "2025-02-26 08:01:08 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
-    "criteria": {
-      "has_golden_sword": "2025-02-26 08:41:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/extractor/sponge_piece_from_cod": {
     "criteria": {
       "has_cod": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_block": {
-    "criteria": {
-      "has_cincinnasite": "2025-02-26 07:13:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/safe": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_helmet": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
     },
     "done": true
   },
@@ -16512,69 +16608,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
-    "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_arcane": {
-    "criteria": {
-      "book": "2025-02-26 06:22:40 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
-    "criteria": {
-      "has_melon_slice": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
-    "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_chestplate": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/pork_knuckle": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-02-26 06:34:13 +0000"
-    },
-    "done": true
-  },
-  "estrogen:root": {
-    "criteria": {
-      "root": "2025-02-26 06:25:51 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-02-26 06:51:03 +0000"
     },
     "done": true
   },
@@ -16584,93 +16620,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
-    "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "betternether:cincinnasite_ore": {
-    "criteria": {
-      "cincinnasite_ore": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/redstone_plate": {
-    "criteria": {
-      "has_redstone_block": "2025-02-26 07:51:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/netherite_hammer": {
-    "criteria": {
-      "has_material": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
-    "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_boots": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
-    "criteria": {
-      "has_core_specification_item": "2025-02-26 06:13:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-02-26 06:43:05 +0000"
     },
     "done": true
   },
@@ -16686,99 +16638,9 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/cincinnasite_chestplate": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/ham_sandwich": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-02-26 06:34:13 +0000"
-    },
-    "done": true
-  },
-  "betternether:ruby_ore": {
-    "criteria": {
-      "ruby_ore": "2025-02-26 08:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/spark": {
-    "criteria": {
-      "has_item": "2025-02-26 06:13:08 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_chains": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-02-26 07:51:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/steel_dust_from_block": {
-    "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-02-26 07:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
-    "criteria": {
-      "has_pyrite_dust": "2025-02-26 07:15:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
     },
     "done": true
   },
@@ -16788,57 +16650,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_bone_cudgel": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shears": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-02-26 06:18:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
     },
     "done": true
   },
@@ -16854,57 +16668,195 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/cincinnasite_leggings": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+      "has_any_ingredient": "2025-02-26 08:04:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "has_tag_c_steel_blocks": "2025-02-26 08:01:08 +0000"
+      "has_planks": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-02-26 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-02-26 08:26:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-26 08:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-26 08:28:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/melon_slice": {
-    "criteria": {
-      "has_melon_slice": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
-    "criteria": {
-      "has_steel_ingot": "2025-02-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_helmet": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
-    "criteria": {
-      "has_redstone_block": "2025-02-26 07:51:44 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/melon_juice": {
-    "criteria": {
-      "has_melon": "2025-02-26 06:51:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-26 08:04:45 +0000"
     },
     "done": true
   },
@@ -16926,33 +16878,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "betternether:recipes/tools/nether_ruby_leggings": {
     "criteria": {
-      "has_planks": "2025-02-26 08:04:45 +0000"
+      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/blaze_rod": {
+  "betternether:recipes/tools/nether_ruby_boots": {
     "criteria": {
-      "has_blaze_powder": "2025-02-26 06:13:08 +0000"
+      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_nightstand": {
+  "betternether:recipes/tools/nether_ruby_helmet": {
     "criteria": {
-      "has_spruce_nightstand": "2025-02-26 08:04:45 +0000"
+      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+  "betternether:recipes/tools/nether_ruby_chestplate": {
     "criteria": {
-      "has_pyrite_dust": "2025-02-26 07:15:53 +0000"
+      "has_nether_ruby": "2025-02-26 08:33:08 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_bench": {
+  "betternether:ruby_ore": {
     "criteria": {
-      "has_spruce_bench": "2025-02-26 08:04:45 +0000"
+      "ruby_ore": "2025-02-26 08:33:08 +0000"
     },
     "done": true
   },
@@ -16962,51 +16914,99 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
-    "criteria": {
-      "has_plank": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/root": {
-    "criteria": {
-      "nether_eye": "2025-02-26 06:42:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-26 08:04:45 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2025-02-26 08:39:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
     "criteria": {
-      "has_planks": "2025-02-26 08:04:45 +0000"
+      "has_golden_sword": "2025-02-26 08:41:15 +0000"
     },
     "done": true
   },
-  "rpg_series:path_choose_rogue": {
+  "betternether:recipes/decorations/cincinnasite_bars": {
     "criteria": {
-      "book": "2025-02-26 06:20:30 +0000"
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_side_table": {
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
     "criteria": {
-      "has_spruce_side_table": "2025-02-26 08:04:45 +0000"
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 08:44:34 +0000"
     },
     "done": true
   },

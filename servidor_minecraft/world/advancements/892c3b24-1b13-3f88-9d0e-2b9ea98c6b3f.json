@@ -16604,5 +16604,11 @@
     },
     "done": true
   },
+  "minecells:unlock/have_64_cells": {
+    "criteria": {
+      "requirement": "2025-02-26 20:23:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
