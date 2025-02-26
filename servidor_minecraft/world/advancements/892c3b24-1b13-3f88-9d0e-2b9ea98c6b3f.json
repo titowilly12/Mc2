@@ -4382,13 +4382,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-26 05:28:38 +0000",
       "minecraft:wooded_badlands": "2025-02-23 22:13:06 +0000",
       "minecraft:beach": "2025-02-23 21:28:00 +0000",
       "minecraft:river": "2025-02-24 19:33:08 +0000",
       "minecraft:lukewarm_ocean": "2025-02-25 02:35:07 +0000",
+      "minecraft:stony_shore": "2025-02-26 05:23:57 +0000",
       "minecraft:desert": "2025-02-23 21:25:53 +0000",
+      "minecraft:ocean": "2025-02-26 05:28:52 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:37:49 +0000",
-      "minecraft:deep_dark": "2025-02-24 22:18:15 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-02-26 05:28:26 +0000",
+      "minecraft:deep_dark": "2025-02-24 22:18:15 +0000",
+      "minecraft:savanna": "2025-02-26 05:23:49 +0000"
     },
     "done": false
   },
@@ -14717,9 +14722,75 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_iridium_storage_block": {
+    "criteria": {
+      "has_raw_iridium": "2025-02-26 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_fire_coral": {
+    "criteria": {
+      "has_fire_coral": "2025-02-26 05:28:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iridium": "2025-02-26 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
       "has_wolf": "2025-02-26 04:36:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
     },
     "done": true
   },
@@ -14732,6 +14803,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-02-26 04:57:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-02-26 05:28:00 +0000"
     },
     "done": true
   },

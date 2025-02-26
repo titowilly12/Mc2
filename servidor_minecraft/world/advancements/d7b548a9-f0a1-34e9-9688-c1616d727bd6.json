@@ -1599,7 +1599,8 @@
       "magnolia_log": "2025-02-23 22:53:02 +0000",
       "brimwood_log": "2025-02-25 03:09:00 +0000",
       "silver_birch_log": "2025-02-24 06:43:54 +0000",
-      "redwood_log": "2025-02-23 21:14:45 +0000"
+      "redwood_log": "2025-02-23 21:14:45 +0000",
+      "bamboo_log": "2025-02-26 05:24:56 +0000"
     },
     "done": false
   },
@@ -2558,6 +2559,7 @@
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 23:19:29 +0000",
       "minecraft:forest": "2025-02-23 23:04:41 +0000",
+      "minecraft:lush_caves": "2025-02-26 05:14:01 +0000",
       "minecraft:desert": "2025-02-23 21:26:37 +0000",
       "minecraft:jungle": "2025-02-23 23:04:30 +0000",
       "minecraft:ocean": "2025-02-23 23:34:35 +0000",
@@ -20379,6 +20381,12 @@
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-02-25 04:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 05:24:56 +0000"
     },
     "done": true
   },

@@ -15965,6 +15965,18 @@
     },
     "done": true
   },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-02-26 05:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-02-26 05:25:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2025-02-26 04:25:11 +0000"
@@ -16013,6 +16025,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-02-26 05:13:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-02-26 04:34:00 +0000"
@@ -16028,6 +16046,12 @@
   "supplementaries:recipes/lapis_brick_wall": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-26 05:09:13 +0000"
     },
     "done": true
   },

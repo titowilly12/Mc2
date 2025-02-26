@@ -17502,9 +17502,21 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-02-26 05:13:20 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/undead_archer": {
     "criteria": {
       "requirement": "2025-02-26 05:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-02-26 05:10:35 +0000"
     },
     "done": true
   },
@@ -17532,6 +17544,18 @@
     },
     "done": true
   },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-02-26 05:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-02-26 05:28:50 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/grenadier": {
     "criteria": {
       "requirement": "2025-02-26 05:01:48 +0000"
@@ -17550,9 +17574,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-02-26 05:14:56 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-02-26 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-02-26 05:13:33 +0000"
     },
     "done": true
   },
