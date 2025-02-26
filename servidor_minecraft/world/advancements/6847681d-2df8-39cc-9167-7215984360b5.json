@@ -13304,6 +13304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-02-26 21:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-26 20:23:34 +0000"
@@ -13349,6 +13355,12 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/eyeball": {
     "criteria": {
       "has_eyeball_fish": "2025-02-26 20:23:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:55 +0000"
     },
     "done": true
   },
@@ -13415,6 +13427,12 @@
   "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2025-02-26 20:23:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:55 +0000"
     },
     "done": true
   },

@@ -5502,6 +5502,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-26 20:12:20 +0000",
+      "minecraft:spider": "2025-02-26 21:24:20 +0000",
       "minecraft:witch": "2025-02-26 20:07:41 +0000",
       "minecraft:zombie": "2025-02-24 05:32:17 +0000"
     },
@@ -11965,6 +11966,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
@@ -12094,6 +12101,12 @@
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:50 +0000"
     },
     "done": true
   },
