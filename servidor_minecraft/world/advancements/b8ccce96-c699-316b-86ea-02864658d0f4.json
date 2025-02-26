@@ -17638,51 +17638,21 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "has_spruce_counter": "2025-02-26 06:40:14 +0000"
+      "has_golden_carrot": "2025-02-26 06:09:15 +0000"
     },
     "done": true
   },
-  "twigs:recipes/tables/spruce_table": {
+  "techreborn:recipes/centrifuge/golden_carrot": {
     "criteria": {
-      "has_bamboo": "2025-02-26 06:40:14 +0000"
+      "has_golden_carrot": "2025-02-26 06:09:15 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
+  "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_table": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
+      "has_item": "2025-02-26 06:09:15 +0000"
     },
     "done": true
   },
@@ -17692,9 +17662,129 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
-      "has_any_ingredient": "2025-02-26 07:13:25 +0000"
+      "has_diamond_ore": "2025-02-26 06:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-02-26 06:16:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_water": {
+    "criteria": {
+      "has_tag_c_diamond_ores": "2025-02-26 06:16:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-02-26 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-02-26 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-02-26 06:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-26 06:18:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-26 06:21:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_pressure_plates": {
+    "criteria": {
+      "has_tag_minecraft_wooden_pressure_plates": "2025-02-26 06:25:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_pressure_plates": {
+    "criteria": {
+      "has_tag_minecraft_wooden_pressure_plates": "2025-02-26 06:25:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-02-26 06:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-26 06:31:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-02-26 06:31:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-26 06:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-26 06:32:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
     },
     "done": true
   },
@@ -17710,48 +17800,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-02-26 06:09:15 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_oak_wine_rack_big": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_dark_oak": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2025-02-26 06:30:28 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
-    "criteria": {
-      "has_plank": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_drawer": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/prismarine_plate_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
@@ -17764,45 +17812,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-02-26 06:48:32 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_couch": {
-    "criteria": {
-      "has_dark_oak_couch": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_chair": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
-    "criteria": {
-      "has_map": "2025-02-26 06:17:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_drawer": {
-    "criteria": {
-      "has_spruce_drawer": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
     },
     "done": true
   },
@@ -17812,93 +17824,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-02-26 06:16:27 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_fancy_bed": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_cupboard": {
-    "criteria": {
-      "has_spruce_cupboard": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-02-26 06:48:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
-    "criteria": {
-      "has_glowing_calamari": "2025-02-26 06:31:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-02-26 06:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/burrito": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/spruce_wine_rack_big": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-02-26 06:18:02 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_shelf": {
-    "criteria": {
-      "has_spruce_shelf": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_pressure_plates": {
-    "criteria": {
-      "has_tag_minecraft_wooden_pressure_plates": "2025-02-26 06:25:47 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/spruce_wine_rack_small": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grapevine_pot": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
     },
     "done": true
   },
@@ -17911,96 +17839,6 @@
   "stoneworks:recipes/building_blocks/prismarine_paver_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/spruce_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
-    "criteria": {
-      "has_golden_helmet": "2025-02-26 06:21:26 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_shelf": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_shelf": {
-    "criteria": {
-      "has_dark_oak_shelf": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_dining_bench": {
-    "criteria": {
-      "has_dark_oak_dining_bench": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
-    "criteria": {
-      "has_log": "2025-02-26 06:39:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_food": {
-    "criteria": {
-      "glowing_calamari": "2025-02-26 06:31:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_pillar_trim": {
-    "criteria": {
-      "has_spruce_pillar_trim": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_cupboard": {
-    "criteria": {
-      "has_dark_oak_cupboard": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-02-26 06:39:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/hamburger": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sponge_piece_from_cod": {
-    "criteria": {
-      "has_cod": "2025-02-26 06:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:22 +0000"
     },
     "done": true
   },
@@ -18022,45 +17860,9 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
-    "criteria": {
-      "has_plank": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/stuffed_poblanos": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/golden_carrot": {
-    "criteria": {
-      "has_golden_carrot": "2025-02-26 06:09:15 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_oak_wine_rack_small": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/prismarine_bricks": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/chungus_monolith": {
-    "criteria": {
-      "has_item": "2025-02-26 06:09:15 +0000"
     },
     "done": true
   },
@@ -18070,21 +17872,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_couch": {
-    "criteria": {
-      "has_spruce_couch": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-02-26 06:39:27 +0000"
     },
     "done": true
   },
@@ -18106,12 +17896,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_chair": {
-    "criteria": {
-      "has_spruce_chair": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-26 06:36:10 +0000"
@@ -18124,33 +17908,453 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plates_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-26 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-02-26 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-02-26 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-02-26 06:40:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-26 06:40:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/beef_jerky": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/pork_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/sausage": {
-    "criteria": {
-      "has_cooked_beef": "2025-02-26 07:13:36 +0000"
     },
     "done": true
   },
@@ -18178,105 +18382,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-26 06:40:22 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_pressure_plates": {
-    "criteria": {
-      "has_tag_minecraft_wooden_pressure_plates": "2025-02-26 06:25:47 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_bricks_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-26 06:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
     },
     "done": true
   },
@@ -18298,81 +18412,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-02-26 06:17:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-02-26 06:48:32 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/speed_up_belt": {
-    "criteria": {
-      "has_item": "2025-02-26 06:17:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/beef_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-02-26 06:48:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_beef_stew": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/pork_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 07:13:25 +0000"
     },
     "done": true
   },
@@ -18382,51 +18424,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-02-26 06:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2025-02-26 06:40:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-02-26 07:13:25 +0000"
     },
     "done": true
   },
@@ -18442,24 +18442,6 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
-    "criteria": {
-      "has_glowing_calamari": "2025-02-26 06:31:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2025-02-26 06:40:22 +0000"
@@ -18472,105 +18454,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_plates_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/chiseled_prismarine_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-02-26 06:40:22 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_nightstand": {
+  "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
-      "has_spruce_nightstand": "2025-02-26 06:40:14 +0000"
+      "has_cod": "2025-02-26 06:48:32 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_bench": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_spruce_bench": "2025-02-26 06:40:14 +0000"
+      "has_cod": "2025-02-26 06:48:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_diamond_ore": "2025-02-26 06:16:27 +0000"
+      "has_cod": "2025-02-26 06:48:32 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
     "criteria": {
-      "has_plank": "2025-02-26 06:40:14 +0000"
+      "has_cod": "2025-02-26 06:48:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_door": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
+      "has_cod": "2025-02-26 06:48:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
+      "has_cod": "2025-02-26 06:48:32 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_prismarine": "2025-02-26 06:36:10 +0000"
+      "has_any_ingredient": "2025-02-26 07:13:25 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_water": {
+  "croptopia:recipes/burrito": {
     "criteria": {
-      "has_tag_c_diamond_ores": "2025-02-26 06:16:27 +0000"
+      "has_the_recipe": "2025-02-26 07:13:25 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_prismarine_shard": "2025-02-26 06:30:28 +0000"
+      "has_beef": "2025-02-26 07:13:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "croptopia:recipes/hamburger": {
     "criteria": {
-      "has_planks": "2025-02-26 06:40:14 +0000"
+      "has_beef": "2025-02-26 07:13:25 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_side_table": {
+  "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
-      "has_spruce_side_table": "2025-02-26 06:40:14 +0000"
+      "has_beef": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-26 07:13:25 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-02-26 07:13:36 +0000"
     },
     "done": true
   },
