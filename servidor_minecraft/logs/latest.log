@@ -3018,3 +3018,98 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:44:20] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.3164512991670563
 [19:44:20] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.31363305054287594
 [19:44:20] [Server thread/WARN]: Boat (vehicle of Brick_123) moved wrongly! 0.3095496823209487
+[19:48:06] [Server thread/INFO]: [Handshake] Sending channel query
+[19:48:06] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[19:48:06] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[19:48:07] [Server thread/INFO]: Nikuus[/127.61.205.57:41943] logged in with entity id 3151 at (213.93044671460038, 64.0, 105.9848807512126)
+[19:48:07] [Server thread/INFO]: Sending server config values to client
+[19:48:07] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[19:48:07] [Server thread/INFO]: Loading config from file...
+[19:48:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:48:07] [Server thread/INFO]: Nikuus joined the game
+[19:48:07] [Server thread/INFO]: Loading Configs for Sortilege
+[19:48:07] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:48:07] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[19:48:07] [Server thread/INFO]: PLAYER_JOIN
+[19:48:07] [Server thread/INFO]: add_player wand
+[19:48:07] [Server thread/INFO]: config sent
+[19:48:12] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[19:48:15] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[19:48:15] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[19:48:33] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[19:49:05] [Server thread/INFO]: <Nikuus> hoy salgo asmatico
+[19:49:20] [Server thread/INFO]: <Nikuus> para las wachas simpatico
+[19:49:45] [Server thread/INFO]: <Brick_123> nikus
+[19:49:50] [Server thread/INFO]: <Brick_123> te cargo el sv ya?
+[19:49:59] [Server thread/INFO]: <Nikuus> ssiiiiiiii
+[19:50:03] [Server thread/INFO]: <Nikuus> bro soy la foking bestia
+[19:50:07] [Server thread/INFO]: <Brick_123> suicidate ahora man
+[19:50:09] [Server thread/INFO]: <Nikuus> spawneame un mob que lo mato man
+[19:50:12] [Server thread/INFO]: <Nikuus> pero fast locoo
+[19:50:22] [Server thread/INFO]: <Nikuus> bro me ayudas a raidear a unos piratas ?
+[19:50:49] [Server thread/INFO]: <Nikuus> si?
+[19:50:50] [Server thread/INFO]: <Nikuus> va
+[19:50:52] [Server thread/INFO]: <Brick_123> no
+[19:50:57] [Server thread/INFO]: <Nikuus> te espero
+[19:51:21] [Server thread/INFO]: <Nikuus> s
+[19:51:57] [Server thread/INFO]: <Brick_123> call?
+[19:52:08] [Server thread/INFO]: <Nikuus> si
+[19:52:51] [Server thread/INFO]: Nikuus has made the advancement [A Seedy Place]
+[19:54:29] [Server thread/INFO]: <Nikuus> sleep
+[19:55:53] [Server thread/INFO]: <Brick_123> PUTO NIKUS MAN
+[19:59:49] [Server thread/INFO]: Villager class_1646['Shannon'/48, l='ServerLevel[world]', x=-1037.63, y=51.25, z=-945.11] died, message: 'Shannon was slain by Brick_123'
+[19:59:49] [Server thread/INFO]: Named entity class_1646['Shannon'/48, l='ServerLevel[world]', x=-1037.63, y=51.25, z=-945.11] died: Shannon was slain by Brick_123
+[20:00:33] [Server thread/INFO]: [Handshake] Sending channel query
+[20:00:33] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[20:00:34] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[20:00:34] [Server thread/INFO]: Setback[/127.93.142.153:56785] logged in with entity id 8358 at (1018.1552577371384, 145.0, -825.9731684101251)
+[20:00:34] [Server thread/INFO]: Sending server config values to client
+[20:00:34] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[20:00:34] [Server thread/INFO]: Loading config from file...
+[20:00:34] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:00:34] [Server thread/INFO]: Setback joined the game
+[20:00:34] [Server thread/INFO]: Loading Configs for Sortilege
+[20:00:34] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:00:34] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[20:00:34] [Server thread/INFO]: PLAYER_JOIN
+[20:00:34] [Server thread/INFO]: add_player wand
+[20:00:34] [Server thread/INFO]: config sent
+[20:00:37] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[20:00:39] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[20:00:39] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[20:00:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20:00:46] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:00:49] [Server thread/INFO]: <Nikuus> puto setback man
+[20:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:01:21] [Server thread/INFO]: Nikuus has made the advancement [Cover Me with Diamonds]
+[20:02:54] [Server thread/INFO]: [Handshake] Sending channel query
+[20:02:54] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[20:02:54] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[20:02:55] [Server thread/INFO]: Setback lost connection: Disconnected
+[20:02:55] [Server thread/INFO]: Setback left the game
+[20:02:55] [Server thread/INFO]: remove player wand
+[20:02:55] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[20:02:55] [Server thread/WARN]: handleDisconnection() called twice
+[20:02:55] [Server thread/INFO]: Setback[/127.93.142.153:42873] logged in with entity id 9987 at (1004.3817077241524, 143.0, -880.9258517152865)
+[20:02:55] [Server thread/INFO]: Sending server config values to client
+[20:02:55] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[20:02:55] [Server thread/INFO]: Loading config from file...
+[20:02:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:02:55] [Server thread/INFO]: Setback joined the game
+[20:02:55] [Server thread/INFO]: Loading Configs for Sortilege
+[20:02:55] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:02:55] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[20:02:55] [Server thread/INFO]: PLAYER_JOIN
+[20:02:55] [Server thread/INFO]: add_player wand
+[20:02:55] [Server thread/INFO]: config sent
+[20:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[20:02:57] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[20:02:57] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[20:02:57] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[20:03:02] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:04:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[20:06:26] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp]] from pos class_2338{x=715, y=68, z=53}
