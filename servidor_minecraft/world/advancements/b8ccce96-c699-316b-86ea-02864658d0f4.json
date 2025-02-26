@@ -741,6 +741,7 @@
       "suspicious_stew": "2025-02-26 20:17:36 +0000",
       "salmon": "2025-02-23 22:30:43 +0000",
       "melon_slice": "2025-02-23 22:56:08 +0000",
+      "golden_carrot": "2025-02-26 21:35:49 +0000",
       "cooked_salmon": "2025-02-23 22:32:32 +0000"
     },
     "done": false
@@ -18575,9 +18576,51 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-26 20:01:05 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-02-26 21:40:18 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 21:42:31 +0000"
     },
     "done": true
   },
@@ -18587,9 +18630,75 @@
     },
     "done": true
   },
+  "botania:recipes/transportation/pool_minecart": {
+    "criteria": {
+      "has_item": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-26 21:42:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_water": {
+    "criteria": {
+      "has_tag_c_coal_ores": "2025-02-26 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_coal_ores": "2025-02-26 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 21:40:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
     },
     "done": true
   },
@@ -18599,9 +18708,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-02-26 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-02-26 21:42:31 +0000"
     },
     "done": true
   },
@@ -18617,6 +18750,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-26 20:17:36 +0000"
@@ -18629,9 +18768,45 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-02-26 21:42:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-02-26 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-02-26 21:40:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-26 20:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 21:42:31 +0000"
     },
     "done": true
   },

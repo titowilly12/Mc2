@@ -5633,3 +5633,29 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [21:27:08] [Server thread/INFO]: <Brick_123> puto nikus man
+[21:33:31] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[21:33:31] [Server thread/INFO]: Nikuus left the game
+[21:33:31] [Server thread/INFO]: remove player wand
+[21:33:31] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[21:36:24] [Server thread/INFO]: <Brick_123> ZZ
+[21:37:58] [Server thread/INFO]: INTENCITIES has made the advancement [Amateur Archaeologist]
+[21:39:04] [Server thread/INFO]: INTENCITIES has made the advancement [What a Deal!]
+[21:43:47] [Server thread/INFO]: [Handshake] Sending channel query
+[21:43:47] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[21:43:47] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[21:43:48] [Server thread/INFO]: Setback[/127.93.142.153:59003] logged in with entity id 61503 at (1024.2015637022814, 145.0, -900.3168475711915)
+[21:43:48] [Server thread/INFO]: Sending server config values to client
+[21:43:48] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[21:43:48] [Server thread/INFO]: Loading config from file...
+[21:43:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:43:48] [Server thread/INFO]: Setback joined the game
+[21:43:48] [Server thread/INFO]: Loading Configs for Sortilege
+[21:43:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:43:48] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[21:43:48] [Server thread/INFO]: PLAYER_JOIN
+[21:43:48] [Server thread/INFO]: add_player wand
+[21:43:48] [Server thread/INFO]: config sent
+[21:43:50] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[21:43:52] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[21:43:52] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[21:43:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
