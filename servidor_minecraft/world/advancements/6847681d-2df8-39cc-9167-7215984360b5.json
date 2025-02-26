@@ -12880,6 +12880,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-02-26 22:36:53 +0000",
+      "potato": "2025-02-26 22:28:58 +0000",
       "wheat": "2025-02-24 19:03:13 +0000"
     },
     "done": false
@@ -13759,6 +13761,12 @@
   "techreborn:recipes/extractor/gray_dye_from_dead_bubble_coral": {
     "criteria": {
       "has_dead_bubble_coral": "2025-02-26 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-02-26 22:29:40 +0000"
     },
     "done": true
   },
