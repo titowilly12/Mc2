@@ -3267,3 +3267,34 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:32:29] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 4112798
 [05:33:11] [Server thread/INFO]: TitoWilly has made the advancement [Get pancaked!]
 [05:33:30] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 4457135
+[05:33:48] [Server thread/INFO]: [TitoWilly: Teleported Setback to TitoWilly]
+[05:34:44] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 4758253
+[05:34:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 4758254
+[05:35:44] [Server thread/INFO]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[05:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[05:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4089ms or 81 ticks behind
+[05:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5536ms or 110 ticks behind
+[05:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[05:38:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[05:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[05:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05:40:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[05:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[05:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05:41:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[05:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
+[05:42:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2794ms or 55 ticks behind
+[05:42:25] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[05:42:30] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[05:42:48] [Server thread/INFO]: TitoWilly was slain by Leaping Zombie
+[05:42:49] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[05:43:03] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[05:43:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[05:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6194ms or 123 ticks behind
+[05:43:22] [Server thread/INFO]: fandangolol has made the advancement [A Terrible Fortress]
+[05:43:30] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at -12, 75, -1849, minecells:promenade
+[05:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05:44:06] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]

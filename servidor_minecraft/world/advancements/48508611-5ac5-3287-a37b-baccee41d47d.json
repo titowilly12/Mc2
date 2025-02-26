@@ -15935,6 +15935,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-02-26 05:39:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-02-26 04:25:11 +0000"
@@ -16088,6 +16094,12 @@
   "supplementaries:recipes/lapis_brick_stairs": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecells:elevator": {
+    "criteria": {
+      "entity_squashed": "2025-02-26 05:33:11 +0000"
     },
     "done": true
   },

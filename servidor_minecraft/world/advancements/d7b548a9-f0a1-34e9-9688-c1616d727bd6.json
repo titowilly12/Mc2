@@ -20128,7 +20128,9 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:nether_swampland_terraces": "2025-02-25 03:07:11 +0000"
+      "betternether:wart_forest_edge": "2025-02-26 05:36:51 +0000",
+      "betternether:nether_swampland_terraces": "2025-02-25 03:07:11 +0000",
+      "betternether:soul_plain": "2025-02-26 05:38:28 +0000"
     },
     "done": false
   },
@@ -20402,15 +20404,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
     "criteria": {
       "has_diamond_sword": "2025-02-26 04:47:56 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
     "criteria": {
       "has_diamond_sword": "2025-02-26 04:47:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
     },
     "done": true
   },
@@ -20435,6 +20467,18 @@
   "brewery:recipes/patterned_carpet": {
     "criteria": {
       "has_patterned_wool": "2025-02-26 04:41:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-02-26 05:38:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2025-02-26 05:38:23 +0000"
     },
     "done": true
   },

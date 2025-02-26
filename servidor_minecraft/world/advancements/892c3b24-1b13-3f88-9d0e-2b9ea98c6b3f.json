@@ -14734,9 +14734,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
+    "criteria": {
+      "has_fishing_rod": "2025-02-26 05:29:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_iridium_storage_block": {
     "criteria": {
       "has_raw_iridium": "2025-02-26 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 05:31:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-02-26 05:31:27 +0000"
     },
     "done": true
   },
@@ -14752,9 +14770,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-26 05:29:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
     "criteria": {
       "has_raw_iridium": "2025-02-26 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-26 05:31:29 +0000"
     },
     "done": true
   },
@@ -14776,9 +14806,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-26 05:29:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-26 05:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-26 05:29:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-02-26 05:31:27 +0000"
     },
     "done": true
   },
@@ -14788,15 +14842,33 @@
     },
     "done": true
   },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-02-26 05:31:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-26 05:28:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-26 05:29:32 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-02-26 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-26 05:29:56 +0000"
     },
     "done": true
   },
