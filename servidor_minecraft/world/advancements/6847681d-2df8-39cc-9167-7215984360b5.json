@@ -13221,5 +13221,77 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-02-26 03:13:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

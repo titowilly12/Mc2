@@ -3169,3 +3169,57 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:16:15] [Server thread/INFO]: PLAYER_JOIN
 [03:16:15] [Server thread/INFO]: add_player wand
 [03:16:15] [Server thread/INFO]: config sent
+[03:16:24] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[03:16:24] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[03:16:24] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[03:17:52] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[03:18:15] [Server thread/INFO]: Nikuus lost connection: Timed out
+[03:18:15] [Server thread/INFO]: Nikuus left the game
+[03:18:15] [Server thread/INFO]: remove player wand
+[03:18:15] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[03:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:19:51] [Server thread/INFO]: [Handshake] Sending channel query
+[03:19:51] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[03:19:51] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[03:19:52] [Server thread/INFO]: Nikuus[/127.61.205.57:36961] logged in with entity id 8096 at (212.25448735630982, 64.0, 117.31923924720616)
+[03:19:52] [Server thread/INFO]: Sending server config values to client
+[03:19:52] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[03:19:52] [Server thread/INFO]: Loading config from file...
+[03:19:52] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:19:52] [Server thread/INFO]: Nikuus joined the game
+[03:19:52] [Server thread/INFO]: Loading Configs for Sortilege
+[03:19:52] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:19:52] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[03:19:52] [Server thread/INFO]: PLAYER_JOIN
+[03:19:52] [Server thread/INFO]: add_player wand
+[03:19:52] [Server thread/INFO]: config sent
+[03:20:06] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[03:20:06] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[03:20:06] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[03:21:13] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[03:21:52] [Server thread/INFO]: Nikuus lost connection: Timed out
+[03:21:52] [Server thread/INFO]: Nikuus left the game
+[03:21:52] [Server thread/INFO]: remove player wand
+[03:21:52] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[03:25:38] [Server thread/INFO]: [Handshake] Sending channel query
+[03:25:39] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[03:25:39] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[03:25:39] [Server thread/INFO]: Nikuus[/127.61.205.57:44035] logged in with entity id 11562 at (212.25448735630982, 64.0, 117.31923924720616)
+[03:25:39] [Server thread/INFO]: Sending server config values to client
+[03:25:39] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[03:25:39] [Server thread/INFO]: Loading config from file...
+[03:25:39] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:25:39] [Server thread/INFO]: Nikuus joined the game
+[03:25:39] [Server thread/INFO]: Loading Configs for Sortilege
+[03:25:39] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:25:40] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[03:25:40] [Server thread/INFO]: PLAYER_JOIN
+[03:25:40] [Server thread/INFO]: add_player wand
+[03:25:40] [Server thread/INFO]: config sent
+[03:26:01] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[03:26:01] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[03:26:01] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[03:27:28] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[03:27:28] [Server thread/INFO]: Nikuus left the game
+[03:27:28] [Server thread/INFO]: remove player wand
+[03:27:28] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
