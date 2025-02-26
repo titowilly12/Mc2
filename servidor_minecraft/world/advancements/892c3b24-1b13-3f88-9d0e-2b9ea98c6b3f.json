@@ -16611,5 +16611,35 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+    "criteria": {
+      "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
+    "criteria": {
+      "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+    "criteria": {
+      "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iridium_plate": {
+    "criteria": {
+      "has_tag_c_iridium_ingots": "2025-02-26 22:40:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

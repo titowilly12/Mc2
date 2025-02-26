@@ -18600,6 +18600,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_redstone_block": "2025-02-26 21:42:10 +0000"
@@ -18609,6 +18615,18 @@
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_item": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
@@ -18630,6 +18648,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/pool_minecart": {
     "criteria": {
       "has_item": "2025-02-26 21:42:31 +0000"
@@ -18642,9 +18672,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-02-26 22:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-02-26 21:42:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
@@ -18654,9 +18708,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
@@ -18672,9 +18738,21 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/redstone_plate": {
     "criteria": {
       "has_redstone_block": "2025-02-26 21:42:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
@@ -18687,6 +18765,18 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
@@ -18714,6 +18804,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-02-26 21:42:10 +0000"
@@ -18732,6 +18828,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2025-02-26 22:21:19 +0000"
@@ -18744,15 +18852,33 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grotesque_stew": {
     "criteria": {
       "has_item": "2025-02-26 20:17:36 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-02-26 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
@@ -18783,6 +18909,12 @@
   "botania:recipes/redstone/animated_torch": {
     "criteria": {
       "has_item": "2025-02-26 21:42:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
     },
     "done": true
   },
