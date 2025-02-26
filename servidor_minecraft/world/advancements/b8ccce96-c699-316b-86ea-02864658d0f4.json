@@ -16475,5 +16475,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-26 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-02-26 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-02-26 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-02-26 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-26 03:37:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

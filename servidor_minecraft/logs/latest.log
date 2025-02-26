@@ -3223,3 +3223,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:27:28] [Server thread/INFO]: Nikuus left the game
 [03:27:28] [Server thread/INFO]: remove player wand
 [03:27:28] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[03:37:08] [Server thread/INFO]: INTENCITIES lost connection: Disconnected
+[03:37:08] [Server thread/INFO]: INTENCITIES left the game
+[03:37:08] [Server thread/INFO]: remove player wand
+[03:37:08] [Server thread/INFO]: Updating all forceload tickets for 6847681d-2df8-39cc-9167-7215984360b5
