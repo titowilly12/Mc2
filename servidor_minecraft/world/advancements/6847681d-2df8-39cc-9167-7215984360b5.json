@@ -3308,6 +3308,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-02-26 23:13:59 +0000",
       "bread": "2025-02-23 21:20:39 +0000",
       "cookie": "2025-02-24 18:39:11 +0000",
       "rotten_flesh": "2025-02-24 19:05:14 +0000",
@@ -13758,6 +13759,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-26 23:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-26 22:50:16 +0000"
@@ -13773,6 +13780,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-26 22:50:16 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-26 22:58:47 +0000"
     },
     "done": true
   },
@@ -13809,6 +13822,18 @@
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-02-26 22:50:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-26 23:13:56 +0000"
     },
     "done": true
   },
@@ -14031,6 +14056,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-26 22:50:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-26 23:13:56 +0000"
     },
     "done": true
   },

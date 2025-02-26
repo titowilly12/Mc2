@@ -18588,9 +18588,21 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-02-26 21:40:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18603,6 +18615,30 @@
   "betternether:recipes/decorations/cincinnasite_bars": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18630,6 +18666,18 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-02-26 21:42:31 +0000"
@@ -18651,6 +18699,18 @@
   "betternether:recipes/tools/cincinnasite_sword": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18678,6 +18738,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_gravity": {
     "criteria": {
       "has_anvil": "2025-02-26 22:40:54 +0000"
@@ -18699,6 +18765,12 @@
   "betternether:recipes/building_blocks/quartz_glass_framed": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18735,6 +18807,12 @@
   "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_water": {
     "criteria": {
       "has_tag_c_coal_ores": "2025-02-26 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18786,6 +18864,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
     "criteria": {
       "has_item": "2025-02-26 21:32:54 +0000"
@@ -18816,9 +18900,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18882,6 +18978,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
     "criteria": {
       "has_item": "2025-02-26 21:32:54 +0000"
@@ -18903,6 +19005,12 @@
   "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-02-26 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },
@@ -18942,6 +19050,18 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2025-02-26 22:21:19 +0000"
@@ -18951,6 +19071,18 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-02-26 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-26 23:04:00 +0000"
     },
     "done": true
   },

@@ -11672,12 +11672,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-02-26 21:03:17 +0000"
@@ -11702,18 +11696,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_blue": {
-    "criteria": {
-      "has_dyes/black": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
-    "criteria": {
-      "has_redwood_shrub": "2025-02-26 21:05:54 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
@@ -11726,27 +11708,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_blue": {
-    "criteria": {
-      "has_dyes/black": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_blue": {
-    "criteria": {
-      "has_dyes/black": "2025-02-26 21:05:10 +0000"
     },
     "done": true
   },
@@ -11756,21 +11720,9 @@
     },
     "done": true
   },
-  "rpg_series:spell_master_warrior": {
-    "criteria": {
-      "bind": "2025-02-26 21:15:12 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/gemstone_blue": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
     },
     "done": true
   },
@@ -11810,12 +11762,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
@@ -11825,18 +11771,6 @@
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_novice_warrior": {
-    "criteria": {
-      "bind": "2025-02-26 21:11:56 +0000"
     },
     "done": true
   },
@@ -11966,12 +11900,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
-    "criteria": {
-      "has_diamond_shovel": "2025-02-26 21:23:50 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
@@ -12044,18 +11972,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_blue": {
-    "criteria": {
-      "has_dyes/black": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
@@ -12092,21 +12008,9 @@
     },
     "done": true
   },
-  "rpg_series:path_choose_warrior": {
-    "criteria": {
-      "book": "2025-02-26 21:06:37 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
-    "criteria": {
-      "has_diamond_shovel": "2025-02-26 21:23:50 +0000"
     },
     "done": true
   },
@@ -12140,15 +12044,225 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-26 21:05:10 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/multishot_book": {
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
     "criteria": {
-      "has_item.minecraft.book": "2025-02-26 21:03:17 +0000"
+      "has_redwood_shrub": "2025-02-26 21:05:54 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_warrior": {
+    "criteria": {
+      "book": "2025-02-26 21:06:37 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_warrior": {
+    "criteria": {
+      "bind": "2025-02-26 21:11:56 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_master_warrior": {
+    "criteria": {
+      "bind": "2025-02-26 21:15:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 21:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-02-26 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-26 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-02-26 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
+    "criteria": {
+      "has_horn_coral": "2025-02-26 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 23:18:18 +0000"
     },
     "done": true
   },
