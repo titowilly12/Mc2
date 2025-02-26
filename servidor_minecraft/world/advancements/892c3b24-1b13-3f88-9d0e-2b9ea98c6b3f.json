@@ -16617,9 +16617,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 22:55:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
     "criteria": {
       "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-02-26 22:55:20 +0000"
     },
     "done": true
   },

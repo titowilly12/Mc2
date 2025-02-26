@@ -5736,3 +5736,73 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 [22:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
 [22:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [22:40:13] [Server thread/INFO]: Brick_123 has made the advancement [Cincinnasite Ore]
+[22:54:19] [Server thread/INFO]: [Handshake] Sending channel query
+[22:54:20] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[22:54:20] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[22:54:20] [Server thread/INFO]: fandangolol[/127.199.177.232:47443] logged in with entity id 103031 at (-1066.0817786838807, 63.0, -930.4802908984159)
+[22:54:20] [Server thread/INFO]: Sending server config values to client
+[22:54:20] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[22:54:20] [Server thread/INFO]: Loading config from file...
+[22:54:20] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:54:20] [Server thread/INFO]: fandangolol joined the game
+[22:54:20] [Server thread/INFO]: Loading Configs for Sortilege
+[22:54:20] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:54:20] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[22:54:20] [Server thread/INFO]: PLAYER_JOIN
+[22:54:20] [Server thread/INFO]: add_player wand
+[22:54:20] [Server thread/INFO]: config sent
+[22:54:24] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[22:54:34] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[22:54:34] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[22:54:40] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[22:57:03] [Server thread/INFO]: <Brick_123> xaero-waypoint:SPAWNER DE ESQUELETO:S:-628:-51:-912:6:false:0:External
+[22:58:19] [Server thread/INFO]: fandangolol lost connection: Disconnected
+[22:58:19] [Server thread/INFO]: fandangolol left the game
+[22:58:19] [Server thread/INFO]: remove player wand
+[22:58:19] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[22:59:47] [Server thread/INFO]: [Handshake] Sending channel query
+[22:59:47] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[22:59:47] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[22:59:47] [Server thread/INFO]: fandangolol[/127.199.177.232:48075] logged in with entity id 105983 at (-1066.0817786838807, 63.0, -930.4802908984159)
+[22:59:47] [Server thread/INFO]: Sending server config values to client
+[22:59:47] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[22:59:47] [Server thread/INFO]: Loading config from file...
+[22:59:47] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:59:47] [Server thread/INFO]: fandangolol joined the game
+[22:59:47] [Server thread/INFO]: Loading Configs for Sortilege
+[22:59:47] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:59:47] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[22:59:47] [Server thread/INFO]: PLAYER_JOIN
+[22:59:47] [Server thread/INFO]: add_player wand
+[22:59:47] [Server thread/INFO]: config sent
+[22:59:50] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[22:59:51] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[22:59:51] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[22:59:56] [Server thread/INFO]: [Handshake] Sending channel query
+[22:59:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[22:59:57] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[22:59:57] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[22:59:57] [Server thread/INFO]: Nikuus[/127.61.205.57:44305] logged in with entity id 106204 at (199.27909728992796, 64.0, 122.76249998807907)
+[22:59:57] [Server thread/INFO]: Sending server config values to client
+[22:59:57] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[22:59:57] [Server thread/INFO]: Loading config from file...
+[22:59:57] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:59:57] [Server thread/INFO]: Nikuus joined the game
+[22:59:57] [Server thread/INFO]: Loading Configs for Sortilege
+[22:59:57] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:59:58] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[22:59:58] [Server thread/INFO]: PLAYER_JOIN
+[22:59:58] [Server thread/INFO]: add_player wand
+[22:59:58] [Server thread/INFO]: config sent
+[22:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[23:00:06] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[23:00:08] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[23:00:08] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[23:00:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[23:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5791ms or 115 ticks behind
+[23:00:57] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[23:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[23:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5971ms or 119 ticks behind
+[23:01:35] [Server thread/INFO]: <Nikuus> s
+[23:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6046ms or 120 ticks behind
+[23:01:46] [Server thread/INFO]: <Nikuus> s
