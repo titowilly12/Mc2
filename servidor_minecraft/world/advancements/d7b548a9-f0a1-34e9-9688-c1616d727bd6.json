@@ -20382,6 +20382,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-26 04:26:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-02-26 03:59:34 +0000"
@@ -20391,6 +20397,18 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_globe": "2025-02-26 03:57:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-02-26 04:26:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-02-26 04:26:10 +0000"
     },
     "done": true
   },

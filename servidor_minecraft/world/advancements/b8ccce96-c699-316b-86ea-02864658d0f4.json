@@ -17466,9 +17466,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/silver_ore_with_water": {
+    "criteria": {
+      "has_silver_ore": "2025-02-26 04:24:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-02-26 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-02-26 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_silver_ores": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-02-26 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_silver": {
+    "criteria": {
+      "has_tag_c_silver_ores": "2025-02-26 04:24:15 +0000"
     },
     "done": true
   },

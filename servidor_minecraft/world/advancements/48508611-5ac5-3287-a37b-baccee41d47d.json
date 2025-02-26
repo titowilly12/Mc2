@@ -719,6 +719,7 @@
       "minecraft:piglin_brute": "2025-02-24 06:41:15 +0000",
       "minecraft:creeper": "2025-02-23 22:28:49 +0000",
       "minecraft:phantom": "2025-02-25 03:27:32 +0000",
+      "minecraft:zombified_piglin": "2025-02-26 04:26:28 +0000",
       "minecraft:wither_skeleton": "2025-02-24 06:50:27 +0000",
       "minecraft:husk": "2025-02-23 21:24:32 +0000",
       "minecraft:piglin": "2025-02-24 06:40:48 +0000",
@@ -15932,9 +15933,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-26 04:25:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-02-26 04:00:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-26 04:25:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-02-26 04:25:11 +0000"
     },
     "done": true
   },
@@ -15950,15 +15969,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 04:27:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_brick_wall": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 03:56:28 +0000"
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-02-26 04:21:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/lapis_brick_stairs_from_bricks": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-26 04:27:45 +0000"
     },
     "done": true
   },

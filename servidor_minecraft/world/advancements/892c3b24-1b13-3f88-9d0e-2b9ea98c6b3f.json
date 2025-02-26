@@ -14681,21 +14681,9 @@
     },
     "done": true
   },
-  "zenith:enchanting/enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-02-26 04:15:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stonecutting/lapis_brick_stairs_from_bricks": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-02-26 04:16:40 +0000"
     },
     "done": true
   },
@@ -14714,6 +14702,18 @@
   "supplementaries:recipes/stonecutting/lapis_brick_wall_from_bricks": {
     "criteria": {
       "has_lapis_bricks": "2025-02-26 04:11:48 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 04:16:40 +0000"
     },
     "done": true
   },
