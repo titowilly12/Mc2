@@ -18732,6 +18732,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-02-26 22:21:19 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/jukeboxcart": {
     "criteria": {
       "hasitem": "2025-02-26 21:42:31 +0000"
@@ -18801,6 +18807,12 @@
   "techreborn:recipes/extractor/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-26 20:01:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-02-26 22:21:19 +0000"
     },
     "done": true
   },
