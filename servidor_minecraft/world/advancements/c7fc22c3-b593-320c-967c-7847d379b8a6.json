@@ -12274,5 +12274,11 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/black_coffin": {
+    "criteria": {
+      "has_item": "2025-02-27 17:59:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

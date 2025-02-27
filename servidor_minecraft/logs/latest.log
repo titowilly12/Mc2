@@ -2493,3 +2493,62 @@ BCLib - The End  BiomeSource (1000ba4f)
 [17:59:26] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [17:59:27] [Server thread/INFO]: [TitoWilly: Teleported Nikuus to 145.500000, 66.000000, 93.500000]
 [17:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[17:59:40] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Nikuus]
+[17:59:48] [Server thread/INFO]: Nikuus claimed a grave belonging to Nikuus at 145, 64, 93, minecraft:overworld
+[17:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[17:59:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[17:59:57] [Server thread/INFO]: Nikuus claimed a grave belonging to Nikuus at 145, 63, 93, minecraft:overworld
+[18:00:20] [Server thread/INFO]: [TitoWilly: Teleported Nikuus to TitoWilly]
+[18:01:06] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 2668
+[18:01:40] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 5178
+[18:01:40] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 5178
+[18:01:40] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 5178
+[18:02:42] [Server thread/INFO]: Nikuus was slain by TitoWilly using [3rFﾣr Ruby Fire Staff1]
+[18:02:47] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[18:02:50] [Server thread/INFO]: Nikuus claimed a grave belonging to Nikuus at 210, 64, 116, minecraft:overworld
+[18:02:52] [Server thread/INFO]: [Handshake] Sending channel query
+[18:02:52] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:02:52] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:02:53] [Server thread/INFO]: Setback[/127.93.142.153:36031] logged in with entity id 6541 at (1015.3315807987109, 145.0, -831.941074155534)
+[18:02:53] [Server thread/INFO]: Sending server config values to client
+[18:02:53] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[18:02:53] [Server thread/INFO]: Loading config from file...
+[18:02:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:02:53] [Server thread/INFO]: Setback joined the game
+[18:02:53] [Server thread/INFO]: Loading Configs for Sortilege
+[18:02:53] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:02:53] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[18:02:53] [Server thread/INFO]: PLAYER_JOIN
+[18:02:53] [Server thread/INFO]: add_player wand
+[18:02:53] [Server thread/INFO]: config sent
+[18:02:55] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:02:58] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[18:02:58] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[18:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18:03:04] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3330ms or 66 ticks behind
+[18:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4913ms or 98 ticks behind
+[18:04:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8000ms or 160 ticks behind
+[18:04:40] [Server thread/INFO]: [TitoWilly: Set own game mode to Creative Mode]
+[18:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4782ms or 95 ticks behind
+[18:05:03] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[18:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[18:05:28] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[18:05:28] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[18:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4269ms or 85 ticks behind
+[18:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4509ms or 90 ticks behind
+[18:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5875ms or 117 ticks behind
+[18:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6946ms or 138 ticks behind
+[18:06:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4050ms or 81 ticks behind
+[18:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5756ms or 115 ticks behind
+[18:07:29] [Server thread/INFO]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[18:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[18:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[18:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[18:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[18:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[18:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
