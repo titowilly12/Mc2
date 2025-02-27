@@ -17860,6 +17860,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-02-27 21:34:18 +0000",
       "minecraft:basalt_deltas": "2025-02-27 21:22:33 +0000"
     },
     "done": false
@@ -17930,6 +17931,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-27 19:33:12 +0000"
@@ -17939,6 +17946,12 @@
   "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:13 +0000"
     },
     "done": true
   },
@@ -17981,6 +17994,12 @@
   "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
       "has_item": "2025-02-27 20:32:52 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:whisperwind": {
+    "criteria": {
+      "requirement": "2025-02-27 21:32:00 +0000"
     },
     "done": true
   },
@@ -18074,6 +18093,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-27 21:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-02-27 21:00:50 +0000"
@@ -18095,6 +18120,18 @@
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 21:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-27 21:31:54 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/specialblades": {
+    "criteria": {
+      "arcane": "2025-02-27 21:35:10 +0000"
     },
     "done": true
   },
@@ -18317,6 +18354,12 @@
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 21:31:54 +0000"
     },
     "done": true
   },
@@ -18692,6 +18735,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-27 21:31:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
@@ -18779,6 +18828,12 @@
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-02-27 20:50:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-27 21:31:54 +0000"
     },
     "done": true
   },

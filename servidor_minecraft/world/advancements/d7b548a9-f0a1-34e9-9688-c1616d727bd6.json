@@ -21704,6 +21704,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:34:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
@@ -21743,6 +21749,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-02-27 20:32:55 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:34:58 +0000"
     },
     "done": true
   },
@@ -21971,6 +21983,12 @@
   "techreborn:recipes/extractor/sculk_from_sculk_catalyst": {
     "criteria": {
       "has_sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/falchion": {
+    "criteria": {
+      "arcane": "2025-02-27 21:34:58 +0000"
     },
     "done": true
   },
@@ -22499,6 +22517,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
+    "criteria": {
+      "got_the_netherite_fragment": "2025-02-27 21:35:07 +0000"
     },
     "done": true
   },

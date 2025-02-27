@@ -19661,6 +19661,18 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:10 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bone_wall": {
     "criteria": {
       "has_bone_block": "2025-02-27 21:18:18 +0000"
@@ -19676,6 +19688,12 @@
   "prominent:level_10": {
     "criteria": {
       "requirement": "2025-02-27 21:13:29 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/falchion": {
+    "criteria": {
+      "arcane": "2025-02-27 21:35:11 +0000"
     },
     "done": true
   },
@@ -19724,6 +19742,12 @@
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-02-27 21:34:49 +0000"
     },
     "done": true
   },

@@ -21797,6 +21797,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
     "criteria": {
       "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
@@ -21806,6 +21812,12 @@
   "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
     "criteria": {
       "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:03 +0000"
     },
     "done": true
   },

@@ -3873,3 +3873,37 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [21:35:22] [Server thread/INFO]: Nikuus has made the advancement [Hidden in the Depths]
 [21:35:58] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to 244.500000, 32.500000, -925.500000]
 [21:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21:36:13] [Server thread/INFO]: [TitoWilly: Teleported 5 entities to TitoWilly]
+[21:37:04] [Server thread/INFO]: Setback was slain by Nether Gauntlet
+[21:37:06] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:37:10] [Server thread/INFO]: [TitoWilly: Teleported Setback to TitoWilly]
+[21:37:10] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:37:11] [Server thread/INFO]: Setback was slain by Nether Gauntlet
+[21:37:14] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:37:15] [Server thread/INFO]: TitoWilly was slain by Nether Gauntlet
+[21:37:17] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[21:37:19] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:37:19] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[21:37:23] [Server thread/INFO]: [TitoWilly: Teleported Setback to TitoWilly]
+[21:37:24] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:37:26] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at 237, 19, -920, minecraft:the_nether
+[21:37:26] [Server thread/INFO]: Nikuus was slain by Nether Gauntlet
+[21:37:30] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 236, 19, -921, minecraft:the_nether
+[21:37:31] [Server thread/INFO]: Setback was slain by Nether Gauntlet
+[21:37:31] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[21:37:31] [Server thread/INFO]: Nikuus left the game
+[21:37:31] [Server thread/INFO]: remove player wand
+[21:37:31] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[21:37:33] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:37:36] [Server thread/INFO]: Brick_123 was slain by Nether Gauntlet
+[21:37:36] [Server thread/INFO]: Brick_123 lost connection: Disconnected
+[21:37:36] [Server thread/INFO]: Brick_123 left the game
+[21:37:36] [Server thread/INFO]: remove player wand
+[21:37:36] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[21:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:37:49] [Server thread/INFO]: [TitoWilly: Teleported 3 entities to TitoWilly]
+[21:37:49] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:37:50] [Server thread/INFO]: fandangolol lost connection: Disconnected
+[21:37:50] [Server thread/INFO]: fandangolol left the game
+[21:37:50] [Server thread/INFO]: remove player wand
+[21:37:50] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
