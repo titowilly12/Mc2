@@ -19119,15 +19119,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_tile": {
+    "criteria": {
+      "has_bone_slab": "2025-02-27 18:32:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_armor": {
+    "criteria": {
+      "flaming_ruby_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-02-27 18:39:39 +0000"
+    },
+    "done": false
+  },
   "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
     "criteria": {
       "has_ruby_upgrade_smithing_template": "2025-02-27 18:13:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2025-02-27 18:39:41 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-02-27 18:35:41 +0000"
     },
     "done": true
   },
@@ -19212,6 +19260,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:30 +0000"
     },
     "done": true
   },

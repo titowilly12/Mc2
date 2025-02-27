@@ -14745,6 +14745,7 @@
       "betternether:nether_jungle": "2025-02-27 18:04:59 +0000",
       "betternether:nether_swampland_terraces": "2025-02-27 07:09:23 +0000",
       "betternether:wart_forest": "2025-02-27 18:02:38 +0000",
+      "betternether:old_warped_woods": "2025-02-27 18:31:50 +0000",
       "betternether:soul_plain": "2025-02-27 18:03:21 +0000"
     },
     "done": false
@@ -20580,9 +20581,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-27 18:36:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
     },
     "done": true
   },
@@ -20598,9 +20611,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-27 18:36:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-02-27 18:11:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
     },
     "done": true
   },
@@ -20622,9 +20647,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-02-27 18:37:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_tile": {
+    "criteria": {
+      "has_bone_slab": "2025-02-27 18:32:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
     },
     "done": true
   },
@@ -20640,9 +20689,27 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-27 18:36:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-27 18:36:45 +0000"
+    },
+    "done": true
+  },
   "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
     "criteria": {
       "has_ruby_upgrade_smithing_template": "2025-02-27 18:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-27 18:36:54 +0000"
     },
     "done": true
   },
@@ -20652,9 +20719,21 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_diamond": {
+    "criteria": {
+      "cincinnasite_diamond": "2025-02-27 18:36:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-02-27 18:11:47 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:37 +0000"
     },
     "done": true
   },
@@ -20670,6 +20749,30 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sculk_from_sculk_catalyst": {
+    "criteria": {
+      "has_sculk_catalyst": "2025-02-27 18:39:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2025-02-27 18:37:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
@@ -20679,6 +20782,12 @@
   "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-02-27 18:36:45 +0000"
     },
     "done": true
   },
@@ -20695,9 +20804,21 @@
     },
     "done": false
   },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-02-27 18:34:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-27 18:36:45 +0000"
     },
     "done": true
   },
@@ -20713,9 +20834,21 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_block": {
     "criteria": {
       "has_cincinnasite": "2025-02-27 18:28:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
     },
     "done": true
   },
@@ -20737,9 +20870,33 @@
     },
     "done": true
   },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhoe, category\u003dTOOLS]": "2025-02-27 18:32:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 18:36:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
     },
     "done": true
   },
@@ -20752,6 +20909,12 @@
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-02-27 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
     },
     "done": true
   },
@@ -20791,9 +20954,33 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-02-27 18:35:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
     },
     "done": true
   },
@@ -20812,6 +20999,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sculk_shrieker": {
+    "criteria": {
+      "has_sculk_catalyst": "2025-02-27 18:39:44 +0000"
     },
     "done": true
   },
@@ -20851,6 +21044,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
@@ -20869,15 +21068,39 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-02-27 18:11:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-27 18:36:54 +0000"
     },
     "done": true
   },
@@ -20893,6 +21116,12 @@
     },
     "done": true
   },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2025-02-27 18:31:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
@@ -20905,9 +21134,39 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-27 18:36:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 18:37:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-27 18:37:27 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-27 18:35:02 +0000"
     },
     "done": true
   },
@@ -20926,6 +21185,12 @@
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_helmet": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 18:39:44 +0000"
     },
     "done": true
   },
