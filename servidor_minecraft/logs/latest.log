@@ -391,3 +391,22 @@
 [01:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
 [01:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6180ms or 123 ticks behind
 [01:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[01:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8349ms or 166 ticks behind
+[01:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11486ms or 229 ticks behind
+[01:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16971ms or 339 ticks behind
+[01:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25517ms or 510 ticks behind
+[01:09:28] [Server thread/INFO]: [Handshake] Sending channel query
+[01:09:29] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:09:29] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:09:29] [Server thread/INFO]: Nikuus[/127.61.205.57:59665] logged in with entity id 202936 at (1021.6819906250962, 145.0, -907.3381791669005)
+[01:09:29] [Server thread/INFO]: Sending server config values to client
+[01:09:29] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[01:09:29] [Server thread/INFO]: Loading config from file...
+[01:09:30] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:09:30] [Server thread/INFO]: Nikuus joined the game
+[01:09:30] [Server thread/INFO]: Loading Configs for Sortilege
+[01:09:30] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[01:09:30] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[01:09:30] [Server thread/INFO]: PLAYER_JOIN
+[01:09:30] [Server thread/INFO]: add_player wand
+[01:09:30] [Server thread/INFO]: config sent
