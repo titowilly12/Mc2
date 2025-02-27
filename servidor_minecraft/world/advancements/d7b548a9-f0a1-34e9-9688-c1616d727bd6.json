@@ -21599,6 +21599,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-02-27 20:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
@@ -21641,6 +21647,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-27 20:22:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/warped_table": {
     "criteria": {
       "has_bamboo": "2025-02-27 19:27:42 +0000"
@@ -21650,6 +21662,12 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-02-27 20:19:29 +0000"
     },
     "done": true
   },
@@ -21731,6 +21749,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-27 20:22:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
     "criteria": {
       "has_ingot": "2025-02-27 19:20:27 +0000"
@@ -21803,6 +21827,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-27 20:22:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21854,6 +21884,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-27 20:19:20 +0000"
     },
     "done": true
   },
@@ -22076,6 +22112,18 @@
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-02-27 20:19:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_leggings": {
+    "criteria": {
+      "has_evocation_robe_leggings": "2025-02-27 20:19:02 +0000"
     },
     "done": true
   },

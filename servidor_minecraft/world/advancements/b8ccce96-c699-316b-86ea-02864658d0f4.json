@@ -5508,6 +5508,7 @@
       "minecraft:piglin_brute": "2025-02-27 18:09:39 +0000",
       "minecraft:creeper": "2025-02-27 06:58:18 +0000",
       "minecraft:slime": "2025-02-23 22:19:14 +0000",
+      "minecraft:evoker": "2025-02-27 20:16:38 +0000",
       "minecraft:phantom": "2025-02-23 23:52:04 +0000",
       "minecraft:zombified_piglin": "2025-02-24 06:24:20 +0000",
       "minecraft:witch": "2025-02-24 04:31:13 +0000",
@@ -5517,6 +5518,7 @@
       "minecraft:piglin": "2025-02-24 06:34:26 +0000",
       "minecraft:enderman": "2025-02-24 04:49:02 +0000",
       "minecraft:stray": "2025-02-24 05:10:06 +0000",
+      "minecraft:vex": "2025-02-27 20:17:43 +0000",
       "minecraft:zombie": "2025-02-23 21:54:54 +0000",
       "minecraft:drowned": "2025-02-24 00:07:39 +0000",
       "minecraft:zombie_villager": "2025-02-26 23:24:37 +0000"
@@ -21809,10 +21811,17 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-02-27 20:16:38 +0000",
       "killed_illusioner": "2025-02-27 20:15:43 +0000",
       "killed_iceologer": "2025-02-27 20:15:41 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {

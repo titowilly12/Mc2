@@ -748,6 +748,7 @@
       "minecraft:spider": "2025-02-23 21:46:01 +0000",
       "minecraft:piglin_brute": "2025-02-24 06:41:15 +0000",
       "minecraft:creeper": "2025-02-23 22:28:49 +0000",
+      "minecraft:evoker": "2025-02-27 20:18:54 +0000",
       "minecraft:phantom": "2025-02-25 03:27:32 +0000",
       "minecraft:zombified_piglin": "2025-02-26 04:26:28 +0000",
       "minecraft:witch": "2025-02-27 07:24:30 +0000",
@@ -756,6 +757,7 @@
       "minecraft:cave_spider": "2025-02-27 04:04:02 +0000",
       "minecraft:piglin": "2025-02-24 06:40:48 +0000",
       "minecraft:enderman": "2025-02-24 18:10:37 +0000",
+      "minecraft:vex": "2025-02-27 20:17:16 +0000",
       "minecraft:zombie": "2025-02-23 21:00:56 +0000",
       "minecraft:drowned": "2025-02-24 05:23:15 +0000",
       "minecraft:zombie_villager": "2025-02-27 07:50:18 +0000"
@@ -19580,6 +19582,74 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-27 20:03:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-02-27 20:17:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-02-27 20:17:07 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-27 20:18:58 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-27 20:18:54 +0000",
+      "killed_illusioner": "2025-02-27 20:17:26 +0000",
+      "killed_iceologer": "2025-02-27 20:18:58 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 20:17:26 +0000"
     },
     "done": true
   },
