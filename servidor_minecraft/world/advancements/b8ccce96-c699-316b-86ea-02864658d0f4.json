@@ -586,12 +586,14 @@
       "muddy_river": "2025-02-24 18:13:15 +0000",
       "ancient_delta": "2025-02-24 04:34:17 +0000",
       "willow_forest": "2025-02-23 23:43:18 +0000",
+      "frozen_tundra": "2025-02-27 20:54:45 +0000",
       "rocky_reef": "2025-02-23 21:23:51 +0000",
       "redstone_caves": "2025-02-27 07:01:54 +0000",
       "grassy_beach": "2025-02-23 21:04:24 +0000",
       "scorching_caves": "2025-02-24 03:01:13 +0000",
       "mycotoxic_undergrowth": "2025-02-27 18:03:41 +0000",
       "maple_forest": "2025-02-24 06:45:25 +0000",
+      "frozen_pine_taiga": "2025-02-27 20:56:28 +0000",
       "tropical_river": "2025-02-23 21:28:07 +0000",
       "magnolia_highlands": "2025-02-24 06:44:56 +0000",
       "eucalyptus_forest": "2025-02-27 07:24:13 +0000",
@@ -621,9 +623,11 @@
       "pine_taiga": "2025-02-24 04:44:40 +0000",
       "muddy_river": "2025-02-24 18:13:15 +0000",
       "willow_forest": "2025-02-23 23:43:18 +0000",
+      "frozen_tundra": "2025-02-27 20:54:45 +0000",
       "rocky_reef": "2025-02-23 21:23:51 +0000",
       "grassy_beach": "2025-02-23 21:04:24 +0000",
       "maple_forest": "2025-02-24 06:45:25 +0000",
+      "frozen_pine_taiga": "2025-02-27 20:56:28 +0000",
       "tropical_river": "2025-02-23 21:28:07 +0000",
       "magnolia_highlands": "2025-02-24 06:44:56 +0000",
       "eucalyptus_forest": "2025-02-27 07:24:13 +0000",
@@ -3352,18 +3356,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-27 20:49:35 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-24 06:50:54 +0000",
       "minecraft:taiga": "2025-02-24 06:47:12 +0000",
       "minecraft:deep_ocean": "2025-02-24 04:57:56 +0000",
+      "minecraft:frozen_river": "2025-02-27 20:48:01 +0000",
       "minecraft:wooded_badlands": "2025-02-27 07:23:07 +0000",
       "minecraft:beach": "2025-02-23 21:27:38 +0000",
       "minecraft:sparse_jungle": "2025-02-23 23:35:50 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:42 +0000",
       "minecraft:river": "2025-02-23 23:32:17 +0000",
+      "minecraft:snowy_plains": "2025-02-27 20:48:51 +0000",
       "minecraft:dripstone_caves": "2025-02-24 04:58:01 +0000",
       "minecraft:snowy_taiga": "2025-02-27 20:47:30 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:45:05 +0000",
       "minecraft:forest": "2025-02-24 06:37:34 +0000",
+      "minecraft:ice_spikes": "2025-02-27 20:49:46 +0000",
       "minecraft:desert": "2025-02-23 21:26:06 +0000",
       "minecraft:ocean": "2025-02-24 03:14:59 +0000",
       "minecraft:jungle": "2025-02-24 20:48:41 +0000",
@@ -21762,6 +21770,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
@@ -21771,6 +21785,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/bronze_dust": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
     },
     "done": true
   },
@@ -21830,6 +21850,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
@@ -21872,9 +21898,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_priest": {
     "criteria": {
       "book": "2025-02-27 19:32:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
     },
     "done": true
   },
@@ -21902,6 +21964,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
@@ -21920,9 +21988,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_warrior": {
     "criteria": {
       "book": "2025-02-27 19:32:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-27 20:52:50 +0000"
     },
     "done": true
   },
@@ -21938,9 +22024,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/bronze_plate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-02-27 20:15:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
     },
     "done": true
   },

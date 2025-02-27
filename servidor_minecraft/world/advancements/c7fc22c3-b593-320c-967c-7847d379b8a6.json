@@ -5517,6 +5517,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-27 20:06:55 +0000",
       "minecraft:skeleton": "2025-02-26 20:12:20 +0000",
+      "minecraft:guardian": "2025-02-27 20:48:16 +0000",
       "minecraft:spider": "2025-02-26 21:24:20 +0000",
       "minecraft:creeper": "2025-02-27 18:30:07 +0000",
       "minecraft:witch": "2025-02-26 20:07:41 +0000",
@@ -12924,6 +12925,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-02-27 20:48:38 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 19:47:13 +0000"
@@ -12945,6 +12952,12 @@
   "minecells:unlock/kill_a_leaping_zombie": {
     "criteria": {
       "leaping_zombie_killed": "2025-02-27 20:29:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-02-27 20:49:14 +0000"
     },
     "done": true
   },
@@ -13041,6 +13054,12 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:48:38 +0000"
     },
     "done": true
   },
@@ -13482,6 +13501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:48:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-27 19:33:19 +0000"
@@ -13563,6 +13588,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-27 20:49:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-27 20:49:14 +0000"
     },
     "done": true
   },
@@ -13722,6 +13759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:26:42 +0000"
@@ -13821,6 +13864,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:48:38 +0000"
     },
     "done": true
   },
