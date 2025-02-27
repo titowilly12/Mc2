@@ -158,6 +158,8 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "arid_mountains": "2025-02-27 06:56:39 +0000",
+      "redstone_abyss": "2025-02-27 07:34:20 +0000",
       "steppe": "2025-02-24 04:47:07 +0000",
       "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 21:01:38 +0000",
@@ -199,6 +201,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "arid_mountains": "2025-02-27 06:56:39 +0000",
       "steppe": "2025-02-24 04:47:07 +0000",
       "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 21:01:38 +0000",
@@ -792,9 +795,12 @@
       "minecraft:pillager": "2025-02-23 22:10:58 +0000",
       "minecraft:blaze": "2025-02-26 06:50:05 +0000",
       "minecraft:skeleton": "2025-02-23 21:36:00 +0000",
+      "minecraft:ravager": "2025-02-27 07:28:52 +0000",
+      "minecraft:vindicator": "2025-02-27 07:08:52 +0000",
       "minecraft:magma_cube": "2025-02-26 06:41:34 +0000",
       "minecraft:spider": "2025-02-23 21:36:17 +0000",
       "minecraft:creeper": "2025-02-24 07:01:10 +0000",
+      "minecraft:evoker": "2025-02-27 07:32:50 +0000",
       "minecraft:phantom": "2025-02-24 04:19:07 +0000",
       "minecraft:witch": "2025-02-26 06:17:58 +0000",
       "minecraft:wither_skeleton": "2025-02-26 06:44:20 +0000",
@@ -15015,6 +15021,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-26 06:36:35 +0000",
+      "betternether:gravel_desert": "2025-02-27 07:34:53 +0000",
       "betternether:nether_swampland_terraces": "2025-02-26 06:29:54 +0000",
       "betternether:wart_forest": "2025-02-26 06:41:25 +0000",
       "betternether:soul_plain": "2025-02-26 06:41:56 +0000"
@@ -15023,7 +15030,8 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "infernal_holt": "2025-02-26 06:30:09 +0000"
+      "infernal_holt": "2025-02-26 06:30:09 +0000",
+      "redstone_abyss": "2025-02-27 07:34:20 +0000"
     },
     "done": false
   },
@@ -16611,27 +16619,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
-    "criteria": {
-      "has_item": "2025-02-26 23:28:40 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/parts/data_storage_chip": {
     "criteria": {
       "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "has_the_recipe": "2025-02-26 22:55:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_pane": {
-    "criteria": {
-      "has_ingredient": "2025-02-26 23:28:40 +0000"
     },
     "done": true
   },
@@ -16641,27 +16631,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/ash_bricks": {
-    "criteria": {
-      "has_ash_brick": "2025-02-26 22:55:20 +0000"
-    },
-    "done": true
-  },
-  "things:monocle": {
-    "criteria": {
-      "monocle": "2025-02-26 23:22:03 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
     "criteria": {
       "has_iridium_ingot": "2025-02-26 22:40:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/glass_from_framed_glass": {
-    "criteria": {
-      "has_item": "2025-02-26 23:28:40 +0000"
     },
     "done": true
   },
@@ -16677,9 +16649,432 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 22:55:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-02-26 22:55:20 +0000"
+    },
+    "done": true
+  },
+  "things:monocle": {
+    "criteria": {
+      "monocle": "2025-02-26 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-02-26 23:28:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-02-26 23:28:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-02-26 23:28:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-02-26 23:28:40 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_upgrade_smithing_template": {
+    "criteria": {
+      "has_sapphire_upgrade_smithing_template": "2025-02-27 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-02-27 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-02-27 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-02-27 05:14:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/rum_raisin_ice_cream": {
+    "criteria": {
+      "has_rum": "2025-02-27 05:41:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "rum": "2025-02-27 05:41:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2025-02-27 05:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-27 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-02-27 06:24:48 +0000",
+      "minecraft:cow": "2025-02-27 06:36:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-27 06:24:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-27 06:37:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-27 06:37:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-27 07:24:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-27 07:32:50 +0000",
+      "killed_illusioner": "2025-02-27 07:24:49 +0000",
+      "killed_iceologer": "2025-02-27 07:24:44 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-27 07:26:04 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-27 07:26:04 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-02-27 07:26:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
+    "criteria": {
+      "has_log": "2025-02-27 07:26:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 07:24:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 07:32:51 +0000"
     },
     "done": true
   },

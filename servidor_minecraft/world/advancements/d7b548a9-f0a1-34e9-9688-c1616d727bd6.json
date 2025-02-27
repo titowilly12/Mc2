@@ -20992,15 +20992,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
     "criteria": {
-      "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-02-27 00:41:51 +0000"
+      "has_horn_coral": "2025-02-26 23:06:18 +0000"
     },
     "done": true
   },
@@ -21010,27 +21004,201 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-02-26 23:12:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-02-26 23:28:19 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/bows/bow_shivering_bow": {
+  "promenade:recipes/crafting/vanilla_piles/allium": {
     "criteria": {
-      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+      "has_flower": "2025-02-26 23:28:19 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
+      "has_allium": "2025-02-26 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-26 23:28:19 +0000"
     },
     "done": true
   },
   "croptopia:recipes/onion_rings": {
     "criteria": {
       "has_onions": "2025-02-26 23:28:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-26 23:28:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 23:28:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-26 23:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-26 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-02-26 23:35:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-02-26 23:35:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-02-26 23:39:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-26 23:44:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
     },
     "done": true
   },
@@ -21046,33 +21214,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_potato_crate": "2025-02-27 00:32:35 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-02-27 00:40:16 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-02-27 00:23:55 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
@@ -21082,39 +21226,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/cincinnasite_frame": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern_small": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-02-26 23:28:20 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/allium": {
-    "criteria": {
-      "has_flower": "2025-02-26 23:28:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-02-27 00:23:55 +0000"
     },
     "done": true
   },
@@ -21133,12 +21247,6 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/cincinnasite_button": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
     },
     "done": true
   },
@@ -21166,81 +21274,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/carrot_from_crate": {
-    "criteria": {
-      "has_carrot_crate": "2025-02-27 00:32:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-02-27 00:23:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-26 23:30:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-26 23:28:20 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-02-26 23:44:58 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_framed": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 00:50:15 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-02-27 00:24:37 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
-    "criteria": {
-      "has_rail": "2025-02-27 00:23:55 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
@@ -21262,45 +21304,15 @@
     },
     "done": true
   },
-  "brewery:main/get_saturated": {
-    "criteria": {
-      "saturated": "2025-02-27 00:17:20 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/eat_everything": {
-    "criteria": {
-      "potato_salad": "2025-02-27 00:17:20 +0000"
-    },
-    "done": false
-  },
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
     },
     "done": true
   },
-  "betternether:cincinnasite_ore": {
-    "criteria": {
-      "cincinnasite_ore": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_boots": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-02-27 00:33:16 +0000"
     },
     "done": true
   },
@@ -21322,42 +21334,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/kelp": {
-    "criteria": {
-      "has_kelp": "2025-02-26 23:30:59 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2025-02-26 23:39:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_chestplate": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-26 23:30:59 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 00:50:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-26 23:30:59 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21370,21 +21346,9 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_chains": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-02-27 00:40:16 +0000"
     },
     "done": true
   },
@@ -21394,27 +21358,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-02-26 23:28:19 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-02-26 23:28:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
     },
     "done": true
   },
@@ -21424,39 +21370,15 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_interceptor": {
-    "criteria": {
-      "has_base_block": "2025-02-27 00:27:29 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-02-26 23:35:37 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shears": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
@@ -21469,12 +21391,6 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_shingles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
-    "criteria": {
-      "has_horn_coral": "2025-02-26 23:06:18 +0000"
     },
     "done": true
   },
@@ -21496,24 +21412,6 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/cincinnasite_leggings": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_helmet": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
-    "criteria": {
-      "has_kelp": "2025-02-26 23:30:59 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21526,21 +21424,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-02-26 23:35:37 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/transportation/ghost_rail": {
-    "criteria": {
-      "has_item": "2025-02-27 00:23:55 +0000"
     },
     "done": true
   },
@@ -21568,15 +21454,129 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "brewery:main/get_saturated": {
     "criteria": {
-      "beetroots": "2025-02-26 23:12:50 +0000"
+      "saturated": "2025-02-27 00:17:20 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "brewery:main/eat_everything": {
     "criteria": {
-      "has_onion": "2025-02-26 23:28:20 +0000"
+      "potato_salad": "2025-02-27 00:17:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-27 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-02-27 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-02-27 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-02-27 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-27 00:33:16 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-02-27 00:40:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-27 00:40:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-27 00:41:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
