@@ -2643,10 +2643,12 @@
       "minecraft:skeleton": "2025-02-24 02:47:40 +0000",
       "minecraft:ghast": "2025-02-26 06:52:29 +0000",
       "minecraft:hoglin": "2025-02-25 03:47:15 +0000",
+      "minecraft:vindicator": "2025-02-27 20:14:10 +0000",
       "minecraft:magma_cube": "2025-02-26 05:51:20 +0000",
       "minecraft:spider": "2025-02-23 22:27:38 +0000",
       "minecraft:creeper": "2025-02-23 23:49:41 +0000",
       "minecraft:phantom": "2025-02-24 02:36:21 +0000",
+      "minecraft:witch": "2025-02-27 20:15:56 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:44:35 +0000",
       "minecraft:husk": "2025-02-23 21:24:16 +0000",
       "minecraft:cave_spider": "2025-02-23 22:39:12 +0000",
@@ -21597,6 +21599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21645,6 +21653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_table": {
     "criteria": {
       "has_warped_table": "2025-02-27 19:27:42 +0000"
@@ -21687,6 +21701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-02-27 19:48:22 +0000"
@@ -21717,9 +21737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },
@@ -21789,9 +21821,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_twisting_vine_bow": {
     "criteria": {
       "has_warped_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },
@@ -21810,6 +21854,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },
@@ -21837,9 +21887,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },
@@ -21873,6 +21935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_hoe": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
@@ -21882,6 +21950,12 @@
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },
@@ -21933,6 +22007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21942,6 +22022,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },
@@ -22014,6 +22100,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
     },
     "done": true
   },

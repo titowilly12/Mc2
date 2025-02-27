@@ -5498,9 +5498,11 @@
       "minecraft:blaze": "2025-02-27 07:39:21 +0000",
       "minecraft:skeleton": "2025-02-23 21:37:34 +0000",
       "minecraft:elder_guardian": "2025-02-26 06:49:06 +0000",
+      "minecraft:ravager": "2025-02-27 20:15:01 +0000",
       "minecraft:ghast": "2025-02-27 07:35:40 +0000",
       "minecraft:hoglin": "2025-02-27 07:27:40 +0000",
       "minecraft:guardian": "2025-02-26 06:28:31 +0000",
+      "minecraft:vindicator": "2025-02-27 20:14:23 +0000",
       "minecraft:magma_cube": "2025-02-27 18:00:22 +0000",
       "minecraft:spider": "2025-02-23 22:33:55 +0000",
       "minecraft:piglin_brute": "2025-02-27 18:09:39 +0000",
@@ -11243,7 +11245,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-02-24 02:41:24 +0000"
+      "in_better_monster_room": "2025-02-24 02:41:24 +0000",
+      "in_better_spider_dungeon": "2025-02-27 20:10:05 +0000"
     },
     "done": false
   },
@@ -21744,9 +21747,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_fire": {
     "criteria": {
       "book": "2025-02-27 19:23:26 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-27 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
@@ -21756,15 +21789,82 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_arcane": {
     "criteria": {
       "book": "2025-02-27 19:23:31 +0000"
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 20:15:43 +0000",
+      "killed_iceologer": "2025-02-27 20:15:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-27 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-27 20:14:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_priest": {
     "criteria": {
       "book": "2025-02-27 19:32:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
@@ -21780,9 +21880,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_warrior": {
     "criteria": {
       "book": "2025-02-27 19:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 20:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },

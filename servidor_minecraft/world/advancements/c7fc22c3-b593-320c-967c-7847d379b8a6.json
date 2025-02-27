@@ -587,7 +587,9 @@
       "outback": "2025-02-24 05:06:59 +0000",
       "sparse_redwoods": "2025-02-26 20:06:51 +0000",
       "towering_cliffs": "2025-02-24 05:34:08 +0000",
+      "chalk_cliffs": "2025-02-27 20:15:01 +0000",
       "saguaro_desert": "2025-02-24 06:24:39 +0000",
+      "baobab_savanna": "2025-02-27 20:13:04 +0000",
       "grassland": "2025-02-24 05:08:34 +0000",
       "prairie": "2025-02-27 00:21:15 +0000",
       "redwoods": "2025-02-24 04:44:38 +0000",
@@ -604,7 +606,9 @@
       "outback": "2025-02-24 05:06:59 +0000",
       "sparse_redwoods": "2025-02-26 20:06:51 +0000",
       "towering_cliffs": "2025-02-24 05:34:08 +0000",
+      "chalk_cliffs": "2025-02-27 20:15:01 +0000",
       "saguaro_desert": "2025-02-24 06:24:39 +0000",
+      "baobab_savanna": "2025-02-27 20:13:04 +0000",
       "grassland": "2025-02-24 05:08:34 +0000",
       "prairie": "2025-02-27 00:21:15 +0000",
       "redwoods": "2025-02-24 04:44:38 +0000",
@@ -624,7 +628,8 @@
       "potato": "2025-02-24 05:35:37 +0000",
       "bread": "2025-02-24 04:49:57 +0000",
       "cookie": "2025-02-24 20:28:36 +0000",
-      "salmon": "2025-02-24 04:53:35 +0000"
+      "salmon": "2025-02-24 04:53:35 +0000",
+      "golden_carrot": "2025-02-27 19:57:28 +0000"
     },
     "done": false
   },
@@ -636,6 +641,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-02-27 20:07:48 +0000",
+      "minecraft:badlands": "2025-02-27 20:11:30 +0000",
       "minecraft:beach": "2025-02-24 04:58:00 +0000",
       "minecraft:mangrove_swamp": "2025-02-26 20:43:38 +0000",
       "minecraft:sparse_jungle": "2025-02-24 04:50:14 +0000",
@@ -5503,6 +5510,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-27 20:06:55 +0000",
       "minecraft:skeleton": "2025-02-26 20:12:20 +0000",
       "minecraft:spider": "2025-02-26 21:24:20 +0000",
       "minecraft:creeper": "2025-02-27 18:30:07 +0000",
@@ -12905,6 +12913,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2025-02-27 20:05:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_diamond_helmet": "2025-02-27 19:47:51 +0000"
@@ -13103,6 +13117,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/desert_graveyard": {
+    "criteria": {
+      "small_desert_graveyard": "2025-02-27 20:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13145,6 +13165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-27 20:07:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13181,6 +13207,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_02": "2025-02-27 20:05:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13196,6 +13228,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_cut_sandstone": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-27 20:07:44 +0000"
     },
     "done": true
   },
@@ -13307,6 +13345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-27 20:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13334,6 +13378,12 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-27 20:07:44 +0000"
     },
     "done": true
   },
