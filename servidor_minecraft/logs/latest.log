@@ -3681,3 +3681,86 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8841ms or 176 ticks behind
 [22:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6683ms or 133 ticks behind
 [22:21:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7970ms or 159 ticks behind
+[22:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11931ms or 238 ticks behind
+[22:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16672ms or 333 ticks behind
+[22:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10386ms or 207 ticks behind
+[22:22:35] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain]] from pos class_2338{x=-2357, y=71, z=1637}
+[22:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10354ms or 207 ticks behind
+[22:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7687ms or 153 ticks behind
+[22:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8074ms or 161 ticks behind
+[22:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8407ms or 168 ticks behind
+[22:24:10] [Server thread/INFO]: [fandangolol: Teleported fandangolol to Brick_123]
+[22:24:10] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[22:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6744ms or 134 ticks behind
+[22:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6555ms or 131 ticks behind
+[22:24:54] [Server thread/INFO]: [Brick_123: Teleported Brick_123 to fandangolol]
+[22:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4384ms or 87 ticks behind
+[22:25:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3994ms or 79 ticks behind
+[22:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3264ms or 65 ticks behind
+[22:26:01] [Server thread/INFO]: [Handshake] Sending channel query
+[22:26:02] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[22:26:02] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[22:26:02] [Server thread/INFO]: TitoWilly[/127.144.231.0:50511] logged in with entity id 45506 at (-1054.7284949433615, 54.0, -944.8299286591903)
+[22:26:02] [Server thread/INFO]: Sending server config values to client
+[22:26:02] [Server thread/INFO]: Syncing config to TitoWilly (48508611-5ac5-3287-a37b-baccee41d47d)
+[22:26:02] [Server thread/INFO]: Loading config from file...
+[22:26:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:26:02] [Server thread/INFO]: TitoWilly joined the game
+[22:26:02] [Server thread/INFO]: Loading Configs for Sortilege
+[22:26:02] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:26:02] [Server thread/INFO]: PLAYER_JOIN
+[22:26:02] [Server thread/INFO]: add_player wand
+[22:26:02] [Server thread/INFO]: config sent
+[22:26:02] [Server thread/INFO]: Updating all forceload tickets for 48508611-5ac5-3287-a37b-baccee41d47d
+[22:26:04] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[22:26:05] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: TitoWilly -> Global
+[22:26:05] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player TitoWilly. Claiming: GRAVE / Robbing: INVENTORY
+[22:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5935ms or 118 ticks behind
+[22:26:14] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[22:26:26] [Server thread/INFO]: Brick_123 has made the advancement [Create: Estrogen]
+[22:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10789ms or 215 ticks behind
+[22:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9477ms or 189 ticks behind
+[22:27:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9551ms or 191 ticks behind
+[22:27:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9129ms or 182 ticks behind
+[22:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10071ms or 201 ticks behind
+[22:28:37] [Server thread/INFO]: TitoWilly lost connection: Disconnected
+[22:28:37] [Server thread/INFO]: TitoWilly left the game
+[22:28:37] [Server thread/INFO]: remove player wand
+[22:28:37] [Server thread/INFO]: Updating all forceload tickets for 48508611-5ac5-3287-a37b-baccee41d47d
+[22:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9632ms or 192 ticks behind
+[22:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7691ms or 153 ticks behind
+[22:29:06] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:shout Entity not found: 47078
+[22:29:08] [Server thread/INFO]: [fandangolol: Teleported fandangolol to Setback]
+[22:29:16] [Server thread/INFO]: Nikuus has reached the goal [Postmortal]
+[22:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7948ms or 158 ticks behind
+[22:29:25] [Server thread/INFO]: <Brick_123> a
+[22:29:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[22:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5742ms or 114 ticks behind
+[22:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
+[22:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4811ms or 96 ticks behind
+[22:30:49] [Server thread/INFO]: <Brick_123> A
+[22:30:58] [Server thread/INFO]: <Brick_123> a
+[22:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[22:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8376ms or 167 ticks behind
+[22:31:25] [Server thread/INFO]: Nikuus has made the advancement [Best Friends Forever]
+[22:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9412ms or 188 ticks behind
+[22:32:02] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 52041
+[22:32:03] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 52042
+[22:32:04] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 52040
+[22:32:04] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 52040
+[22:32:05] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 52040
+[22:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7884ms or 157 ticks behind
+[22:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4940ms or 98 ticks behind
+[22:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7377ms or 147 ticks behind
+[22:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
+[22:33:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4659ms or 93 ticks behind
+[22:33:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4912ms or 98 ticks behind
+[22:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7683ms or 153 ticks behind
+[22:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13286ms or 265 ticks behind
+[22:34:56] [Server thread/INFO]: [Brick_123: Teleported Nikuus to Brick_123]
+[22:34:57] [Server thread/INFO]: <Brick_123> A
+[22:35:11] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos class_2338{x=-2395, y=67, z=2811}
+[22:35:22] [Server thread/INFO]: <Nikuus> m
+[22:35:22] [Server thread/INFO]: <fandangolol> %item%
+[22:35:27] [Server thread/INFO]: [Nikuus: Teleported Nikuus to 213.500000, 64.500000, 113.500000]
+[22:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29416ms or 588 ticks behind

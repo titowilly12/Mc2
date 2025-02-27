@@ -580,6 +580,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-02-27 22:34:49 +0000",
       "shrubland": "2025-02-24 18:05:20 +0000",
       "redstone_abyss": "2025-02-27 18:18:11 +0000",
       "pine_taiga": "2025-02-24 04:44:40 +0000",
@@ -620,6 +621,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-02-27 22:34:49 +0000",
       "shrubland": "2025-02-24 18:05:20 +0000",
       "pine_taiga": "2025-02-24 04:44:40 +0000",
       "muddy_river": "2025-02-24 18:13:15 +0000",
@@ -3370,12 +3372,14 @@
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:42 +0000",
       "minecraft:river": "2025-02-23 23:32:17 +0000",
       "minecraft:snowy_plains": "2025-02-27 20:48:51 +0000",
+      "minecraft:stony_shore": "2025-02-27 22:23:00 +0000",
       "minecraft:dripstone_caves": "2025-02-24 04:58:01 +0000",
       "minecraft:snowy_taiga": "2025-02-27 20:47:30 +0000",
       "minecraft:cold_ocean": "2025-02-27 20:45:05 +0000",
       "minecraft:forest": "2025-02-24 06:37:34 +0000",
       "minecraft:ice_spikes": "2025-02-27 20:49:46 +0000",
       "minecraft:desert": "2025-02-23 21:26:06 +0000",
+      "minecraft:windswept_forest": "2025-02-27 22:30:49 +0000",
       "minecraft:ocean": "2025-02-24 03:14:59 +0000",
       "minecraft:jungle": "2025-02-24 20:48:41 +0000",
       "minecraft:snowy_beach": "2025-02-27 20:47:33 +0000",
@@ -22351,15 +22355,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/gilded_glory_boots": {
     "criteria": {
       "has_upgrade_item": "2025-02-27 22:13:00 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
       "has_totem_of_undying": "2025-02-27 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-27 22:21:44 +0000"
     },
     "done": true
   },
@@ -22381,9 +22403,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-02-27 22:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-27 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
     },
     "done": true
   },
@@ -22393,9 +22433,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-02-27 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2025-02-27 22:32:11 +0000"
     },
     "done": true
   },
@@ -22405,9 +22457,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/gilded_glory_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-02-27 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
     },
     "done": true
   },
@@ -22417,9 +22493,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2025-02-27 22:32:11 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-02-27 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2025-02-27 22:32:11 +0000"
     },
     "done": true
   },

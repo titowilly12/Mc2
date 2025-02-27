@@ -167,6 +167,7 @@
       "frozen_tundra": "2025-02-26 23:55:38 +0000",
       "rocky_reef": "2025-02-23 21:23:17 +0000",
       "grassy_beach": "2025-02-23 21:20:10 +0000",
+      "scorching_caves": "2025-02-27 22:27:13 +0000",
       "rocky_meadow": "2025-02-24 06:34:49 +0000",
       "flower_fields": "2025-02-25 00:07:07 +0000",
       "frozen_pine_taiga": "2025-02-26 23:51:23 +0000",
@@ -175,6 +176,7 @@
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
       "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "deciduous_forest": "2025-02-27 22:32:14 +0000",
       "boreal_forest": "2025-02-26 23:33:13 +0000",
       "glistering_meadow": "2025-02-27 21:26:39 +0000",
       "infernal_holt": "2025-02-25 03:08:46 +0000",
@@ -183,10 +185,12 @@
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "temperate_grove": "2025-02-24 07:01:57 +0000",
       "cold_river": "2025-02-24 06:50:17 +0000",
+      "baobab_savanna": "2025-02-27 22:32:22 +0000",
       "grassland": "2025-02-26 07:11:43 +0000",
       "prairie": "2025-02-26 07:11:56 +0000",
       "gravel_beach": "2025-02-24 06:49:46 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
+      "icy_heights": "2025-02-27 22:24:44 +0000",
       "rainforest": "2025-02-23 21:59:29 +0000",
       "lupine_plains": "2025-02-23 23:29:27 +0000"
     },
@@ -231,16 +235,19 @@
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
       "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "deciduous_forest": "2025-02-27 22:32:14 +0000",
       "boreal_forest": "2025-02-26 23:33:13 +0000",
       "bamboo_forest": "2025-02-23 23:05:58 +0000",
       "cold_boreal_taiga": "2025-02-26 23:33:42 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "temperate_grove": "2025-02-24 07:01:57 +0000",
       "cold_river": "2025-02-24 06:50:17 +0000",
+      "baobab_savanna": "2025-02-27 22:32:22 +0000",
       "grassland": "2025-02-26 07:11:43 +0000",
       "prairie": "2025-02-26 07:11:56 +0000",
       "gravel_beach": "2025-02-24 06:49:46 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
+      "icy_heights": "2025-02-27 22:24:44 +0000",
       "rainforest": "2025-02-23 21:59:29 +0000",
       "lupine_plains": "2025-02-23 23:29:27 +0000"
     },
@@ -22988,6 +22995,30 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2025-02-27 22:27:13 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_nether_brick": "2025-02-27 22:22:48 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-02-27 22:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-27 22:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-27 22:09:39 +0000"
@@ -23009,6 +23040,12 @@
   "mcdw:recipes/bows/bow_weeping_vine_bow": {
     "criteria": {
       "has_weeping_vines": "2025-02-27 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-27 22:22:48 +0000"
     },
     "done": true
   },
