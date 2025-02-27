@@ -21609,9 +21609,21 @@
     },
     "done": true
   },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
     },
     "done": true
   },
@@ -21675,6 +21687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21699,9 +21717,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dark_katana": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/pool_minecart": {
+    "criteria": {
+      "has_item": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sculk_from_sculk_catalyst": {
+    "criteria": {
+      "has_sculk_catalyst": "2025-02-27 19:48:43 +0000"
     },
     "done": true
   },
@@ -21729,6 +21765,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21738,6 +21780,12 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
     },
     "done": true
   },
@@ -21753,9 +21801,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
     },
     "done": true
   },
@@ -21777,9 +21843,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
     },
     "done": true
   },
@@ -21789,9 +21867,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-27 19:48:22 +0000"
     },
     "done": true
   },
@@ -21861,6 +21963,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/sculk_shrieker": {
+    "criteria": {
+      "has_sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
     "criteria": {
       "has_wooden_sword": "2025-02-27 19:30:43 +0000"
@@ -21873,9 +21981,21 @@
     },
     "done": true
   },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
     },
     "done": true
   },
@@ -21909,6 +22029,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21924,6 +22050,42 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-27 19:49:02 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_helmet": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
     },
     "done": true
   },

@@ -21750,6 +21750,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-02-27 19:44:58 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_arcane": {
     "criteria": {
       "book": "2025-02-27 19:23:31 +0000"

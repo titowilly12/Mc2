@@ -12791,6 +12791,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-27 19:47:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -12800,6 +12812,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-27 19:47:13 +0000"
     },
     "done": true
   },
@@ -12821,9 +12845,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
     },
     "done": true
   },
@@ -12839,6 +12887,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/specialblades": {
     "criteria": {
       "arcane": "2025-02-27 19:36:21 +0000"
@@ -12851,9 +12905,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-27 19:47:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
     "criteria": {
       "got_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
     },
     "done": true
   },
@@ -12869,9 +12947,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-02-27 19:48:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
     },
     "done": true
   },
@@ -12899,9 +13007,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-27 19:47:43 +0000"
     },
     "done": true
   },
@@ -12917,15 +13037,51 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-02-27 19:24:15 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
     },
     "done": true
   },
@@ -12959,15 +13115,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
     },
     "done": true
   },
@@ -12995,9 +13169,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-27 19:47:53 +0000"
     },
     "done": true
   },
@@ -13013,9 +13205,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-27 19:47:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
     },
     "done": true
   },
@@ -13031,15 +13235,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-27 19:47:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
     },
     "done": true
   },
@@ -13079,9 +13313,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-27 19:47:51 +0000"
     },
     "done": true
   },
@@ -13109,6 +13355,18 @@
     },
     "done": true
   },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-27 19:47:44 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-27 19:47:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13121,9 +13379,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-02-27 19:47:13 +0000"
     },
     "done": true
   },
