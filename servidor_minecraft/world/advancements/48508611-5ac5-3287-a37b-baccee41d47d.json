@@ -19240,6 +19240,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 18:37:30 +0000"
@@ -19336,6 +19342,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
@@ -19357,6 +19369,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
     },
     "done": true
   },
@@ -19399,6 +19417,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
     },
     "done": true
   },
@@ -19507,6 +19531,24 @@
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-27 19:03:23 +0000"
     },
     "done": true
   },

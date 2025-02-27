@@ -20741,6 +20741,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_nether_brick_tile_stairs": {
+    "criteria": {
+      "has_nether_brick_tile_small": "2025-02-27 19:02:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
     "criteria": {
       "has_polished_basalt": "2025-02-27 18:46:45 +0000"
@@ -21072,6 +21078,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_nether_brick_tile_slab": {
+    "criteria": {
+      "has_nether_brick_tile_small": "2025-02-27 19:02:53 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:00:59 +0000"
@@ -21192,6 +21204,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_small": "2025-02-27 19:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-27 18:58:21 +0000"
@@ -21285,6 +21303,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-02-27 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_small": "2025-02-27 19:02:53 +0000"
     },
     "done": true
   },

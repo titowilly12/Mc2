@@ -17371,6 +17371,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-02-27 18:48:41 +0000"
@@ -17380,6 +17392,12 @@
   "fwaystones:recipes/deepslate_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-02-27 18:40:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
     },
     "done": true
   },
@@ -17422,6 +17440,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
     },
     "done": true
   },
@@ -17470,6 +17494,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
@@ -17503,6 +17533,18 @@
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-02-27 19:04:46 +0000"
     },
     "done": true
   },
@@ -17542,6 +17584,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/desert_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-02-27 18:40:39 +0000"
@@ -17554,6 +17602,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
@@ -17563,6 +17617,12 @@
   "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
     },
     "done": true
   },
@@ -17590,15 +17650,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/waystone_scroll": {
     "criteria": {
       "has_abyss_watcher": "2025-02-27 18:40:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-02-27 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-27 19:06:58 +0000"
     },
     "done": true
   },
@@ -17611,6 +17689,18 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-02-27 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-02-27 19:04:46 +0000"
     },
     "done": true
   },
@@ -17632,6 +17722,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-02-27 19:04:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone_smithing": {
     "criteria": {
       "has_sandstone": "2025-02-27 18:38:48 +0000"
@@ -17647,6 +17743,12 @@
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-27 19:04:46 +0000"
     },
     "done": true
   },
