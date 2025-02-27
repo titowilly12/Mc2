@@ -20171,6 +20171,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-26 05:36:51 +0000",
+      "betternether:nether_jungle": "2025-02-27 21:12:06 +0000",
       "betternether:nether_swampland_terraces": "2025-02-25 03:07:11 +0000",
       "betternether:wart_forest": "2025-02-26 06:40:52 +0000",
       "betternether:soul_plain": "2025-02-26 05:38:28 +0000"
@@ -21731,6 +21732,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-27 21:08:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_nightstand": {
     "criteria": {
       "has_warped_nightstand": "2025-02-27 19:27:42 +0000"
@@ -21914,6 +21921,12 @@
   "stoneworks:recipes/building_blocks/cobbled_quartz_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_forge": {
+    "criteria": {
+      "use_forge": "2025-02-27 21:06:11 +0000"
     },
     "done": true
   },
@@ -22418,6 +22431,12 @@
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-27 21:08:53 +0000"
     },
     "done": true
   },

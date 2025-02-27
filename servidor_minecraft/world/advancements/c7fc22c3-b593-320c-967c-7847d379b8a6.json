@@ -12805,6 +12805,12 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:nether_jungle": "2025-02-27 21:08:58 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-02-27 20:31:52 +0000"
@@ -12832,6 +12838,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-02-27 21:08:56 +0000"
     },
     "done": true
   },
@@ -13279,6 +13291,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-27 21:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13456,6 +13474,12 @@
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_02": "2025-02-27 20:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-27 21:08:56 +0000"
     },
     "done": true
   },
@@ -13672,6 +13696,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-27 21:08:56 +0000"
     },
     "done": true
   },

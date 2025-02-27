@@ -612,6 +612,7 @@
       "grassland": "2025-02-23 23:34:32 +0000",
       "prairie": "2025-02-27 04:43:18 +0000",
       "redwoods": "2025-02-23 20:58:21 +0000",
+      "icy_heights": "2025-02-27 21:06:18 +0000",
       "bioshroom_caves": "2025-02-24 04:34:12 +0000",
       "lupine_plains": "2025-02-23 23:42:01 +0000"
     },
@@ -644,6 +645,7 @@
       "grassland": "2025-02-23 23:34:32 +0000",
       "prairie": "2025-02-27 04:43:18 +0000",
       "redwoods": "2025-02-23 20:58:21 +0000",
+      "icy_heights": "2025-02-27 21:06:18 +0000",
       "lupine_plains": "2025-02-23 23:42:01 +0000"
     },
     "done": false
@@ -3361,6 +3363,7 @@
       "minecraft:taiga": "2025-02-24 06:47:12 +0000",
       "minecraft:deep_ocean": "2025-02-24 04:57:56 +0000",
       "minecraft:frozen_river": "2025-02-27 20:48:01 +0000",
+      "minecraft:windswept_hills": "2025-02-27 20:57:57 +0000",
       "minecraft:wooded_badlands": "2025-02-27 07:23:07 +0000",
       "minecraft:beach": "2025-02-23 21:27:38 +0000",
       "minecraft:sparse_jungle": "2025-02-23 23:35:50 +0000",
@@ -21770,15 +21773,39 @@
     },
     "done": true
   },
+  "frostiful:recipes/decorations/packed_snow": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_slab": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_bricks_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
     },
     "done": true
   },
@@ -21800,6 +21827,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-02-27 20:15:41 +0000"
@@ -21812,15 +21845,33 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/cacophonium": {
     "criteria": {
       "has_item": "2025-02-27 19:44:58 +0000"
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-02-27 20:57:46 +0000"
     },
     "done": true
   },
@@ -21850,6 +21901,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_walls": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
@@ -21859,6 +21916,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-02-27 21:03:56 +0000"
     },
     "done": true
   },
@@ -21877,6 +21940,12 @@
   "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_wall_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
     },
     "done": true
   },
@@ -21910,9 +21979,33 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_slab_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_stairs": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/wrench": {
     "criteria": {
       "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 21:00:24 +0000"
     },
     "done": true
   },
@@ -21931,6 +22024,24 @@
   "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-27 20:58:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-02-27 20:59:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab": {
+    "criteria": {
+      "has_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
     },
     "done": true
   },
@@ -21976,6 +22087,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_packed_ice_wall": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
@@ -21985,6 +22102,18 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/obtain_frostology_cloak": {
+    "criteria": {
+      "frostology_cloak": "2025-02-27 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
     },
     "done": true
   },
@@ -22006,6 +22135,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-02-27 20:58:06 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2025-02-27 20:52:50 +0000"
@@ -22015,6 +22156,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 20:59:29 +0000"
     },
     "done": true
   },
@@ -22033,6 +22180,18 @@
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-02-27 20:15:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_bricks": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
     },
     "done": true
   },
