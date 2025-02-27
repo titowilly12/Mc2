@@ -20141,6 +20141,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-02-27 07:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 07:28:46 +0000"
@@ -20156,6 +20162,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-27 07:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
     },
     "done": true
   },
@@ -20297,6 +20309,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-02-27 07:36:53 +0000"
@@ -20345,9 +20363,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2025-02-27 07:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
     },
     "done": true
   },
@@ -20375,6 +20405,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 07:28:46 +0000"
@@ -20396,6 +20432,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-27 07:36:53 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
     },
     "done": true
   },
@@ -20471,6 +20513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-27 07:51:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-27 07:27:43 +0000"
@@ -20492,6 +20540,12 @@
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2025-02-27 07:36:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-02-27 07:51:58 +0000"
     },
     "done": true
   },
