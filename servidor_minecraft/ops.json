@@ -4,5 +4,35 @@
     "name": "TitoWilly",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d7b548a9-f0a1-34e9-9688-c1616d727bd6",
+    "name": "fandangolol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "05ac9b98-06a8-4969-86e2-9fdaff9bb240",
+    "name": "SE",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b8ccce96-c699-316b-86ea-02864658d0f4",
+    "name": "Brick_123",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c7fc22c3-b593-320c-967c-7847d379b8a6",
+    "name": "Nikuus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f",
+    "name": "Setback",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

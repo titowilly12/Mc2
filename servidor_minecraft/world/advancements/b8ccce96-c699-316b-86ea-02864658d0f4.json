@@ -21767,165 +21767,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/decorations/packed_snow": {
-    "criteria": {
-      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice_slab": {
-    "criteria": {
-      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_stairs_from_block_stonecutting": {
-    "criteria": {
-      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/levitation_block": {
-    "criteria": {
-      "has_blazing_eye": "2025-02-27 21:35:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
-    "criteria": {
-      "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
-    "criteria": {
-      "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2025-02-27 21:35:03 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
-    "criteria": {
-      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_bricks_from_block_stonecutting": {
-    "criteria": {
-      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/bronze_dust": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
   "rpg_series:path_choose_fire": {
     "criteria": {
       "book": "2025-02-27 19:23:26 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
-    "criteria": {
-      "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_iceologer": {
-    "criteria": {
-      "killed_iceologer": "2025-02-27 20:15:41 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
-    "criteria": {
-      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "yellow_bioshroom": "2025-02-27 21:25:12 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/diamond_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/cacophonium": {
-    "criteria": {
-      "has_item": "2025-02-27 19:44:58 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
-    },
-    "done": true
-  },
-  "prominent:level_10": {
-    "criteria": {
-      "requirement": "2025-02-27 21:13:29 +0000"
-    },
-    "done": true
-  },
-  "frostiful:adventure/find_frostologer_castle": {
-    "criteria": {
-      "castle": "2025-02-27 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/aluminum_dust": {
-    "criteria": {
-      "has_tag_c_aluminum_ingots": "2025-02-27 21:20:08 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
-    "criteria": {
-      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-02-27 21:20:08 +0000"
     },
     "done": true
   },
@@ -21935,65 +21779,57 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
+  "rpg_series:spell_novice_arcane": {
     "criteria": {
-      "killed_evoker": "2025-02-27 20:16:38 +0000",
-      "killed_illusioner": "2025-02-27 20:15:43 +0000",
-      "killed_iceologer": "2025-02-27 20:15:41 +0000"
+      "bind": "2025-02-27 19:27:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+  "rpg_series:spell_novice_fire": {
     "criteria": {
-      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+      "bind": "2025-02-27 19:27:18 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "rpg_series:path_choose_priest": {
     "criteria": {
-      "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+      "book": "2025-02-27 19:32:34 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/building_block/packed_snow_brick_walls": {
+  "rpg_series:path_choose_rogue": {
     "criteria": {
-      "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+      "book": "2025-02-27 19:32:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+  "rpg_series:path_choose_warrior": {
     "criteria": {
-      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+      "book": "2025-02-27 19:32:41 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/aluminum_plate": {
+  "botania:recipes/tools/cacophonium": {
     "criteria": {
-      "has_tag_c_aluminum_ingots": "2025-02-27 21:20:08 +0000"
+      "has_item": "2025-02-27 19:44:58 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
-      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/string_from_crossbow": {
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
-      "has_crossbow": "2025-02-27 21:03:56 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-27 20:10:05 +0000"
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
@@ -22009,141 +21845,9 @@
     },
     "done": true
   },
-  "frostiful:recipes/building_block/packed_snow_brick_wall_from_block_stonecutting": {
-    "criteria": {
-      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "condition_0": "2025-02-27 21:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-27 20:14:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_slab_from_block_stonecutting": {
-    "criteria": {
-      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice_stairs": {
-    "criteria": {
-      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/diamond_plate_from_block": {
-    "criteria": {
-      "has_diamond_block": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-02-27 21:20:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/wrench": {
-    "criteria": {
-      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
-    "criteria": {
-      "has_core_specification_item": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_priest": {
-    "criteria": {
-      "book": "2025-02-27 19:32:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-02-27 20:58:15 +0000"
-    },
-    "done": true
-  },
-  "frostiful:adventure/kill_frostologer": {
-    "criteria": {
-      "frostologer": "2025-02-27 20:59:45 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_brick_slab": {
-    "criteria": {
-      "has_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
     },
     "done": true
   },
@@ -22153,15 +21857,51 @@
     },
     "done": true
   },
-  "rpg_series:spell_novice_fire": {
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
-      "bind": "2025-02-27 19:27:18 +0000"
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
-  "rpg_series:spell_novice_arcane": {
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
     "criteria": {
-      "bind": "2025-02-27 19:27:15 +0000"
+      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-27 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
     },
     "done": true
   },
@@ -22171,27 +21911,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/painting_tool": {
-    "criteria": {
-      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_packed_ice_wall": {
-    "criteria": {
-      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
   },
@@ -22201,105 +21923,15 @@
     },
     "done": true
   },
-  "frostiful:adventure/obtain_frostology_cloak": {
-    "criteria": {
-      "frostology_cloak": "2025-02-27 20:59:53 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
-    "criteria": {
-      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_warrior": {
-    "criteria": {
-      "book": "2025-02-27 19:32:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_banner": {
-    "criteria": {
-      "has_banner": "2025-02-27 20:58:06 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/coarse_dirt_slab": {
-    "criteria": {
-      "has_coarse_dirt": "2025-02-27 20:52:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
-    "criteria": {
-      "has_core_specification_item": "2025-02-27 20:59:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/bronze_plate": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_illusioner": {
-    "criteria": {
-      "killed_illusioner": "2025-02-27 20:15:43 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-02-27 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/packed_snow_bricks": {
-    "criteria": {
-      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
-    "criteria": {
-      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
     },
     "done": true
   },
@@ -22315,15 +21947,383 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+      "voluntary_exile": "2025-02-27 20:14:23 +0000"
     },
     "done": true
   },
-  "rpg_series:path_choose_rogue": {
+  "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
-      "book": "2025-02-27 19:32:38 +0000"
+      "killed_iceologer": "2025-02-27 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-27 20:16:38 +0000",
+      "killed_illusioner": "2025-02-27 20:15:43 +0000",
+      "killed_iceologer": "2025-02-27 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 20:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-27 20:52:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/bronze_dust": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/bronze_plate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-02-27 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_walls": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab": {
+    "criteria": {
+      "has_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-02-27 20:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-27 20:58:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/decorations/packed_snow": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_bricks_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_wall_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab_from_block_stonecutting": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_bricks": {
+    "criteria": {
+      "has_packed_snow_block": "2025-02-27 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 20:59:29 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-02-27 20:59:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/obtain_frostology_cloak": {
+    "criteria": {
+      "frostology_cloak": "2025-02-27 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_slab": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_stairs": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_wall": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-02-27 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-02-27 21:03:56 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-02-27 21:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-02-27 21:15:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-02-27 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-27 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-02-27 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-27 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:03 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-02-27 21:35:03 +0000"
     },
     "done": true
   },
