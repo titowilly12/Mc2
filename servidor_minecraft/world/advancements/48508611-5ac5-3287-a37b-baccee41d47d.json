@@ -19149,6 +19149,18 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/specialblades": {
+    "criteria": {
+      "arcane": "2025-02-27 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_diamond": {
+    "criteria": {
+      "cincinnasite_diamond": "2025-02-27 18:41:25 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 18:37:30 +0000"
