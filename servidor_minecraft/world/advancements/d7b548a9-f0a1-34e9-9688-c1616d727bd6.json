@@ -160,6 +160,7 @@
     "criteria": {
       "silver_birch_forest": "2025-02-24 06:43:30 +0000",
       "shrubland": "2025-02-24 06:59:29 +0000",
+      "cold_deciduous_forest": "2025-02-27 00:08:51 +0000",
       "muddy_river": "2025-02-26 23:55:11 +0000",
       "willow_forest": "2025-02-24 06:33:42 +0000",
       "frozen_tundra": "2025-02-26 23:55:38 +0000",
@@ -213,6 +214,7 @@
     "criteria": {
       "silver_birch_forest": "2025-02-24 06:43:30 +0000",
       "shrubland": "2025-02-24 06:59:29 +0000",
+      "cold_deciduous_forest": "2025-02-27 00:08:51 +0000",
       "muddy_river": "2025-02-26 23:55:11 +0000",
       "willow_forest": "2025-02-24 06:33:42 +0000",
       "frozen_tundra": "2025-02-26 23:55:38 +0000",
@@ -2565,6 +2567,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-27 00:06:42 +0000",
       "minecraft:deep_ocean": "2025-02-26 23:20:49 +0000",
       "minecraft:frozen_river": "2025-02-26 23:41:18 +0000",
       "minecraft:sunflower_plains": "2025-02-25 00:10:52 +0000",
@@ -2588,6 +2591,7 @@
       "minecraft:warm_ocean": "2025-02-24 01:08:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-23 23:57:24 +0000",
       "minecraft:flower_forest": "2025-02-25 00:08:21 +0000",
+      "minecraft:deep_dark": "2025-02-27 00:24:37 +0000",
       "minecraft:plains": "2025-02-23 23:04:51 +0000"
     },
     "done": false
@@ -21033,6 +21037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21066,6 +21076,12 @@
   "promenade:recipes/crafting/vanilla_piles/allium": {
     "criteria": {
       "has_flower": "2025-02-26 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
     },
     "done": true
   },
@@ -21129,6 +21145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-26 23:30:59 +0000"
@@ -21159,6 +21181,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-27 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21176,6 +21210,18 @@
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
     },
     "done": true
+  },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2025-02-27 00:17:20 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/eat_everything": {
+    "criteria": {
+      "potato_salad": "2025-02-27 00:17:20 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
@@ -21408,6 +21454,12 @@
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-02-27 00:23:55 +0000"
     },
     "done": true
   },

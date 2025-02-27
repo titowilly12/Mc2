@@ -18752,6 +18752,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_water": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2025-02-27 00:13:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/cincinnasite_button": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
@@ -18830,6 +18836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-02-27 00:13:50 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-26 23:44:57 +0000"
@@ -18851,6 +18863,12 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
     "criteria": {
       "has_chain": "2025-02-26 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-02-27 00:11:39 +0000"
     },
     "done": true
   },
@@ -18923,6 +18941,12 @@
   "copycats:recipes/misc/stonecutting/copycat_fence": {
     "criteria": {
       "has_item": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2025-02-27 00:13:50 +0000"
     },
     "done": true
   },
@@ -19007,6 +19031,12 @@
   "betternether:recipes/tools/cincinnasite_chestplate": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-02-27 00:11:50 +0000"
     },
     "done": true
   },
@@ -19130,6 +19160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-02-27 00:13:50 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-02-26 23:44:57 +0000"
@@ -19238,6 +19274,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/raw_gold": {
+    "criteria": {
+      "has_tag_c_gold_ores": "2025-02-27 00:13:50 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2025-02-26 23:44:57 +0000"
@@ -19301,6 +19343,12 @@
   "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-02-26 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2025-02-27 00:13:50 +0000"
     },
     "done": true
   },

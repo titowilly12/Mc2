@@ -13,3 +13,116 @@
 [00:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7939ms or 158 ticks behind
 [00:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6126ms or 122 ticks behind
 [00:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6085ms or 121 ticks behind
+[00:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10410ms or 208 ticks behind
+[00:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6478ms or 129 ticks behind
+[00:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5714ms or 114 ticks behind
+[00:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5666ms or 113 ticks behind
+[00:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6198ms or 123 ticks behind
+[00:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5762ms or 115 ticks behind
+[00:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7912ms or 158 ticks behind
+[00:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8759ms or 175 ticks behind
+[00:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6484ms or 129 ticks behind
+[00:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7236ms or 144 ticks behind
+[00:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6634ms or 132 ticks behind
+[00:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6521ms or 130 ticks behind
+[00:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6494ms or 129 ticks behind
+[00:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8614ms or 172 ticks behind
+[00:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7019ms or 140 ticks behind
+[00:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7543ms or 150 ticks behind
+[00:10:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5417ms or 108 ticks behind
+[00:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
+[00:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
+[00:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6173ms or 123 ticks behind
+[00:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
+[00:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6765ms or 135 ticks behind
+[00:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6532ms or 130 ticks behind
+[00:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6521ms or 130 ticks behind
+[00:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5950ms or 119 ticks behind
+[00:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6074ms or 121 ticks behind
+[00:14:03] [Server thread/INFO]: [Handshake] Sending channel query
+[00:14:03] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:14:03] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:14:03] [Server thread/INFO]: Nikuus[/127.61.205.57:42795] logged in with entity id 168077 at (145.49647057763974, 63.085764312744146, 93.8496098613674)
+[00:14:03] [Server thread/INFO]: Sending server config values to client
+[00:14:03] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:14:03] [Server thread/INFO]: Loading config from file...
+[00:14:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:14:03] [Server thread/INFO]: Nikuus joined the game
+[00:14:03] [Server thread/INFO]: Loading Configs for Sortilege
+[00:14:03] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:14:04] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:14:04] [Server thread/INFO]: PLAYER_JOIN
+[00:14:04] [Server thread/INFO]: add_player wand
+[00:14:04] [Server thread/INFO]: config sent
+[00:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
+[00:14:20] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:14:22] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:14:23] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6259ms or 125 ticks behind
+[00:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[00:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6888ms or 137 ticks behind
+[00:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
+[00:15:51] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7362ms or 147 ticks behind
+[00:16:03] [Server thread/INFO]: Nikuus lost connection: Timed out
+[00:16:03] [Server thread/INFO]: Nikuus left the game
+[00:16:03] [Server thread/INFO]: remove player wand
+[00:16:03] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7062ms or 141 ticks behind
+[00:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6049ms or 120 ticks behind
+[00:16:55] [Server thread/INFO]: [Handshake] Sending channel query
+[00:16:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:16:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:16:56] [Server thread/INFO]: Nikuus[/127.61.205.57:46471] logged in with entity id 169948 at (145.49647057763974, 63.085764312744146, 93.8496098613674)
+[00:16:56] [Server thread/INFO]: Sending server config values to client
+[00:16:56] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:16:56] [Server thread/INFO]: Loading config from file...
+[00:16:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:16:56] [Server thread/INFO]: Nikuus joined the game
+[00:16:56] [Server thread/INFO]: Loading Configs for Sortilege
+[00:16:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:16:56] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:16:56] [Server thread/INFO]: PLAYER_JOIN
+[00:16:56] [Server thread/INFO]: add_player wand
+[00:16:56] [Server thread/INFO]: config sent
+[00:17:02] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:17:02] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:17:02] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7782ms or 155 ticks behind
+[00:17:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6404ms or 128 ticks behind
+[00:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6559ms or 131 ticks behind
+[00:17:49] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6233ms or 124 ticks behind
+[00:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6620ms or 132 ticks behind
+[00:18:41] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:18:48] [Server thread/INFO]: <Nikuus> f
+[00:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9812ms or 196 ticks behind
+[00:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12250ms or 245 ticks behind
+[00:19:49] [Server thread/INFO]: <Nikuus> hola yo soy mateo
+[00:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11569ms or 231 ticks behind
+[00:19:53] [Server thread/INFO]: <Brick_123> suicidate man
+[00:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11250ms or 225 ticks behind
+[00:20:22] [Server thread/INFO]: <Nikuus> hola
+[00:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10867ms or 217 ticks behind
+[00:20:50] [Server thread/INFO]: <Nikuus> maldita sea estoy en san pene
+[00:20:58] [Server thread/INFO]: <Nikuus> 1200 metros
+[00:21:07] [Server thread/INFO]: No entity was found
+[00:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11201ms or 224 ticks behind
+[00:21:14] [Server thread/INFO]: Teleported Nikuus to Setback
+[00:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7700ms or 154 ticks behind
+[00:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6082ms or 121 ticks behind
+[00:22:00] [Server thread/INFO]: <Nikuus> hola gracias por tepearme
+[00:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6074ms or 121 ticks behind
+[00:22:21] [Server thread/INFO]: <Nikuus> hola porque me trajiste a tu casa setback
+[00:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5925ms or 118 ticks behind
+[00:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[00:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6154ms or 123 ticks behind
+[00:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8014ms or 160 ticks behind
+[00:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[00:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8114ms or 162 ticks behind
+[00:24:50] [Server thread/INFO]: <Nikuus> hola señor herobrine
+[00:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[00:24:55] [Server thread/INFO]: <Nikuus> podria tpearme al chamo
+[00:25:02] [Server thread/INFO]: <Nikuus> no tengo exp para irme con el waystone
+[00:25:05] [Server thread/INFO]: <Nikuus> gracias hero brine
+[00:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6472ms or 129 ticks behind
