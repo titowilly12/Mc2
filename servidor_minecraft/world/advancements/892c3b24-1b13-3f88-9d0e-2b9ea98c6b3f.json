@@ -184,6 +184,7 @@
       "saguaro_desert": "2025-02-23 21:23:34 +0000",
       "temperate_grove": "2025-02-27 19:56:22 +0000",
       "cold_river": "2025-02-27 19:59:32 +0000",
+      "pumpkin_fields": "2025-02-27 20:41:04 +0000",
       "pine_slopes": "2025-02-27 19:10:27 +0000",
       "baobab_savanna": "2025-02-24 03:06:14 +0000",
       "grassland": "2025-02-24 03:04:56 +0000",
@@ -240,6 +241,7 @@
       "saguaro_desert": "2025-02-23 21:23:34 +0000",
       "temperate_grove": "2025-02-27 19:56:22 +0000",
       "cold_river": "2025-02-27 19:59:32 +0000",
+      "pumpkin_fields": "2025-02-27 20:41:04 +0000",
       "pine_slopes": "2025-02-27 19:10:27 +0000",
       "baobab_savanna": "2025-02-24 03:06:14 +0000",
       "grassland": "2025-02-24 03:04:56 +0000",
@@ -828,6 +830,7 @@
       "minecraft:blaze": "2025-02-26 06:50:05 +0000",
       "minecraft:skeleton": "2025-02-23 21:36:00 +0000",
       "minecraft:ravager": "2025-02-27 07:28:52 +0000",
+      "minecraft:guardian": "2025-02-27 20:35:21 +0000",
       "minecraft:vindicator": "2025-02-27 07:08:52 +0000",
       "minecraft:magma_cube": "2025-02-26 06:41:34 +0000",
       "minecraft:spider": "2025-02-23 21:36:17 +0000",
@@ -17849,6 +17852,42 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-02-27 20:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-27 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-02-27 20:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-27 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-27 20:33:18 +0000"
+    },
+    "done": true
+  },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2025-02-27 19:27:26 +0000"
@@ -17867,9 +17906,21 @@
     },
     "done": true
   },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-02-27 20:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-27 20:33:18 +0000"
     },
     "done": true
   },
@@ -17891,9 +17942,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:32:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-02-27 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-27 20:36:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-27 20:36:49 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/vertical_oxidized_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-27 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-27 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-27 20:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:32:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-27 20:32:52 +0000"
     },
     "done": true
   },

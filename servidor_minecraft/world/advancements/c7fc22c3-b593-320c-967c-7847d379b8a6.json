@@ -12804,6 +12804,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-27 20:31:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -12843,6 +12849,12 @@
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-02-27 20:41:22 +0000"
     },
     "done": true
   },
@@ -12906,6 +12918,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-02-27 20:31:52 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 19:47:13 +0000"
@@ -12915,6 +12933,12 @@
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-02-27 20:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-02-27 20:40:48 +0000"
     },
     "done": true
   },
@@ -12939,6 +12963,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-27 20:31:52 +0000"
     },
     "done": true
   },
@@ -13098,6 +13128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-27 20:47:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13176,6 +13212,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-27 20:31:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:47:48 +0000"
@@ -13203,6 +13245,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-27 20:32:01 +0000"
     },
     "done": true
   },
@@ -13245,6 +13293,18 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-27 20:29:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-27 20:31:52 +0000"
     },
     "done": true
   },
@@ -13332,6 +13392,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-27 20:47:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
@@ -13341,6 +13407,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-27 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-27 20:47:35 +0000"
     },
     "done": true
   },
@@ -13356,9 +13428,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-27 20:47:35 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_02": "2025-02-27 20:05:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-02-27 20:31:52 +0000"
     },
     "done": true
   },
@@ -13494,6 +13578,12 @@
     },
     "done": true
   },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-02-27 20:41:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-27 19:49:05 +0000"
@@ -13566,9 +13656,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-02-27 20:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-27 20:47:35 +0000"
     },
     "done": true
   },

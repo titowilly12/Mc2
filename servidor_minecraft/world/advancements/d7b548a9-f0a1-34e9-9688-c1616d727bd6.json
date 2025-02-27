@@ -21617,6 +21617,18 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column": {
+    "criteria": {
+      "has_item": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_warped": {
     "criteria": {
       "has_the_recipe": "2025-02-27 19:27:42 +0000"
@@ -21641,6 +21653,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21662,6 +21692,18 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-27 20:32:55 +0000"
     },
     "done": true
   },
@@ -21701,6 +21743,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_chair": {
     "criteria": {
       "has_warped_chair": "2025-02-27 19:27:42 +0000"
@@ -21731,6 +21785,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21755,6 +21815,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
     "criteria": {
       "has_ingot": "2025-02-27 19:20:27 +0000"
@@ -21767,6 +21833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-02-27 19:49:02 +0000"
@@ -21776,6 +21848,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -21821,9 +21899,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_boots": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -21857,6 +21959,12 @@
     },
     "done": true
   },
+  "quartzelv:recipes/building_blocks/quartz_elevator_from_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_twisting_vine_bow": {
     "criteria": {
       "has_warped_planks": "2025-02-27 19:27:42 +0000"
@@ -21866,6 +21974,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -21887,9 +22007,27 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 20:32:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -21905,9 +22043,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_leggings": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -21926,6 +22094,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -21959,6 +22133,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -21974,6 +22154,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -22049,9 +22247,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -22064,6 +22274,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -22121,6 +22337,36 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_shingle_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plates_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/ember_robe_leggings": {
     "criteria": {
       "has_evocation_robe_leggings": "2025-02-27 20:19:02 +0000"
@@ -22133,6 +22379,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2025-02-27 19:27:42 +0000"
@@ -22142,6 +22394,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -22175,6 +22433,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -22187,9 +22451,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
@@ -22198,6 +22474,30 @@
       "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-27 19:49:02 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
     "criteria": {
@@ -22223,9 +22523,21 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_helmet": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:42:43 +0000"
     },
     "done": true
   },
