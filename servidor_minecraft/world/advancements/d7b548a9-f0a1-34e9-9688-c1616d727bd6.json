@@ -2828,7 +2828,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-23 21:28:20 +0000",
-      "opened_chest": "2025-02-23 21:27:22 +0000"
+      "opened_chest": "2025-02-23 21:27:22 +0000",
+      "opened_cart": "2025-02-27 00:41:51 +0000"
     },
     "done": false
   },
@@ -20995,6 +20996,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-27 00:41:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_bars": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
@@ -21028,6 +21035,18 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-02-27 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-02-27 00:40:16 +0000"
     },
     "done": true
   },
@@ -21130,6 +21149,12 @@
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-02-27 00:32:25 +0000"
     },
     "done": true
   },
@@ -21247,6 +21272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-27 00:33:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21319,6 +21350,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-27 00:40:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21352,6 +21389,12 @@
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-02-27 00:27:29 +0000"
     },
     "done": true
   },

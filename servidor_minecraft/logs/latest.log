@@ -126,3 +126,177 @@
 [00:25:02] [Server thread/INFO]: <Nikuus> no tengo exp para irme con el waystone
 [00:25:05] [Server thread/INFO]: <Nikuus> gracias hero brine
 [00:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6472ms or 129 ticks behind
+[00:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9043ms or 180 ticks behind
+[00:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9504ms or 190 ticks behind
+[00:26:17] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[00:26:17] [Server thread/INFO]: Nikuus left the game
+[00:26:17] [Server thread/INFO]: remove player wand
+[00:26:17] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6702ms or 134 ticks behind
+[00:26:30] [Server thread/INFO]: [Handshake] Sending channel query
+[00:26:30] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[00:26:30] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[00:26:32] [Server thread/INFO]: Nikuus[/127.61.205.57:46683] logged in with entity id 175451 at (1021.6819906250962, 145.0, -907.3381791669005)
+[00:26:32] [Server thread/INFO]: Sending server config values to client
+[00:26:32] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:26:32] [Server thread/INFO]: Loading config from file...
+[00:26:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:26:32] [Server thread/INFO]: Nikuus joined the game
+[00:26:32] [Server thread/INFO]: Loading Configs for Sortilege
+[00:26:32] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:26:32] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:26:32] [Server thread/INFO]: PLAYER_JOIN
+[00:26:32] [Server thread/INFO]: add_player wand
+[00:26:32] [Server thread/INFO]: config sent
+[00:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6743ms or 134 ticks behind
+[00:26:53] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[00:26:53] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:26:53] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7518ms or 150 ticks behind
+[00:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6902ms or 138 ticks behind
+[00:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6757ms or 135 ticks behind
+[00:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6890ms or 137 ticks behind
+[00:28:29] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6967ms or 139 ticks behind
+[00:28:38] [Server thread/INFO]: Nikuus lost connection: Timed out
+[00:28:38] [Server thread/INFO]: Nikuus left the game
+[00:28:38] [Server thread/INFO]: remove player wand
+[00:28:38] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7816ms or 156 ticks behind
+[00:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5839ms or 116 ticks behind
+[00:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
+[00:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5817ms or 116 ticks behind
+[00:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
+[00:30:35] [Server thread/INFO]: <Setback> afk
+[00:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6421ms or 128 ticks behind
+[00:30:54] [Server thread/INFO]: [Handshake] Sending channel query
+[00:30:54] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[00:30:54] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[00:30:55] [Server thread/INFO]: Nikuus[/127.61.205.57:44631] logged in with entity id 178108 at (1021.6819906250962, 145.0, -907.3381791669005)
+[00:30:55] [Server thread/INFO]: Sending server config values to client
+[00:30:55] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:30:55] [Server thread/INFO]: Loading config from file...
+[00:30:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:30:55] [Server thread/INFO]: Nikuus joined the game
+[00:30:55] [Server thread/INFO]: Loading Configs for Sortilege
+[00:30:55] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:30:55] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:30:55] [Server thread/INFO]: PLAYER_JOIN
+[00:30:55] [Server thread/INFO]: add_player wand
+[00:30:55] [Server thread/INFO]: config sent
+[00:31:01] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:31:01] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:31:01] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7213ms or 144 ticks behind
+[00:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8502ms or 170 ticks behind
+[00:31:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
+[00:31:58] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8685ms or 173 ticks behind
+[00:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8431ms or 168 ticks behind
+[00:32:55] [Server thread/INFO]: Nikuus lost connection: Timed out
+[00:32:55] [Server thread/INFO]: Nikuus left the game
+[00:32:55] [Server thread/INFO]: remove player wand
+[00:32:55] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7816ms or 156 ticks behind
+[00:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4901ms or 98 ticks behind
+[00:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[00:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:34:20] [Server thread/INFO]: [Handshake] Sending channel query
+[00:34:21] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[00:34:21] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[00:34:21] [Server thread/INFO]: Nikuus[/127.61.205.57:35929] logged in with entity id 180247 at (1021.6819906250962, 145.0, -907.3381791669005)
+[00:34:21] [Server thread/INFO]: Sending server config values to client
+[00:34:21] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:34:21] [Server thread/INFO]: Loading config from file...
+[00:34:21] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:34:21] [Server thread/INFO]: Nikuus joined the game
+[00:34:21] [Server thread/INFO]: Loading Configs for Sortilege
+[00:34:21] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:34:21] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:34:21] [Server thread/INFO]: PLAYER_JOIN
+[00:34:21] [Server thread/INFO]: add_player wand
+[00:34:21] [Server thread/INFO]: config sent
+[00:34:29] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:34:29] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:34:29] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
+[00:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[00:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[00:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[00:35:40] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[00:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3114ms or 62 ticks behind
+[00:36:21] [Server thread/INFO]: Nikuus lost connection: Timed out
+[00:36:21] [Server thread/INFO]: Nikuus left the game
+[00:36:21] [Server thread/INFO]: remove player wand
+[00:36:21] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4050ms or 81 ticks behind
+[00:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4000ms or 80 ticks behind
+[00:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6566ms or 131 ticks behind
+[00:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7443ms or 148 ticks behind
+[00:38:24] [Server thread/INFO]: INTENCITIES has made the advancement [The Parrots and the Bats]
+[00:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6828ms or 136 ticks behind
+[00:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7001ms or 140 ticks behind
+[00:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6963ms or 139 ticks behind
+[00:39:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7098ms or 141 ticks behind
+[00:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7304ms or 146 ticks behind
+[00:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6951ms or 139 ticks behind
+[00:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7307ms or 146 ticks behind
+[00:41:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6875ms or 137 ticks behind
+[00:41:14] [Server thread/INFO]: [Handshake] Sending channel query
+[00:41:15] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:41:15] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:41:15] [Server thread/INFO]: Nikuus[/127.61.205.57:54043] logged in with entity id 184422 at (1021.6819906250962, 145.0, -907.3381791669005)
+[00:41:15] [Server thread/INFO]: Sending server config values to client
+[00:41:15] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:41:15] [Server thread/INFO]: Loading config from file...
+[00:41:15] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:41:15] [Server thread/INFO]: Nikuus joined the game
+[00:41:15] [Server thread/INFO]: Loading Configs for Sortilege
+[00:41:15] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:41:16] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:41:16] [Server thread/INFO]: PLAYER_JOIN
+[00:41:16] [Server thread/INFO]: add_player wand
+[00:41:16] [Server thread/INFO]: config sent
+[00:41:23] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:41:24] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:41:24] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:41:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8436ms or 168 ticks behind
+[00:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8844ms or 176 ticks behind
+[00:41:51] [Server thread/INFO]: fandangolol has made the advancement [Tunnel Treasures]
+[00:42:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8740ms or 174 ticks behind
+[00:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8592ms or 171 ticks behind
+[00:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8867ms or 177 ticks behind
+[00:43:15] [Server thread/INFO]: Nikuus lost connection: Timed out
+[00:43:15] [Server thread/INFO]: Nikuus left the game
+[00:43:15] [Server thread/INFO]: remove player wand
+[00:43:15] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8211ms or 164 ticks behind
+[00:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7594ms or 151 ticks behind
+[00:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7156ms or 143 ticks behind
+[00:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7389ms or 147 ticks behind
+[00:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7393ms or 147 ticks behind
+[00:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7604ms or 152 ticks behind
+[00:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7628ms or 152 ticks behind
+[00:45:43] [Server thread/INFO]: [Handshake] Sending channel query
+[00:45:44] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[00:45:44] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[00:45:44] [Server thread/INFO]: Nikuus[/127.61.205.57:57035] logged in with entity id 186248 at (1021.6819906250962, 145.0, -907.3381791669005)
+[00:45:44] [Server thread/INFO]: Sending server config values to client
+[00:45:44] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:45:44] [Server thread/INFO]: Loading config from file...
+[00:45:44] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:45:44] [Server thread/INFO]: Nikuus joined the game
+[00:45:44] [Server thread/INFO]: Loading Configs for Sortilege
+[00:45:44] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:45:44] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:45:44] [Server thread/INFO]: PLAYER_JOIN
+[00:45:44] [Server thread/INFO]: add_player wand
+[00:45:44] [Server thread/INFO]: config sent
+[00:45:55] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:45:55] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[00:45:55] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[00:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9057ms or 181 ticks behind

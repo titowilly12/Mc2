@@ -13867,6 +13867,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-02-27 00:44:44 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-26 23:25:06 +0000"
@@ -13920,6 +13926,12 @@
       "has_oak_dining_bench": "2025-02-26 22:50:16 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-27 00:38:24 +0000"
+    },
+    "done": false
   },
   "mcda:recipes/base_armors/phantom_armor_chestplate": {
     "criteria": {
@@ -14008,6 +14020,12 @@
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-02-26 22:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-27 00:38:24 +0000"
     },
     "done": true
   },
