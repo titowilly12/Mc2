@@ -15079,7 +15079,8 @@
       "betternether:nether_jungle": "2025-02-27 18:24:55 +0000",
       "betternether:nether_swampland_terraces": "2025-02-26 06:29:54 +0000",
       "betternether:wart_forest": "2025-02-26 06:41:25 +0000",
-      "betternether:soul_plain": "2025-02-26 06:41:56 +0000"
+      "betternether:soul_plain": "2025-02-26 06:41:56 +0000",
+      "betternether:sulfuric_bone_reef": "2025-02-27 21:25:05 +0000"
     },
     "done": false
   },
@@ -17839,6 +17840,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2025-02-27 21:02:19 +0000"
@@ -17869,6 +17876,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/fried_chicken": {
     "criteria": {
       "has_cooked_chicken": "2025-02-27 21:06:24 +0000"
@@ -17878,6 +17897,12 @@
   "techreborn:recipes/crafting_table/machine/lamp_led": {
     "criteria": {
       "has_glowstone_dust": "2025-02-27 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
     },
     "done": true
   },
@@ -17899,6 +17924,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-27 19:33:12 +0000"
@@ -17914,6 +17945,12 @@
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-02-27 20:50:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
     },
     "done": true
   },
@@ -17995,6 +18032,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/amethyst_blocks/polished_amethyst": {
     "criteria": {
       "has_item": "2025-02-27 21:01:44 +0000"
@@ -18028,6 +18077,12 @@
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-02-27 21:00:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
     },
     "done": true
   },
@@ -18133,9 +18188,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-02-27 20:49:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },
@@ -18223,6 +18290,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
@@ -18262,6 +18335,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },
@@ -18319,6 +18398,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
     "criteria": {
       "has_ram_armor_trim_smithing_template": "2025-02-27 20:19:27 +0000"
@@ -18355,6 +18446,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
@@ -18388,6 +18491,18 @@
   "techreborn:recipes/centrifuge/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-02-27 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },
@@ -18457,9 +18572,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
     },
     "done": true
   },
@@ -18478,6 +18605,18 @@
   "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-02-27 21:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },
@@ -18547,9 +18686,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-27 21:27:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },
@@ -18559,9 +18710,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2025-02-27 21:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },
@@ -18619,6 +18788,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-02-27 21:27:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_written_book": {
     "criteria": {
       "has_written_book": "2025-02-27 21:05:13 +0000"
@@ -18637,9 +18812,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-27 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-02-27 21:26:06 +0000"
     },
     "done": true
   },
@@ -18652,6 +18839,12 @@
   "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_water": {
     "criteria": {
       "has_tag_c_diamond_ores": "2025-02-27 21:00:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-27 21:26:12 +0000"
     },
     "done": true
   },

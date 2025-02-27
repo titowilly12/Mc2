@@ -21797,6 +21797,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
@@ -21844,6 +21856,12 @@
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2025-02-27 21:25:12 +0000"
+    },
+    "done": false
   },
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
