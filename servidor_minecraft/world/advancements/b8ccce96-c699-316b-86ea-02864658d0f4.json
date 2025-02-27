@@ -21869,15 +21869,33 @@
     },
     "done": true
   },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-02-27 21:13:29 +0000"
+    },
+    "done": true
+  },
   "frostiful:adventure/find_frostologer_castle": {
     "criteria": {
       "castle": "2025-02-27 20:57:46 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-02-27 21:20:08 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-27 21:20:08 +0000"
     },
     "done": true
   },
@@ -21895,6 +21913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-27 20:19:20 +0000"
@@ -21904,6 +21928,18 @@
   "frostiful:recipes/building_block/packed_snow_brick_walls": {
     "criteria": {
       "has_cut_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-02-27 21:20:08 +0000"
     },
     "done": true
   },
@@ -21949,6 +21985,12 @@
     },
     "done": true
   },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-02-27 21:15:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 20:13:47 +0000"
@@ -21961,6 +22003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 20:02:19 +0000"
@@ -21970,6 +22018,12 @@
   "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
     },
     "done": true
   },
@@ -21994,6 +22048,12 @@
   "techreborn:recipes/compressor/diamond_plate_from_block": {
     "criteria": {
       "has_diamond_block": "2025-02-27 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-27 21:20:08 +0000"
     },
     "done": true
   },
@@ -22042,6 +22102,12 @@
   "frostiful:recipes/building_block/packed_snow_brick_slab": {
     "criteria": {
       "has_packed_snow_bricks": "2025-02-27 20:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
     },
     "done": true
   },
@@ -22174,6 +22240,12 @@
   "techreborn:recipes/compressor/bronze_plate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-27 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-27 21:15:17 +0000"
     },
     "done": true
   },

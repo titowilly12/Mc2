@@ -3367,6 +3367,7 @@
       "baked_potato": "2025-02-23 22:49:17 +0000",
       "potato": "2025-02-23 22:52:44 +0000",
       "bread": "2025-02-23 21:21:42 +0000",
+      "golden_apple": "2025-02-27 21:13:17 +0000",
       "rotten_flesh": "2025-02-23 22:37:40 +0000",
       "cookie": "2025-02-26 04:07:41 +0000",
       "melon_slice": "2025-02-26 06:51:10 +0000",
@@ -10522,7 +10523,8 @@
       "betternether:nether_swampland_terraces": "2025-02-24 06:25:34 +0000",
       "betternether:wart_forest": "2025-02-26 06:43:19 +0000",
       "betternether:old_warped_woods": "2025-02-27 06:58:54 +0000",
-      "betternether:soul_plain": "2025-02-26 06:35:24 +0000"
+      "betternether:soul_plain": "2025-02-26 06:35:24 +0000",
+      "betternether:sulfuric_bone_reef": "2025-02-27 21:18:02 +0000"
     },
     "done": false
   },
@@ -19650,6 +19652,84 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-02-27 20:19:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bone_wall": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-02-27 21:13:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-02-27 21:13:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_block_bone_plate": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_slab": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bone_stalactite_bone_block": {
+    "criteria": {
+      "has_bone_stalactite": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-02-27 21:22:00 +0000"
     },
     "done": true
   },

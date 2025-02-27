@@ -2605,6 +2605,7 @@
     "criteria": {
       "baked_potato": "2025-02-23 21:43:25 +0000",
       "bread": "2025-02-23 21:23:48 +0000",
+      "golden_apple": "2025-02-27 21:13:17 +0000",
       "cookie": "2025-02-24 03:07:02 +0000",
       "rotten_flesh": "2025-02-26 23:25:39 +0000",
       "golden_carrot": "2025-02-25 04:13:13 +0000",
@@ -2648,6 +2649,7 @@
       "minecraft:spider": "2025-02-23 22:27:38 +0000",
       "minecraft:creeper": "2025-02-23 23:49:41 +0000",
       "minecraft:phantom": "2025-02-24 02:36:21 +0000",
+      "minecraft:zombified_piglin": "2025-02-27 21:19:26 +0000",
       "minecraft:witch": "2025-02-27 20:15:56 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:44:35 +0000",
       "minecraft:husk": "2025-02-23 21:24:16 +0000",
@@ -20171,6 +20173,9 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-26 05:36:51 +0000",
+      "betternether:bone_reef": "2025-02-27 21:17:50 +0000",
+      "betternether:flooded_deltas": "2025-02-27 21:19:35 +0000",
+      "betternether:gravel_desert": "2025-02-27 21:14:17 +0000",
       "betternether:nether_jungle": "2025-02-27 21:12:06 +0000",
       "betternether:nether_swampland_terraces": "2025-02-25 03:07:11 +0000",
       "betternether:wart_forest": "2025-02-26 06:40:52 +0000",
@@ -21618,6 +21623,18 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-27 21:20:12 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/columns/quartz_column": {
     "criteria": {
       "has_item": "2025-02-27 20:42:43 +0000"
@@ -21627,6 +21644,12 @@
   "stoneworks:recipes/building_blocks/quartz_paver_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/polished_bloodstone": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
     },
     "done": true
   },
@@ -21642,9 +21665,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/glaive_of_hodir": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dark_moon_greatsword": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -21708,9 +21743,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bone_wall": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:17:53 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/ember_robe_helmet": {
     "criteria": {
       "has_evocation_robe_helmet": "2025-02-27 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-27 21:17:53 +0000"
     },
     "done": true
   },
@@ -21744,15 +21791,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_fancy_bed": {
     "criteria": {
       "has_warped_fancy_bed": "2025-02-27 19:27:42 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -21822,6 +21887,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
@@ -21837,6 +21908,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -21870,6 +21947,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-02-27 21:13:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/pool_minecart": {
     "criteria": {
       "has_item": "2025-02-27 19:48:22 +0000"
@@ -21879,6 +21968,12 @@
   "techreborn:recipes/extractor/sculk_from_sculk_catalyst": {
     "criteria": {
       "has_sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -21897,6 +21992,18 @@
   "betternether:recipes/decorations/warped_crafting_table": {
     "criteria": {
       "has_warped_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -21954,9 +22061,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-27 21:17:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/polished_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
     },
     "done": true
   },
@@ -22005,6 +22124,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -22092,6 +22217,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
@@ -22116,6 +22247,18 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone_wall": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/crucible_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
@@ -22128,15 +22271,33 @@
     },
     "done": true
   },
+  "soulsweapons:lord_soul": {
+    "criteria": {
+      "condition_0": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/flaming_ruby_shovel": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_block_bone_plate": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:17:53 +0000"
     },
     "done": true
   },
@@ -22149,6 +22310,18 @@
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:17:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -22182,9 +22355,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/polished_bloodstone_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/frostmourne": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/whirligig_sawblade": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -22212,9 +22409,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/forlorn_scythe": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-02-27 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
     },
     "done": true
   },
@@ -22236,9 +22445,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-02-27 21:17:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_warped": {
     "criteria": {
       "has_planks": "2025-02-27 19:27:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_slab": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
     },
     "done": true
   },
@@ -22266,9 +22487,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -22281,6 +22514,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
     },
     "done": true
   },
@@ -22320,9 +22559,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
     "criteria": {
       "has_wooden_sword": "2025-02-27 19:30:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/excalibur": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_stairs": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
     },
     "done": true
   },
@@ -22344,9 +22601,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/verdant_robe_leggings": {
     "criteria": {
       "has_evocation_robe_leggings": "2025-02-27 20:19:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonveil": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -22380,6 +22649,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/ember_robe_leggings": {
     "criteria": {
       "has_evocation_robe_leggings": "2025-02-27 20:19:02 +0000"
@@ -22410,9 +22685,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-27 21:20:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_slab": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:17:53 +0000"
     },
     "done": true
   },
@@ -22440,15 +22727,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-27 19:20:27 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dawnbreaker": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_sword": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },
@@ -22464,6 +22769,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_boat": {
     "criteria": {
       "has_warped_planks": "2025-02-27 19:27:42 +0000"
@@ -22473,6 +22784,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_bone_block": "2025-02-27 21:17:53 +0000"
     },
     "done": true
   },
@@ -22551,6 +22868,12 @@
   "betternether:recipes/combat/flaming_ruby_helmet": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-02-27 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung": {
+    "criteria": {
+      "has_lord_soul": "2025-02-27 21:13:31 +0000"
     },
     "done": true
   },

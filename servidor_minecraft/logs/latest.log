@@ -3751,3 +3751,70 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [21:14:17] [Server thread/INFO]: Nikuus has made the advancement [A Terrible Fortress]
 [21:14:39] [Server thread/INFO]: [TitoWilly: Teleported 5 entities to TitoWilly]
 [21:15:01] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=-781, minY=22, minZ=-1005, maxX=-547, maxY=96, maxZ=-771}
+[21:15:09] [Server thread/INFO]: [TitoWilly: Teleported 5 entities to TitoWilly]
+[21:15:23] [Server thread/INFO]: Brick_123 has completed the challenge [Oh, The Misery]
+[21:15:24] [Server thread/INFO]: Nikuus has completed the challenge [Steeped in Strength]
+[21:18:01] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[21:18:15] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:15] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:15] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:15] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:15] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:15] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4512ms or 90 ticks behind
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:45] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[21:18:47] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:18:51] [Worker-Main-1/WARN]: Skipping Entity with id betternether:chair
+[21:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6955ms or 139 ticks behind
+[21:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7953ms or 159 ticks behind
+[21:19:33] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[21:19:35] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[21:19:35] [Server thread/INFO]: Nikuus left the game
+[21:19:35] [Server thread/INFO]: remove player wand
+[21:19:35] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[21:19:35] [Server thread/WARN]: handleDisconnection() called twice
+[21:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7637ms or 152 ticks behind
+[21:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6612ms or 132 ticks behind
+[21:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7484ms or 149 ticks behind
+[21:20:42] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7368ms or 147 ticks behind
+[21:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[21:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[21:21:32] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 171263
+[21:21:33] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 171286
+[21:21:33] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 172094
+[21:21:33] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 168713
+[21:21:33] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 172095
+[21:21:33] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 171288
+[21:21:33] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 171287
+[21:21:34] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 172096
+[21:21:34] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 169398
+[21:21:35] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 169943
+[21:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:21:46] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frost_blizzard Entity not found: 168707
+[21:22:00] [Server thread/INFO]: TitoWilly has made the advancement [A New Protector...]
+[21:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:22:48] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 173361
+[21:22:49] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 173581
+[21:22:49] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 173582
+[21:22:52] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_meteor Entity not found: 173612
+[21:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[21:24:15] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to -517.500000, 68.500000, -464.500000]
+[21:24:19] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to -292.500000, 17.500000, -293.500000]
+[21:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
+[21:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8369ms or 167 ticks behind
+[21:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8837ms or 176 ticks behind
+[21:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8351ms or 167 ticks behind
+[21:25:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10137ms or 202 ticks behind
