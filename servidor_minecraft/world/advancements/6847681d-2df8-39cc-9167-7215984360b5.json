@@ -13831,6 +13831,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-27 00:49:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-26 23:25:06 +0000"
@@ -13885,6 +13891,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-02-27 00:49:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-02-26 22:50:16 +0000"
@@ -13900,6 +13912,12 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-02-26 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-27 00:49:49 +0000"
     },
     "done": true
   },
@@ -14029,6 +14047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-27 00:49:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-02-26 22:50:16 +0000"
@@ -14089,9 +14113,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-02-27 00:49:49 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-02-26 22:50:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-02-27 00:49:49 +0000"
     },
     "done": true
   },
@@ -14125,6 +14161,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-27 00:49:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-02-26 22:55:48 +0000"
@@ -14134,6 +14176,12 @@
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-02-26 22:50:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-02-27 00:49:49 +0000"
     },
     "done": true
   },

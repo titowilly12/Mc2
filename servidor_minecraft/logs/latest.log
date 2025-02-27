@@ -300,3 +300,63 @@
 [00:45:55] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
 [00:45:55] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
 [00:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9057ms or 181 ticks behind
+[00:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13666ms or 273 ticks behind
+[00:46:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12199ms or 243 ticks behind
+[00:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11418ms or 228 ticks behind
+[00:47:28] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[00:47:44] [Server thread/INFO]: Nikuus lost connection: Timed out
+[00:47:44] [Server thread/INFO]: Nikuus left the game
+[00:47:44] [Server thread/INFO]: remove player wand
+[00:47:44] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:47:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[00:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7669ms or 153 ticks behind
+[00:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7176ms or 143 ticks behind
+[00:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7067ms or 141 ticks behind
+[00:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8416ms or 168 ticks behind
+[00:49:36] [Server thread/INFO]: [Handshake] Sending channel query
+[00:49:37] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:49:37] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:49:38] [Server thread/INFO]: Nikuus[/127.61.205.57:47939] logged in with entity id 189224 at (1021.6819906250962, 145.0, -907.3381791669005)
+[00:49:38] [Server thread/INFO]: Sending server config values to client
+[00:49:38] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[00:49:38] [Server thread/INFO]: Loading config from file...
+[00:49:38] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:49:38] [Server thread/INFO]: Nikuus joined the game
+[00:49:38] [Server thread/INFO]: Loading Configs for Sortilege
+[00:49:38] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:49:38] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:49:38] [Server thread/INFO]: PLAYER_JOIN
+[00:49:38] [Server thread/INFO]: add_player wand
+[00:49:38] [Server thread/INFO]: config sent
+[00:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5339ms or 106 ticks behind
+[00:49:41] [Worker-Main-48/WARN]: Tried to access a block entity before it was created. class_2338{x=-1949, y=101, z=1591}
+[00:49:41] [Worker-Main-48/WARN]: Tried to access a block entity before it was created. class_2338{x=-1949, y=101, z=1591}
+[00:49:42] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[00:49:42] [Server thread/INFO]: Nikuus left the game
+[00:49:42] [Server thread/INFO]: remove player wand
+[00:49:42] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[00:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7535ms or 150 ticks behind
+[00:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
+[00:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5500ms or 110 ticks behind
+[00:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:51:03] [Worker-Main-48/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[00:51:03] [Worker-Main-48/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[00:51:03] [Worker-Main-48/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[00:51:03] [Worker-Main-48/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[00:51:03] [Worker-Main-48/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[00:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8491ms or 169 ticks behind
+[00:51:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
+[00:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5467ms or 109 ticks behind
+[00:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7389ms or 147 ticks behind
+[00:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7835ms or 156 ticks behind
+[00:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6717ms or 134 ticks behind
+[00:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6828ms or 136 ticks behind
+[00:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7028ms or 140 ticks behind
+[00:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6442ms or 128 ticks behind
+[00:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
+[00:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6349ms or 126 ticks behind
+[00:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5738ms or 114 ticks behind
+[00:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
+[00:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[00:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
+[00:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind

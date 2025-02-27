@@ -2585,6 +2585,7 @@
       "minecraft:forest": "2025-02-23 23:04:41 +0000",
       "minecraft:lush_caves": "2025-02-26 05:14:01 +0000",
       "minecraft:deep_cold_ocean": "2025-02-26 23:30:21 +0000",
+      "minecraft:ice_spikes": "2025-02-27 00:50:35 +0000",
       "minecraft:desert": "2025-02-23 21:26:37 +0000",
       "minecraft:jungle": "2025-02-23 23:04:30 +0000",
       "minecraft:ocean": "2025-02-23 23:34:35 +0000",
@@ -2592,6 +2593,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-02-23 23:57:24 +0000",
       "minecraft:flower_forest": "2025-02-25 00:08:21 +0000",
       "minecraft:deep_dark": "2025-02-27 00:24:37 +0000",
+      "minecraft:meadow": "2025-02-27 00:51:53 +0000",
       "minecraft:plains": "2025-02-23 23:04:51 +0000"
     },
     "done": false
@@ -21014,6 +21016,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21059,6 +21067,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
@@ -21200,6 +21214,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-26 23:49:38 +0000"
@@ -21215,6 +21235,12 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
     "criteria": {
       "has_rail": "2025-02-27 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
@@ -21320,6 +21346,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-26 23:30:59 +0000"
@@ -21419,6 +21451,12 @@
   "betternether:recipes/tools/cincinnasite_shears": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 00:50:15 +0000"
     },
     "done": true
   },
