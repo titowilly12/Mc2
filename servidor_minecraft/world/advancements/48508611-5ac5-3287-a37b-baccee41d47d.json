@@ -721,6 +721,7 @@
       "minecraft:pillager": "2025-02-24 07:12:03 +0000",
       "minecraft:skeleton": "2025-02-23 21:00:09 +0000",
       "minecraft:ravager": "2025-02-27 07:22:56 +0000",
+      "minecraft:ghast": "2025-02-27 18:50:41 +0000",
       "minecraft:hoglin": "2025-02-26 06:34:11 +0000",
       "minecraft:guardian": "2025-02-27 18:00:34 +0000",
       "minecraft:vindicator": "2025-02-27 07:25:09 +0000",
@@ -19113,6 +19114,36 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-02-27 18:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-02-27 18:50:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-02-27 18:20:18 +0000"
@@ -19122,6 +19153,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-02-27 18:50:43 +0000"
     },
     "done": true
   },
@@ -19137,11 +19174,35 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "betternether:flaming_armor": {
     "criteria": {
       "flaming_ruby_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-02-27 18:39:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
   },
   "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
     "criteria": {
@@ -19155,6 +19216,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
   "betternether:cincinnasite_diamond": {
     "criteria": {
       "cincinnasite_diamond": "2025-02-27 18:41:25 +0000"
@@ -19164,6 +19243,18 @@
   "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
     },
     "done": true
   },
@@ -19185,15 +19276,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "simplyswords:slumbering_lichblade": {
     "criteria": {
       "requirement": "2025-02-27 18:35:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
     },
     "done": true
   },
@@ -19209,6 +19342,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
@@ -19221,9 +19366,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-02-27 18:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
     },
     "done": true
   },
@@ -19239,9 +19414,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-27 18:58:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-02-27 18:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
     },
     "done": true
   },
@@ -19251,15 +19438,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-02-27 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
     "criteria": {
       "has_horn_coral": "2025-02-27 18:00:46 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
+    },
+    "done": true
+  },
   "betternether:city": {
     "criteria": {
       "ncity": "2025-02-27 18:29:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
     },
     "done": true
   },
@@ -19278,6 +19501,12 @@
   "justhammers:recipes/tools/netherite_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-27 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-27 18:49:18 +0000"
     },
     "done": true
   },

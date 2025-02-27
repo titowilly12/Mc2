@@ -17335,9 +17335,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-27 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-27 19:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-27 18:47:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
     },
     "done": true
   },
@@ -17353,6 +17389,36 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-27 18:47:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-02-27 18:48:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-02-27 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-02-27 19:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
@@ -17362,6 +17428,21 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-02-27 18:48:41 +0000",
+      "silicon": "2025-02-27 18:48:40 +0000",
+      "engineering": "2025-02-27 18:48:41 +0000",
+      "logic": "2025-02-27 18:48:42 +0000"
     },
     "done": true
   },
@@ -17377,6 +17458,18 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-27 18:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
@@ -17389,15 +17482,57 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-02-27 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-27 19:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
     },
     "done": true
   },
@@ -17410,6 +17545,24 @@
   "fwaystones:recipes/desert_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-02-27 18:40:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-02-27 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
     },
     "done": true
   },
@@ -17431,9 +17584,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-27 18:50:44 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/waystone_scroll": {
     "criteria": {
       "has_abyss_watcher": "2025-02-27 18:40:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-02-27 18:48:50 +0000"
     },
     "done": true
   },
@@ -17443,15 +17608,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-27 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-27 19:00:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-27 19:00:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone_smithing": {
     "criteria": {
       "has_sandstone": "2025-02-27 18:38:48 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-02-27 18:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-27 18:48:35 +0000"
     },
     "done": true
   },
