@@ -5505,6 +5505,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-26 20:12:20 +0000",
       "minecraft:spider": "2025-02-26 21:24:20 +0000",
+      "minecraft:creeper": "2025-02-27 18:30:07 +0000",
       "minecraft:witch": "2025-02-26 20:07:41 +0000",
       "minecraft:zombie": "2025-02-24 05:32:17 +0000"
     },
@@ -12382,6 +12383,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-27 18:29:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-02-27 18:14:21 +0000"
@@ -12616,6 +12623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-27 18:29:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2025-02-27 18:14:16 +0000"
@@ -12679,6 +12692,12 @@
   "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2025-02-27 18:14:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 18:29:42 +0000"
     },
     "done": true
   },

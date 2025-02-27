@@ -598,6 +598,7 @@
       "outback": "2025-02-23 21:23:08 +0000",
       "deciduous_forest": "2025-02-27 06:46:57 +0000",
       "boreal_forest": "2025-02-24 06:46:59 +0000",
+      "glistering_meadow": "2025-02-27 18:22:07 +0000",
       "infernal_holt": "2025-02-24 05:47:10 +0000",
       "bamboo_forest": "2025-02-24 02:55:52 +0000",
       "saguaro_desert": "2025-02-23 21:24:03 +0000",
@@ -15040,7 +15041,8 @@
     "criteria": {
       "mycotoxic_undergrowth": "2025-02-27 18:03:41 +0000",
       "infernal_holt": "2025-02-24 05:47:10 +0000",
-      "redstone_abyss": "2025-02-27 18:18:11 +0000"
+      "redstone_abyss": "2025-02-27 18:18:11 +0000",
+      "glistering_meadow": "2025-02-27 18:22:07 +0000"
     },
     "done": false
   },
@@ -20590,6 +20592,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-27 18:28:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-02-27 18:11:47 +0000"
@@ -20605,6 +20613,12 @@
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-02-27 18:28:36 +0000"
     },
     "done": true
   },
@@ -20699,6 +20713,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-27 18:28:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-27 18:05:53 +0000"
@@ -20777,6 +20797,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-02-27 18:28:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
@@ -20786,6 +20812,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-27 18:02:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-02-27 18:28:36 +0000"
     },
     "done": true
   },

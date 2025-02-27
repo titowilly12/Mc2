@@ -19113,6 +19113,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-02-27 18:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-27 18:09:29 +0000"
@@ -19149,6 +19155,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-27 18:20:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-02-27 18:08:41 +0000"
@@ -19161,9 +19173,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-27 18:20:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-02-27 18:20:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-02-27 18:20:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
     "criteria": {
       "has_horn_coral": "2025-02-27 18:00:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2025-02-27 18:29:59 +0000"
     },
     "done": true
   },

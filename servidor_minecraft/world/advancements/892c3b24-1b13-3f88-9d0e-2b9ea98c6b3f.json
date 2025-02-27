@@ -167,6 +167,7 @@
       "eucalyptus_forest": "2025-02-23 22:15:13 +0000",
       "outback": "2025-02-23 21:16:43 +0000",
       "deciduous_forest": "2025-02-24 05:21:16 +0000",
+      "glistering_meadow": "2025-02-27 18:23:44 +0000",
       "chalk_cliffs": "2025-02-25 02:29:55 +0000",
       "infernal_holt": "2025-02-26 06:30:09 +0000",
       "saguaro_desert": "2025-02-23 21:23:34 +0000",
@@ -15024,6 +15025,7 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-02-26 06:36:35 +0000",
       "betternether:gravel_desert": "2025-02-27 07:34:53 +0000",
+      "betternether:nether_jungle": "2025-02-27 18:24:55 +0000",
       "betternether:nether_swampland_terraces": "2025-02-26 06:29:54 +0000",
       "betternether:wart_forest": "2025-02-26 06:41:25 +0000",
       "betternether:soul_plain": "2025-02-26 06:41:56 +0000"
@@ -15033,7 +15035,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "infernal_holt": "2025-02-26 06:30:09 +0000",
-      "redstone_abyss": "2025-02-27 07:34:20 +0000"
+      "redstone_abyss": "2025-02-27 07:34:20 +0000",
+      "glistering_meadow": "2025-02-27 18:23:44 +0000"
     },
     "done": false
   },
@@ -17329,6 +17332,60 @@
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2025-02-27 07:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-27 18:26:39 +0000"
     },
     "done": true
   },
