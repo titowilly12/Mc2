@@ -18939,5 +18939,17 @@
     },
     "done": true
   },
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
+    "criteria": {
+      "got_the_netherite_fragment": "2025-02-27 22:03:12 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/obtain_frostology_cloak": {
+    "criteria": {
+      "frostology_cloak": "2025-02-27 22:02:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
