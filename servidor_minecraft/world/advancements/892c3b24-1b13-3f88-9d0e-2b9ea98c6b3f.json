@@ -18939,15 +18939,111 @@
     },
     "done": true
   },
+  "frostiful:adventure/obtain_frostology_cloak": {
+    "criteria": {
+      "frostology_cloak": "2025-02-27 22:02:44 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/gilded_netherite_fragment_recipe": {
     "criteria": {
       "got_the_netherite_fragment": "2025-02-27 22:03:12 +0000"
     },
     "done": true
   },
-  "frostiful:adventure/obtain_frostology_cloak": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "frostology_cloak": "2025-02-27 22:02:44 +0000"
+      "has_golden_carrot": "2025-02-28 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-02-27 23:44:27 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
+    "criteria": {
+      "has_ruby_upgrade_smithing_template": "2025-02-27 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 23:20:27 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 23:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-02-27 23:36:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-28 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-02-28 00:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-27 23:21:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-02-27 23:20:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-27 23:20:27 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-02-27 23:38:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 23:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-27 23:20:27 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ruby_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-02-27 23:35:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-27 23:20:27 +0000"
     },
     "done": true
   },

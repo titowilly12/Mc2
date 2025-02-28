@@ -651,6 +651,7 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-02-27 20:07:48 +0000",
       "minecraft:badlands": "2025-02-27 20:11:30 +0000",
+      "minecraft:savanna_plateau": "2025-02-27 23:44:23 +0000",
       "minecraft:beach": "2025-02-24 04:58:00 +0000",
       "minecraft:stony_peaks": "2025-02-27 20:25:39 +0000",
       "minecraft:mangrove_swamp": "2025-02-26 20:43:38 +0000",
@@ -8266,6 +8267,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2025-02-27 23:05:19 +0000",
       "redwood_log": "2025-02-24 20:24:32 +0000"
     },
     "done": false
@@ -14580,9 +14582,33 @@
     },
     "done": false
   },
-  "fwaystones:recipes/void_totem": {
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
-      "has_totem_of_undying": "2025-02-27 22:09:38 +0000"
+      "has_soul_soil": "2025-02-27 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-27 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-27 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-02-27 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-02-27 21:56:05 +0000"
     },
     "done": true
   },
@@ -14592,45 +14618,21 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+      "has_flint": "2025-02-27 22:01:35 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "oxidized:recipes/copper_trap": {
     "criteria": {
-      "tamed_animal": "2025-02-27 22:31:25 +0000"
+      "has_flint": "2025-02-27 22:01:35 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/bows/bow_shivering_bow": {
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
-      "has_blue_ice": "2025-02-27 22:08:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/redstone_root": {
-    "criteria": {
-      "has_item": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+      "has_flint": "2025-02-27 22:01:35 +0000"
     },
     "done": true
   },
@@ -14646,72 +14648,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-02-27 22:29:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
-    "criteria": {
-      "has_soul_soil": "2025-02-27 21:48:00 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/redstone": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/gilded_glory_boots": {
-    "criteria": {
-      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/gray_dye_from_dead_horn_coral": {
-    "criteria": {
-      "has_dead_horn_coral": "2025-02-27 22:27:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/gemstone_red": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-02-27 22:01:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 22:05:29 +0000"
@@ -14721,42 +14657,6 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 22:05:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-02-27 21:48:00 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
-    "criteria": {
-      "has_totem_of_undying": "2025-02-27 22:09:38 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
-    "criteria": {
-      "has_dusts/redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "oxidized:recipes/copper_trap": {
-    "criteria": {
-      "has_flint": "2025-02-27 22:01:35 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 22:08:10 +0000"
     },
     "done": true
   },
@@ -14784,52 +14684,9 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_evoker": "2025-02-27 22:09:31 +0000",
-      "killed_illusioner": "2025-02-27 22:10:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 22:05:29 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 22:08:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/raw_redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
-    "criteria": {
-      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-02-27 22:13:15 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
-    "criteria": {
-      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-27 22:06:27 +0000"
     },
     "done": true
   },
@@ -14851,12 +14708,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/item_cell_housing": {
-    "criteria": {
-      "has_dusts/redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 22:05:29 +0000"
@@ -14869,69 +14720,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/redstone": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 22:08:10 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
-    "criteria": {
-      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_lever": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-02-27 21:48:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 22:05:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redstone_bud": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice": {
-    "criteria": {
-      "has_blue_ice": "2025-02-27 22:08:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-02-27 22:08:34 +0000"
     },
     "done": true
   },
@@ -14947,6 +14738,192 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-27 22:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-27 22:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-27 22:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-27 22:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-27 22:06:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-02-27 22:06:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-27 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/redstone": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-27 22:08:34 +0000"
+    },
+    "done": true
+  },
   "beachparty:radio": {
     "criteria": {
       "has_redstone": "2025-02-27 22:08:34 +0000"
@@ -14956,12 +14933,6 @@
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2025-02-27 21:56:05 +0000"
     },
     "done": true
   },
@@ -14977,12 +14948,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-02-27 22:05:29 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-02-27 22:08:34 +0000"
@@ -14995,27 +14960,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-02-27 22:05:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/gravel": {
-    "criteria": {
-      "has_flint": "2025-02-27 22:01:35 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_banner": {
-    "criteria": {
-      "has_banner": "2025-02-27 22:06:27 +0000"
     },
     "done": true
   },
@@ -15025,21 +14972,9 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/gilded_glory_leggings": {
-    "criteria": {
-      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-02-27 22:08:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-02-27 22:05:29 +0000"
     },
     "done": true
   },
@@ -15055,12 +14990,6 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/kill_illusioner": {
-    "criteria": {
-      "killed_illusioner": "2025-02-27 22:10:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-02-27 22:08:34 +0000"
@@ -15073,15 +15002,58 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+  "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "has_gravel": "2025-02-27 22:05:29 +0000"
+      "killed_evoker": "2025-02-27 22:09:31 +0000",
+      "killed_illusioner": "2025-02-27 22:10:53 +0000"
+    },
+    "done": false
+  },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-27 22:09:38 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/soul_soil": {
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
     "criteria": {
-      "has_soul_soil": "2025-02-27 21:48:00 +0000"
+      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-27 22:09:38 +0000"
     },
     "done": true
   },
@@ -15094,6 +15066,198 @@
   "mcda:recipes/unique_armors/gilded_glory_helmet": {
     "criteria": {
       "has_upgrade_item": "2025-02-27 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-27 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-27 22:13:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/gray_dye_from_dead_horn_coral": {
+    "criteria": {
+      "has_dead_horn_coral": "2025-02-27 22:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-27 22:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-27 22:31:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-27 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-27 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-02-27 23:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-02-27 23:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-02-27 23:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_sapling": "2025-02-27 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-02-27 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-02-27 23:06:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-02-27 23:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-02-27 23:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-02-27 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-02-27 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-02-27 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 23:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 23:42:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 23:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 23:42:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 23:46:43 +0000"
     },
     "done": true
   },
